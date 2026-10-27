@@ -37,10 +37,9 @@ GALLERY=[('01_categories','Comparer : les catégories','Barres : comparer des ve
 
 def exercise(block,lesson,i):
     e=lesson['exercise']
-    body=f'<article class="exercise" id="exercice-{i}"><p class="eyebrow">Petit exercice {i:02}</p><h3>{e["title"]}</h3><p><strong>Objectif :</strong> {e["objective"]} <strong>Prérequis :</strong> {e["prereq"]}</p><p>{e["prompt"]}</p>'
+    body=f'<article class="exercise" id="exercice-{i}"><p class="eyebrow">Exercice {i:02}</p><h3>{e["title"]}</h3><p>{e["prompt"]}</p>'
     if e['starter'].strip()!='# À vous de jouer.':body+=code(e['starter'])
-    body+=f'<p><strong>Livrable :</strong> {e["deliverable"]} <strong>Critères de réussite :</strong> {e["success"]}</p><p class="small">Travaillez sur les données fournies, sans saisir les résultats attendus à la place du calcul.</p>'
-    body+=''.join(details(f'Indice {j}',f'<p>{h}</p>') for j,h in enumerate(e['hints'],1))
+    body+=f'<p><strong>À rendre :</strong> {e["deliverable"]}</p>'
     body+='</article>'
     return body
 
@@ -61,13 +60,13 @@ def revision(block):
     text='<h2>Retenir avant le QCM.</h2><h3>Fiche de révision</h3><div class="revision-grid">'+''.join(f'<p><strong>{a}</strong><br>{b}</p>' for a,b in REVISIONS[n])+'</div><h3>Erreurs fréquentes</h3>'
     text+=('<p>Tracer les lignes brutes comme si elles étaient déjà additionnées ; trier les montants seuls ; omettre unité ou périmètre ; lire un nombre de lignes comme un nombre de commandes.</p>' if n==1 else '<p>Calculer sur des mois désordonnés ; sommer des pourcentages de variation ; remplacer les NaN par zéro ; diviser par zéro ; moyenner des taux pour obtenir le ratio global.</p><p>Dans notre tableau les dénominateurs sont positifs. Avec une référence ou un total nul, le ratio est indéfini : il faut le signaler, pas inventer 0 %. Avec des mois absents, vérifier le calendrier avant pct_change ou rolling.</p>')
     text+='<h3>Questions de révision</h3><ol>'+''.join(f'<li>{q}</li>' for q in QUESTIONS[n])+'</ol><h3>Résumé final</h3><p>'+('Préparez les valeurs avec pandas. Choisissez la représentation selon la question. Ciblez un Axes, rendez le titre et l’unité explicites, contrôlez les chiffres et exportez. Rejouez le carnet depuis un noyau neuf.' if n==1 else 'Un indicateur dépend de son dénominateur et de son périmètre. Variation, évolution et cumul répondent à des questions différentes. Le lissage décrit le passé ; le ratio de sommes mesure la marge globale sur CA. Confrontez chaque graphique aux chiffres avant de conclure.')+'</p>'
-    text+=f'<div class="quiz-invitation"><div><p class="eyebrow">Fin du bloc {n:02}</p><h3>QCM avec feedback</h3><p>Choisissez une réponse, puis lisez son explication avant de poursuivre.</p></div><a class="button primary" href="../qcm/{block["slug"]}.html#quiz-panel">Faire le QCM →</a></div>'
+    text+=f'<div class="quiz-invitation"><div><p class="eyebrow">Fin du bloc {n:02}</p><h3>QCM</h3><p>Répondez à toutes les questions avant de consulter le bilan et les explications.</p></div><a class="button primary" href="../qcm/{block["slug"]}.html#quiz-panel">Faire le QCM →</a></div>'
     text+='<p class="source">Références : <a href="https://matplotlib.org/stable/users/explain/quick_start.html">Matplotlib</a> · <a href="https://seaborn.pydata.org/tutorial/introduction.html">Seaborn</a> · <a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.pct_change.html">pct_change</a> · <a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.rolling.html">rolling</a>.</p>'
     return text
 
 def quiz_sections(block):
     flash='<h2>Se rappeler avant de choisir.</h2><p>Répondez de mémoire, puis révélez l’explication.</p><p id="recall-counter" class="recall-counter" aria-live="polite" hidden></p>'+''.join(f'<article class="recall-card"><span class="mini-label">Carte {i}</span><h3>{q}</h3>'+details('Révéler la réponse',f'<p>{a}</p>')+'</article>' for i,(q,a) in enumerate(block['flash'],1))+'<div class="recall-controls" hidden><button class="button" id="recall-prev">← Précédente</button><button class="button primary" id="recall-next">Suivante →</button></div>'
-    quiz='<h2>Vérifier ses choix.</h2><p>Une réponse par question. Le feedback explique la bonne réponse après chaque choix. Le score est local à cette page.</p><form id="quiz">'
+    quiz='<h2>Vérifier ses choix.</h2><p>Répondez aux questions l’une après l’autre. Le score et les explications apparaissent à la fin.</p><form id="quiz">'
     for i,(q,options,answer,exp) in enumerate(block['quiz']):
         quiz+=f'<fieldset data-answer="{answer}"><legend>{i+1}. {html.escape(q)}</legend>'+''.join(f'<label class="quiz-option"><input type="radio" name="q{i}" value="{j}"><span>{html.escape(o)}</span></label>' for j,o in enumerate(options))+f'<p class="quiz-feedback" data-explanation="{html.escape(exp,quote=True)}" aria-live="polite" hidden></p></fieldset>'
     quiz+='<div class="actions"><button class="button primary" type="submit">Vérifier</button><button class="button" type="reset">Recommencer</button></div><p id="quiz-score" role="status"></p></form><noscript><p>Activez JavaScript pour le feedback interactif, ou consultez les réponses ci-dessous.</p></noscript>'+details('Correction complète après le QCM','<ol>'+''.join(f'<li><strong>{html.escape(opts[a])}.</strong> {exp}</li>' for _,opts,a,exp in block['quiz'])+'</ol>')
@@ -87,13 +86,16 @@ def notebooks(block):
             cells.append(cell('markdown',lesson['text']))
             if lesson.get('gallery'):
                 cells.append(cell('markdown','\n\n'.join(f'### {title}\n![{alt}](../data/visuels/{name}.png)' for name,title,alt in GALLERY)))
-            elif lesson.get('figure'):
+            elif lesson.get('figure') and not lesson['code']:
                 cells.append(cell('markdown',f'![{lesson["alt"]}](../data/visuels/{lesson["figure"]}.png)'))
             if lesson.get('before_code'):cells.extend([cell('code',lesson['before_code']),cell('markdown','### Même histogramme avec Seaborn')])
             if lesson['code']:cells.append(cell('code',lesson['code']))
             if lesson['reading']:cells.append(cell('markdown','### '+('Lecture du code et résultat' if lesson['code'] else 'Comment lire la figure')+'\n'+lesson['reading']))
+            if not lesson.get('exercise'):
+                continue
             e=lesson['exercise']
-            cells.append(cell('markdown',f'## Petit exercice {i} — {e["title"]}\n\n**Objectif :** {e["objective"]} **Prérequis :** {e["prereq"]}\n\n{e["prompt"]}\n\n**Livrable :** {e["deliverable"]}\n\n**Réussite :** {e["success"]}\n\nContrainte : utiliser les données fournies et les méthodes déjà présentées.\n\n'+''.join(details(f'Indice {j}',f'<p>{h}</p>') for j,h in enumerate(e['hints'],1))))
+            ex_index=sum(1 for prior in block['lessons'][:i] if prior.get('exercise'))
+            cells.append(cell('markdown',f'## Exercice {ex_index} — {e["title"]}\n\n{e["prompt"]}\n\n**À rendre :** {e["deliverable"]}'))
             if corrected:
                 if e['solution']:cells.append(cell('code',e['solution']))
                 cells.append(cell('markdown','### Correction collective\n'+e['answer']))
@@ -114,6 +116,7 @@ def main():
         intro=INTRO1 if block['n']==1 else INTRO2+code(block['setup'])+'<h3>Lecture du code</h3><p>DataFrame crée la petite table. date_range produit les six débuts de mois (MS). sort_values impose l’ordre chronologique ; reset_index renumérote les lignes ; strftime prépare des étiquettes mois/année. Les ventes et profits restent numériques.</p>'+code(MONTHLY)+figure('02_mensuel','Ventes mensuelles : 10 000, 12 000, 9 000, 15 000, 18 000 puis 16 500 euros.')
         sections=[('sandbox','Introduction',intro)]
         corrections=[('mode','Correction collective','<h2>Comparer après chaque essai.</h2><p>Reprenez les cellules de démonstration du bloc dans l’ordre avant les corrections. Les solutions réutilisent leurs variables. Plusieurs titres ou couleurs sont possibles ; les calculs et leurs références doivent rester justes.</p>')]
+        exercise_index=0
         for i,lesson in enumerate(block['lessons'],1):
             body=lesson['text']
             if lesson.get('gallery'):
@@ -126,13 +129,15 @@ def main():
                 body+=figure('02_mensuel','Ventes mensuelles : baisse de 18 000 à 16 500 euros entre mai et juin.','Comparer avec les montants mensuels. Les deux graphiques ont leurs propres échelles : lire les axes, pas seulement la hauteur des points.')
                 body+=table(['Mois','Ventes (€)','Variation mensuelle','Évolution / janvier','Cumul (€)'],SUMMARY_ROWS)
             if lesson['reading']:body+='<h3>'+('Lecture du code et résultat' if lesson['code'] else 'Comment lire la figure')+'</h3><p>'+lesson['reading']+'</p>'
-            body+=exercise(block,lesson,i)
+            if lesson.get('exercise'):
+                exercise_index+=1
+                body+=exercise(block,lesson,exercise_index)
+                e=lesson['exercise']
+                answer=f'<h2>{e["title"]}</h2><p><strong>Question :</strong> {e["prompt"]}</p>'
+                if e['solution']:answer+=code(e['solution'])
+                answer+=f'<h3>Résultat et explication</h3><p>{e["answer"]}</p><a class="button" href="{block["slug"]}.html#{lesson["id"]}">← Revenir à l’exemple et à l’exercice</a>'
+                corrections.append((f'correction-{exercise_index}',f'Exercice {exercise_index:02}',answer))
             sections.append((lesson['id'],lesson['title'],body))
-            e=lesson['exercise']
-            answer=f'<h2>{e["title"]}</h2><p><strong>Question :</strong> {e["prompt"]}</p>'
-            if e['solution']:answer+=code(e['solution'])
-            answer+=f'<h3>Résultat et explication</h3><p>{e["answer"]}</p><p><strong>À faire verbaliser :</strong> {e["success"]}</p><a class="button" href="{block["slug"]}.html#{lesson["id"]}">← Revenir à l’exemple et à l’exercice</a>'
-            corrections.append((f'correction-{i}',f'Exercice {i:02}',answer))
         sections.append(('projet','Le fil rouge',PROJECT))
         if block['n']==2:sections.append(('powerbi','Passerelle facultative',BRIDGE))
         sections.append(('revision','Fin de bloc · QCM',revision(block)))
