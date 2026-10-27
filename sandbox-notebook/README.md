@@ -2,6 +2,13 @@
 
 Ouvrir `notebooks/00_test_postgres.ipynb` pour vérifier PostgreSQL, puis `notebooks/01_comprendre_graphiques.ipynb` et `notebooks/02_indicateurs.ipynb` pour les deux blocs. Le cours est dans le dossier `docs` du kit complet ; le notebook contient les consignes nécessaires pour travailler seul.
 
+
+## Cours Superstore
+
+Le parcours [cours-superstore](../docs/index.html) utilise la feuille `Orders` du classeur `data/sample_-_superstore.xls`. Depuis la racine du dépôt, reconstruire puis lancer cette sandbox ; les nouveaux carnets étudiants apparaissent dans `notebooks/00_demarrage.ipynb` et `notebooks/01_exploration.ipynb` à `06_boxplots_avance.ipynb`, ainsi que `notebooks/tp_binomes.ipynb`. Le classeur est monté en lecture seule. Le générateur du cours synchronise ces carnets, jamais les corrigés formateur.
+
+Le chargement du `.xls` nécessite `xlrd`; il est ajouté à `requirements.txt`. Reconstruisez l’image après cette modification. Les exercices du cours utilisent pandas et Matplotlib ; ils ne se connectent pas à PostgreSQL.
+
 ## Avec une sandbox Jupyter existante
 
 Importer ensemble `notebooks/`, `data/` et `resultats/`, puis choisir un noyau Python disposant de pandas, Matplotlib et Seaborn. Les exemples utilisent les chemins Docker `/workspace/data` et `/workspace/resultats` : dans un autre environnement, adapter ces chemins et créer le dossier des exports avant de lancer les figures. Les versions de référence sont fixées dans `requirements.txt`.

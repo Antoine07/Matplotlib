@@ -1,0 +1,2275 @@
+﻿Ligne,Commande,Date,Region,Canal,Categorie,Produit,Quantite,Chiffre_affaires,Cout_achat
+L00006,C2025-00004,2025-01-01,Ouest,En ligne,Accessoires,Souris,2,66.50,30.00
+L00050,C2025-00028,2025-01-01,Ouest,Magasin,Accessoires,Câble,1,17.10,5.00
+L00051,C2025-00028,2025-01-01,Ouest,Magasin,Maison,Lampe,2,117.00,74.00
+L00052,C2025-00028,2025-01-01,Ouest,Magasin,Sport,Gourde,2,45.00,22.00
+L00087,C2025-00048,2025-01-01,Est,Magasin,Accessoires,Support,1,28.00,10.00
+L00088,C2025-00048,2025-01-01,Est,Magasin,Accessoires,Câble,1,18.00,5.00
+L00093,C2025-00052,2025-01-01,Nord,En ligne,Accessoires,Support,2,53.20,20.00
+L00094,C2025-00052,2025-01-01,Nord,En ligne,Maison,Chaise,3,399.00,285.00
+L00095,C2025-00052,2025-01-01,Nord,En ligne,Accessoires,Câble,3,45.90,15.00
+L00096,C2025-00053,2025-01-01,Sud,En ligne,Informatique,Clavier,1,72.25,55.00
+L00104,C2025-00059,2025-01-01,Sud,Magasin,Sport,Gourde,1,25.00,11.00
+L00105,C2025-00059,2025-01-01,Sud,Magasin,Maison,Étagère,2,342.00,258.00
+L00010,C2025-00007,2025-01-02,Nord,Magasin,Sport,Sac,1,70.00,38.00
+L00011,C2025-00007,2025-01-02,Nord,Magasin,Informatique,Clavier,3,255.00,165.00
+L00033,C2025-00020,2025-01-03,Ouest,En ligne,Informatique,Casque,3,313.50,216.00
+L00034,C2025-00020,2025-01-03,Ouest,En ligne,Accessoires,Câble,2,32.40,10.00
+L00037,C2025-00022,2025-01-03,Est,En ligne,Informatique,Écran,1,228.00,192.00
+L00038,C2025-00022,2025-01-03,Est,En ligne,Informatique,Écran,2,432.00,384.00
+L00064,C2025-00034,2025-01-03,Nord,Magasin,Sport,Tapis,3,121.50,69.00
+L00065,C2025-00034,2025-01-03,Nord,Magasin,Informatique,Écran,1,240.00,192.00
+L00092,C2025-00051,2025-01-04,Sud,En ligne,Accessoires,Souris,2,63.00,30.00
+L00001,C2025-00001,2025-01-05,Nord,En ligne,Informatique,Écran,1,228.00,192.00
+L00002,C2025-00001,2025-01-05,Nord,En ligne,Maison,Lampe,2,110.50,74.00
+L00021,C2025-00013,2025-01-05,Ouest,Magasin,Informatique,Écran,3,720.00,576.00
+L00022,C2025-00013,2025-01-05,Ouest,Magasin,Informatique,Clavier,3,242.25,165.00
+L00023,C2025-00013,2025-01-05,Ouest,Magasin,Maison,Étagère,2,342.00,258.00
+L00028,C2025-00016,2025-01-05,Ouest,En ligne,Informatique,Casque,1,99.00,72.00
+L00031,C2025-00018,2025-01-05,Sud,En ligne,Accessoires,Câble,3,45.90,15.00
+L00047,C2025-00027,2025-01-05,Nord,En ligne,Informatique,Écran,3,648.00,576.00
+L00048,C2025-00027,2025-01-05,Nord,En ligne,Informatique,Écran,1,204.00,192.00
+L00049,C2025-00027,2025-01-05,Nord,En ligne,Maison,Lampe,1,58.50,37.00
+L00085,C2025-00046,2025-01-05,Sud,En ligne,Informatique,Casque,1,99.00,72.00
+L00107,C2025-00061,2025-01-05,Ouest,En ligne,Maison,Lampe,2,110.50,74.00
+L00108,C2025-00061,2025-01-05,Ouest,En ligne,Informatique,Casque,1,99.00,72.00
+L00114,C2025-00065,2025-01-05,Est,Magasin,Sport,Gourde,3,67.50,33.00
+L00115,C2025-00065,2025-01-05,Est,Magasin,Maison,Lampe,2,130.00,74.00
+L00116,C2025-00065,2025-01-05,Est,Magasin,Sport,Sac,1,70.00,38.00
+L00024,C2025-00014,2025-01-06,Nord,Magasin,Sport,Sac,2,140.00,76.00
+L00025,C2025-00015,2025-01-06,Sud,Magasin,Maison,Lampe,3,195.00,111.00
+L00026,C2025-00015,2025-01-06,Sud,Magasin,Informatique,Casque,3,313.50,216.00
+L00027,C2025-00015,2025-01-06,Sud,Magasin,Informatique,Écran,1,228.00,192.00
+L00109,C2025-00062,2025-01-06,Nord,Magasin,Sport,Gourde,3,75.00,33.00
+L00110,C2025-00063,2025-01-06,Ouest,Magasin,Sport,Tapis,2,85.50,46.00
+L00111,C2025-00063,2025-01-06,Ouest,Magasin,Sport,Sac,3,199.50,114.00
+L00112,C2025-00063,2025-01-06,Ouest,Magasin,Informatique,Écran,1,240.00,192.00
+L00046,C2025-00026,2025-01-07,Ouest,Magasin,Maison,Lampe,2,117.00,74.00
+L00068,C2025-00037,2025-01-07,Nord,Magasin,Accessoires,Câble,1,17.10,5.00
+L00089,C2025-00049,2025-01-07,Sud,En ligne,Sport,Gourde,1,22.50,11.00
+L00090,C2025-00049,2025-01-07,Sud,En ligne,Accessoires,Souris,3,99.75,45.00
+L00012,C2025-00008,2025-01-08,Nord,Magasin,Informatique,Casque,1,104.50,72.00
+L00013,C2025-00008,2025-01-08,Nord,Magasin,Informatique,Clavier,2,170.00,110.00
+L00014,C2025-00008,2025-01-08,Nord,Magasin,Informatique,Écran,3,720.00,576.00
+L00020,C2025-00012,2025-01-08,Nord,En ligne,Informatique,Clavier,2,153.00,110.00
+L00007,C2025-00005,2025-01-09,Nord,En ligne,Sport,Sac,2,133.00,76.00
+L00008,C2025-00005,2025-01-09,Nord,En ligne,Informatique,Écran,3,612.00,576.00
+L00071,C2025-00039,2025-01-09,Ouest,En ligne,Informatique,Casque,2,209.00,144.00
+L00119,C2025-00067,2025-01-09,Nord,Magasin,Informatique,Clavier,1,80.75,55.00
+L00120,C2025-00067,2025-01-09,Nord,Magasin,Accessoires,Câble,2,32.40,10.00
+L00097,C2025-00054,2025-01-10,Sud,Magasin,Sport,Tapis,1,42.75,23.00
+L00098,C2025-00054,2025-01-10,Sud,Magasin,Maison,Chaise,3,420.00,285.00
+L00077,C2025-00042,2025-01-11,Nord,Magasin,Accessoires,Souris,3,99.75,45.00
+L00019,C2025-00011,2025-01-12,Sud,Magasin,Informatique,Casque,2,220.00,144.00
+L00017,C2025-00010,2025-01-13,Sud,Magasin,Accessoires,Support,1,28.00,10.00
+L00018,C2025-00010,2025-01-13,Sud,Magasin,Maison,Chaise,1,126.00,95.00
+L00069,C2025-00038,2025-01-13,Sud,En ligne,Informatique,Casque,3,313.50,216.00
+L00070,C2025-00038,2025-01-13,Sud,En ligne,Accessoires,Souris,1,31.50,15.00
+L00081,C2025-00044,2025-01-13,Ouest,Magasin,Sport,Gourde,1,25.00,11.00
+L00082,C2025-00044,2025-01-13,Ouest,Magasin,Informatique,Écran,2,480.00,384.00
+L00067,C2025-00036,2025-01-14,Ouest,Magasin,Informatique,Écran,1,216.00,192.00
+L00102,C2025-00057,2025-01-14,Est,Magasin,Accessoires,Souris,3,105.00,45.00
+L00103,C2025-00058,2025-01-14,Ouest,Magasin,Accessoires,Souris,1,35.00,15.00
+L00121,C2025-00068,2025-01-15,Sud,Magasin,Informatique,Clavier,1,85.00,55.00
+L00122,C2025-00068,2025-01-15,Sud,Magasin,Informatique,Clavier,2,170.00,110.00
+L00126,C2025-00070,2025-01-15,Nord,En ligne,Sport,Tapis,1,40.50,23.00
+L00127,C2025-00070,2025-01-15,Nord,En ligne,Informatique,Clavier,3,242.25,165.00
+L00005,C2025-00003,2025-01-16,Ouest,Magasin,Accessoires,Support,2,56.00,20.00
+L00062,C2025-00033,2025-01-17,Nord,Magasin,Sport,Gourde,3,67.50,33.00
+L00063,C2025-00033,2025-01-17,Nord,Magasin,Accessoires,Souris,1,31.50,15.00
+L00003,C2025-00002,2025-01-18,Ouest,Magasin,Sport,Gourde,2,50.00,22.00
+L00004,C2025-00002,2025-01-18,Ouest,Magasin,Sport,Tapis,1,45.00,23.00
+L00086,C2025-00047,2025-01-18,Sud,Magasin,Accessoires,Souris,3,99.75,45.00
+L00091,C2025-00050,2025-01-18,Est,Magasin,Informatique,Clavier,3,242.25,165.00
+L00117,C2025-00066,2025-01-18,Ouest,Magasin,Accessoires,Souris,1,33.25,15.00
+L00118,C2025-00066,2025-01-18,Ouest,Magasin,Informatique,Écran,2,480.00,384.00
+L00078,C2025-00043,2025-01-20,Nord,En ligne,Informatique,Écran,3,648.00,576.00
+L00079,C2025-00043,2025-01-20,Nord,En ligne,Sport,Gourde,3,71.25,33.00
+L00080,C2025-00043,2025-01-20,Nord,En ligne,Accessoires,Souris,1,33.25,15.00
+L00009,C2025-00006,2025-01-21,Ouest,Magasin,Informatique,Casque,3,330.00,216.00
+L00044,C2025-00025,2025-01-22,Sud,Magasin,Accessoires,Câble,2,32.40,10.00
+L00045,C2025-00025,2025-01-22,Sud,Magasin,Informatique,Casque,3,330.00,216.00
+L00072,C2025-00040,2025-01-22,Est,Magasin,Informatique,Casque,1,99.00,72.00
+L00073,C2025-00040,2025-01-22,Est,Magasin,Informatique,Casque,3,297.00,216.00
+L00074,C2025-00040,2025-01-22,Est,Magasin,Informatique,Casque,2,209.00,144.00
+L00106,C2025-00060,2025-01-22,Nord,Magasin,Accessoires,Support,3,84.00,30.00
+L00060,C2025-00032,2025-01-23,Nord,Magasin,Informatique,Écran,1,240.00,192.00
+L00061,C2025-00032,2025-01-23,Nord,Magasin,Accessoires,Câble,2,36.00,10.00
+L00075,C2025-00041,2025-01-23,Sud,En ligne,Maison,Chaise,1,133.00,95.00
+L00076,C2025-00041,2025-01-23,Sud,En ligne,Maison,Lampe,2,123.50,74.00
+L00083,C2025-00045,2025-01-23,Sud,En ligne,Accessoires,Souris,3,89.25,45.00
+L00084,C2025-00045,2025-01-23,Sud,En ligne,Accessoires,Souris,2,63.00,30.00
+L00123,C2025-00069,2025-01-23,Nord,Magasin,Sport,Tapis,3,128.25,69.00
+L00124,C2025-00069,2025-01-23,Nord,Magasin,Informatique,Écran,3,648.00,576.00
+L00125,C2025-00069,2025-01-23,Nord,Magasin,Informatique,Écran,2,480.00,384.00
+L00032,C2025-00019,2025-01-24,Sud,Magasin,Sport,Sac,1,66.50,38.00
+L00029,C2025-00017,2025-01-26,Nord,En ligne,Sport,Gourde,1,23.75,11.00
+L00030,C2025-00017,2025-01-26,Nord,En ligne,Informatique,Écran,1,228.00,192.00
+L00039,C2025-00023,2025-01-26,Est,En ligne,Sport,Gourde,3,71.25,33.00
+L00040,C2025-00023,2025-01-26,Est,En ligne,Informatique,Clavier,3,242.25,165.00
+L00041,C2025-00023,2025-01-26,Est,En ligne,Accessoires,Souris,1,31.50,15.00
+L00056,C2025-00030,2025-01-26,Ouest,Magasin,Maison,Étagère,3,541.50,387.00
+L00057,C2025-00030,2025-01-26,Ouest,Magasin,Sport,Tapis,2,90.00,46.00
+L00058,C2025-00030,2025-01-26,Ouest,Magasin,Sport,Gourde,1,25.00,11.00
+L00099,C2025-00055,2025-01-26,Ouest,Magasin,Accessoires,Support,3,84.00,30.00
+L00100,C2025-00055,2025-01-26,Ouest,Magasin,Sport,Gourde,3,71.25,33.00
+L00015,C2025-00009,2025-01-28,Est,En ligne,Informatique,Écran,2,408.00,384.00
+L00016,C2025-00009,2025-01-28,Est,En ligne,Informatique,Casque,3,313.50,216.00
+L00059,C2025-00031,2025-01-28,Est,En ligne,Informatique,Écran,1,228.00,192.00
+L00113,C2025-00064,2025-01-28,Ouest,En ligne,Accessoires,Souris,1,33.25,15.00
+L00035,C2025-00021,2025-01-29,Ouest,Magasin,Maison,Étagère,2,380.00,258.00
+L00036,C2025-00021,2025-01-29,Ouest,Magasin,Informatique,Clavier,1,85.00,55.00
+L00066,C2025-00035,2025-01-30,Nord,En ligne,Sport,Gourde,2,42.50,22.00
+L00101,C2025-00056,2025-01-30,Ouest,Magasin,Informatique,Casque,2,209.00,144.00
+L00042,C2025-00024,2025-01-31,Nord,En ligne,Sport,Sac,2,126.00,76.00
+L00043,C2025-00024,2025-01-31,Nord,En ligne,Accessoires,Souris,3,89.25,45.00
+L00053,C2025-00029,2025-01-31,Est,Magasin,Informatique,Casque,3,297.00,216.00
+L00054,C2025-00029,2025-01-31,Est,Magasin,Sport,Tapis,1,45.00,23.00
+L00055,C2025-00029,2025-01-31,Est,Magasin,Accessoires,Souris,2,66.50,30.00
+L00139,C2025-00078,2025-02-02,Ouest,Magasin,Maison,Chaise,1,140.00,95.00
+L00193,C2025-00105,2025-02-02,Sud,Magasin,Informatique,Clavier,2,161.50,110.00
+L00128,C2025-00071,2025-02-03,Sud,Magasin,Accessoires,Souris,2,70.00,30.00
+L00132,C2025-00074,2025-02-03,Ouest,Magasin,Informatique,Écran,3,720.00,576.00
+L00142,C2025-00080,2025-02-03,Est,Magasin,Informatique,Casque,1,110.00,72.00
+L00143,C2025-00080,2025-02-03,Est,Magasin,Accessoires,Support,1,28.00,10.00
+L00190,C2025-00104,2025-02-03,Nord,Magasin,Informatique,Casque,1,110.00,72.00
+L00191,C2025-00104,2025-02-03,Nord,Magasin,Accessoires,Souris,1,35.00,15.00
+L00192,C2025-00104,2025-02-03,Nord,Magasin,Accessoires,Câble,1,16.20,5.00
+L00214,C2025-00116,2025-02-03,Nord,Magasin,Maison,Étagère,1,190.00,129.00
+L00215,C2025-00116,2025-02-03,Nord,Magasin,Informatique,Clavier,3,255.00,165.00
+L00216,C2025-00116,2025-02-03,Nord,Magasin,Maison,Chaise,2,252.00,190.00
+L00252,C2025-00136,2025-02-03,Sud,Magasin,Accessoires,Câble,1,17.10,5.00
+L00253,C2025-00136,2025-02-03,Sud,Magasin,Accessoires,Câble,2,36.00,10.00
+L00137,C2025-00077,2025-02-04,Ouest,En ligne,Accessoires,Souris,2,66.50,30.00
+L00138,C2025-00077,2025-02-04,Ouest,En ligne,Accessoires,Souris,2,63.00,30.00
+L00140,C2025-00079,2025-02-04,Est,Magasin,Maison,Lampe,2,123.50,74.00
+L00141,C2025-00079,2025-02-04,Est,Magasin,Accessoires,Support,1,28.00,10.00
+L00147,C2025-00083,2025-02-04,Nord,En ligne,Informatique,Casque,2,209.00,144.00
+L00148,C2025-00083,2025-02-04,Nord,En ligne,Informatique,Écran,2,456.00,384.00
+L00149,C2025-00083,2025-02-04,Nord,En ligne,Informatique,Clavier,2,144.50,110.00
+L00197,C2025-00108,2025-02-04,Ouest,Magasin,Maison,Chaise,3,420.00,285.00
+L00198,C2025-00108,2025-02-04,Ouest,Magasin,Maison,Chaise,1,133.00,95.00
+L00248,C2025-00133,2025-02-04,Sud,En ligne,Informatique,Clavier,1,76.50,55.00
+L00249,C2025-00133,2025-02-04,Sud,En ligne,Sport,Gourde,1,23.75,11.00
+L00129,C2025-00072,2025-02-05,Ouest,En ligne,Maison,Étagère,2,323.00,258.00
+L00130,C2025-00073,2025-02-05,Ouest,Magasin,Accessoires,Support,2,56.00,20.00
+L00131,C2025-00073,2025-02-05,Ouest,Magasin,Accessoires,Souris,1,33.25,15.00
+L00150,C2025-00084,2025-02-05,Nord,Magasin,Sport,Sac,3,210.00,114.00
+L00151,C2025-00084,2025-02-05,Nord,Magasin,Maison,Étagère,1,180.50,129.00
+L00152,C2025-00084,2025-02-05,Nord,Magasin,Accessoires,Support,2,50.40,20.00
+L00188,C2025-00103,2025-02-05,Nord,Magasin,Informatique,Casque,2,220.00,144.00
+L00189,C2025-00103,2025-02-05,Nord,Magasin,Maison,Étagère,3,513.00,387.00
+L00194,C2025-00106,2025-02-05,Ouest,Magasin,Accessoires,Souris,2,70.00,30.00
+L00220,C2025-00118,2025-02-05,Nord,Magasin,Maison,Chaise,2,252.00,190.00
+L00221,C2025-00118,2025-02-05,Nord,Magasin,Informatique,Casque,3,330.00,216.00
+L00222,C2025-00118,2025-02-05,Nord,Magasin,Informatique,Écran,2,456.00,384.00
+L00134,C2025-00076,2025-02-06,Sud,Magasin,Accessoires,Souris,2,63.00,30.00
+L00135,C2025-00076,2025-02-06,Sud,Magasin,Sport,Tapis,2,90.00,46.00
+L00136,C2025-00076,2025-02-06,Sud,Magasin,Sport,Sac,2,126.00,76.00
+L00161,C2025-00089,2025-02-06,Est,Magasin,Sport,Sac,2,140.00,76.00
+L00166,C2025-00093,2025-02-06,Nord,Magasin,Accessoires,Support,1,28.00,10.00
+L00176,C2025-00097,2025-02-06,Ouest,En ligne,Accessoires,Souris,3,89.25,45.00
+L00177,C2025-00097,2025-02-06,Ouest,En ligne,Sport,Gourde,2,47.50,22.00
+L00251,C2025-00135,2025-02-08,Sud,En ligne,Accessoires,Souris,1,31.50,15.00
+L00184,C2025-00101,2025-02-09,Ouest,Magasin,Informatique,Clavier,3,229.50,165.00
+L00227,C2025-00121,2025-02-09,Nord,En ligne,Accessoires,Souris,2,63.00,30.00
+L00162,C2025-00090,2025-02-11,Nord,Magasin,Informatique,Clavier,2,161.50,110.00
+L00182,C2025-00100,2025-02-11,Sud,Magasin,Informatique,Clavier,1,80.75,55.00
+L00183,C2025-00100,2025-02-11,Sud,Magasin,Maison,Chaise,2,280.00,190.00
+L00238,C2025-00127,2025-02-11,Nord,En ligne,Sport,Tapis,2,81.00,46.00
+L00239,C2025-00127,2025-02-11,Nord,En ligne,Informatique,Clavier,2,153.00,110.00
+L00155,C2025-00087,2025-02-12,Sud,Magasin,Informatique,Écran,1,240.00,192.00
+L00156,C2025-00087,2025-02-12,Sud,Magasin,Sport,Sac,1,63.00,38.00
+L00157,C2025-00087,2025-02-12,Sud,Magasin,Sport,Tapis,1,45.00,23.00
+L00241,C2025-00129,2025-02-12,Sud,Magasin,Accessoires,Souris,2,70.00,30.00
+L00242,C2025-00129,2025-02-12,Sud,Magasin,Sport,Sac,1,70.00,38.00
+L00209,C2025-00114,2025-02-13,Est,Magasin,Informatique,Écran,1,240.00,192.00
+L00210,C2025-00114,2025-02-13,Est,Magasin,Informatique,Casque,2,220.00,144.00
+L00231,C2025-00124,2025-02-13,Nord,Magasin,Informatique,Écran,1,240.00,192.00
+L00232,C2025-00124,2025-02-13,Nord,Magasin,Sport,Tapis,3,128.25,69.00
+L00158,C2025-00088,2025-02-14,Ouest,En ligne,Informatique,Clavier,2,161.50,110.00
+L00159,C2025-00088,2025-02-14,Ouest,En ligne,Accessoires,Support,1,25.20,10.00
+L00160,C2025-00088,2025-02-14,Ouest,En ligne,Accessoires,Support,1,23.80,10.00
+L00185,C2025-00102,2025-02-14,Nord,Magasin,Informatique,Écran,2,432.00,384.00
+L00186,C2025-00102,2025-02-14,Nord,Magasin,Accessoires,Support,2,50.40,20.00
+L00187,C2025-00102,2025-02-14,Nord,Magasin,Maison,Lampe,3,195.00,111.00
+L00226,C2025-00120,2025-02-14,Sud,Magasin,Maison,Chaise,2,280.00,190.00
+L00195,C2025-00107,2025-02-15,Est,Magasin,Maison,Étagère,1,190.00,129.00
+L00196,C2025-00107,2025-02-15,Est,Magasin,Informatique,Casque,1,110.00,72.00
+L00206,C2025-00112,2025-02-15,Sud,En ligne,Sport,Gourde,3,71.25,33.00
+L00163,C2025-00091,2025-02-17,Nord,Magasin,Sport,Sac,1,66.50,38.00
+L00164,C2025-00091,2025-02-17,Nord,Magasin,Sport,Tapis,3,121.50,69.00
+L00178,C2025-00098,2025-02-17,Nord,Magasin,Sport,Sac,2,126.00,76.00
+L00179,C2025-00098,2025-02-17,Nord,Magasin,Informatique,Écran,3,684.00,576.00
+L00211,C2025-00115,2025-02-17,Est,Magasin,Maison,Lampe,2,130.00,74.00
+L00212,C2025-00115,2025-02-17,Est,Magasin,Informatique,Casque,2,209.00,144.00
+L00213,C2025-00115,2025-02-17,Est,Magasin,Accessoires,Support,1,28.00,10.00
+L00133,C2025-00075,2025-02-18,Nord,En ligne,Sport,Tapis,1,40.50,23.00
+L00154,C2025-00086,2025-02-18,Nord,En ligne,Informatique,Casque,1,93.50,72.00
+L00228,C2025-00122,2025-02-18,Ouest,Magasin,Maison,Lampe,3,195.00,111.00
+L00229,C2025-00122,2025-02-18,Ouest,Magasin,Sport,Sac,1,70.00,38.00
+L00240,C2025-00128,2025-02-19,Nord,Magasin,Maison,Étagère,2,380.00,258.00
+L00145,C2025-00082,2025-02-20,Ouest,Magasin,Informatique,Casque,2,198.00,144.00
+L00146,C2025-00082,2025-02-20,Ouest,Magasin,Informatique,Casque,2,220.00,144.00
+L00233,C2025-00125,2025-02-20,Sud,Magasin,Maison,Étagère,2,361.00,258.00
+L00234,C2025-00125,2025-02-20,Sud,Magasin,Accessoires,Câble,3,51.30,15.00
+L00243,C2025-00130,2025-02-22,Ouest,En ligne,Informatique,Clavier,2,144.50,110.00
+L00244,C2025-00130,2025-02-22,Ouest,En ligne,Sport,Tapis,1,38.25,23.00
+L00250,C2025-00134,2025-02-22,Ouest,Magasin,Accessoires,Souris,1,33.25,15.00
+L00153,C2025-00085,2025-02-23,Ouest,En ligne,Informatique,Écran,3,684.00,576.00
+L00167,C2025-00094,2025-02-23,Ouest,En ligne,Accessoires,Souris,1,33.25,15.00
+L00168,C2025-00094,2025-02-23,Ouest,En ligne,Informatique,Écran,3,684.00,576.00
+L00169,C2025-00094,2025-02-23,Ouest,En ligne,Informatique,Casque,2,198.00,144.00
+L00173,C2025-00096,2025-02-23,Ouest,En ligne,Sport,Gourde,3,63.75,33.00
+L00174,C2025-00096,2025-02-23,Ouest,En ligne,Accessoires,Support,2,53.20,20.00
+L00175,C2025-00096,2025-02-23,Ouest,En ligne,Accessoires,Câble,1,15.30,5.00
+L00180,C2025-00099,2025-02-23,Ouest,Magasin,Maison,Chaise,1,133.00,95.00
+L00181,C2025-00099,2025-02-23,Ouest,Magasin,Informatique,Casque,1,110.00,72.00
+L00207,C2025-00113,2025-02-23,Ouest,En ligne,Sport,Gourde,1,22.50,11.00
+L00208,C2025-00113,2025-02-23,Ouest,En ligne,Informatique,Casque,3,280.50,216.00
+L00204,C2025-00111,2025-02-24,Ouest,En ligne,Informatique,Clavier,1,80.75,55.00
+L00205,C2025-00111,2025-02-24,Ouest,En ligne,Accessoires,Support,3,75.60,30.00
+L00165,C2025-00092,2025-02-26,Est,Magasin,Maison,Chaise,2,266.00,190.00
+L00199,C2025-00109,2025-02-26,Est,Magasin,Accessoires,Câble,1,18.00,5.00
+L00200,C2025-00109,2025-02-26,Est,Magasin,Informatique,Clavier,2,170.00,110.00
+L00201,C2025-00109,2025-02-26,Est,Magasin,Maison,Étagère,2,342.00,258.00
+L00202,C2025-00110,2025-02-26,Sud,Magasin,Informatique,Casque,3,313.50,216.00
+L00203,C2025-00110,2025-02-26,Sud,Magasin,Sport,Sac,1,63.00,38.00
+L00217,C2025-00117,2025-02-27,Est,Magasin,Accessoires,Câble,3,54.00,15.00
+L00218,C2025-00117,2025-02-27,Est,Magasin,Accessoires,Souris,1,35.00,15.00
+L00219,C2025-00117,2025-02-27,Est,Magasin,Sport,Tapis,1,45.00,23.00
+L00223,C2025-00119,2025-02-27,Nord,Magasin,Accessoires,Support,1,25.20,10.00
+L00224,C2025-00119,2025-02-27,Nord,Magasin,Informatique,Casque,1,99.00,72.00
+L00225,C2025-00119,2025-02-27,Nord,Magasin,Sport,Sac,1,63.00,38.00
+L00235,C2025-00126,2025-02-27,Ouest,Magasin,Accessoires,Support,3,79.80,30.00
+L00236,C2025-00126,2025-02-27,Ouest,Magasin,Sport,Sac,3,199.50,114.00
+L00237,C2025-00126,2025-02-27,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L00144,C2025-00081,2025-02-28,Ouest,En ligne,Informatique,Casque,3,313.50,216.00
+L00170,C2025-00095,2025-02-28,Ouest,Magasin,Maison,Étagère,1,171.00,129.00
+L00171,C2025-00095,2025-02-28,Ouest,Magasin,Maison,Étagère,3,541.50,387.00
+L00172,C2025-00095,2025-02-28,Ouest,Magasin,Informatique,Écran,1,216.00,192.00
+L00230,C2025-00123,2025-02-28,Nord,Magasin,Maison,Lampe,1,65.00,37.00
+L00245,C2025-00131,2025-02-28,Nord,En ligne,Maison,Lampe,3,185.25,111.00
+L00246,C2025-00131,2025-02-28,Nord,En ligne,Sport,Tapis,2,76.50,46.00
+L00247,C2025-00132,2025-02-28,Sud,Magasin,Accessoires,Souris,3,94.50,45.00
+L00308,C2025-00168,2025-03-01,Est,Magasin,Maison,Étagère,2,380.00,258.00
+L00336,C2025-00187,2025-03-01,Est,En ligne,Informatique,Casque,2,209.00,144.00
+L00337,C2025-00187,2025-03-01,Est,En ligne,Accessoires,Support,1,26.60,10.00
+L00338,C2025-00187,2025-03-01,Est,En ligne,Maison,Étagère,3,513.00,387.00
+L00341,C2025-00190,2025-03-01,Nord,Magasin,Maison,Lampe,1,65.00,37.00
+L00342,C2025-00190,2025-03-01,Nord,Magasin,Accessoires,Souris,1,33.25,15.00
+L00365,C2025-00202,2025-03-01,Est,Magasin,Informatique,Écran,2,480.00,384.00
+L00266,C2025-00145,2025-03-02,Sud,Magasin,Accessoires,Câble,1,16.20,5.00
+L00267,C2025-00145,2025-03-02,Sud,Magasin,Sport,Gourde,2,50.00,22.00
+L00352,C2025-00195,2025-03-02,Est,En ligne,Maison,Chaise,1,133.00,95.00
+L00353,C2025-00195,2025-03-02,Est,En ligne,Informatique,Casque,2,209.00,144.00
+L00354,C2025-00195,2025-03-02,Est,En ligne,Informatique,Casque,1,99.00,72.00
+L00282,C2025-00155,2025-03-04,Nord,Magasin,Informatique,Clavier,3,242.25,165.00
+L00283,C2025-00155,2025-03-04,Nord,Magasin,Informatique,Clavier,2,170.00,110.00
+L00384,C2025-00214,2025-03-04,Nord,Magasin,Accessoires,Câble,3,54.00,15.00
+L00315,C2025-00173,2025-03-05,Sud,Magasin,Informatique,Écran,2,456.00,384.00
+L00316,C2025-00173,2025-03-05,Sud,Magasin,Accessoires,Souris,1,35.00,15.00
+L00317,C2025-00173,2025-03-05,Sud,Magasin,Accessoires,Support,1,28.00,10.00
+L00299,C2025-00163,2025-03-06,Est,Magasin,Sport,Gourde,1,25.00,11.00
+L00355,C2025-00196,2025-03-06,Sud,Magasin,Accessoires,Câble,2,34.20,10.00
+L00356,C2025-00196,2025-03-06,Sud,Magasin,Informatique,Clavier,2,170.00,110.00
+L00375,C2025-00208,2025-03-06,Ouest,En ligne,Accessoires,Câble,2,34.20,10.00
+L00376,C2025-00208,2025-03-06,Ouest,En ligne,Informatique,Casque,3,313.50,216.00
+L00288,C2025-00158,2025-03-07,Ouest,Magasin,Sport,Tapis,1,45.00,23.00
+L00289,C2025-00158,2025-03-07,Ouest,Magasin,Accessoires,Souris,2,66.50,30.00
+L00290,C2025-00158,2025-03-07,Ouest,Magasin,Informatique,Clavier,2,153.00,110.00
+L00273,C2025-00149,2025-03-08,Ouest,Magasin,Sport,Gourde,3,71.25,33.00
+L00322,C2025-00177,2025-03-08,Sud,Magasin,Maison,Étagère,1,190.00,129.00
+L00335,C2025-00186,2025-03-08,Sud,Magasin,Informatique,Casque,1,99.00,72.00
+L00345,C2025-00192,2025-03-08,Nord,Magasin,Maison,Étagère,3,570.00,387.00
+L00346,C2025-00192,2025-03-08,Nord,Magasin,Sport,Sac,1,70.00,38.00
+L00385,C2025-00215,2025-03-08,Sud,En ligne,Accessoires,Support,2,53.20,20.00
+L00386,C2025-00215,2025-03-08,Sud,En ligne,Informatique,Écran,2,408.00,384.00
+L00387,C2025-00215,2025-03-08,Sud,En ligne,Informatique,Écran,1,228.00,192.00
+L00324,C2025-00179,2025-03-09,Ouest,En ligne,Maison,Étagère,1,171.00,129.00
+L00359,C2025-00198,2025-03-09,Ouest,Magasin,Informatique,Casque,3,297.00,216.00
+L00360,C2025-00199,2025-03-09,Ouest,Magasin,Maison,Lampe,1,65.00,37.00
+L00361,C2025-00199,2025-03-09,Ouest,Magasin,Sport,Gourde,3,75.00,33.00
+L00362,C2025-00199,2025-03-09,Ouest,Magasin,Maison,Lampe,1,58.50,37.00
+L00259,C2025-00142,2025-03-10,Ouest,Magasin,Informatique,Écran,1,240.00,192.00
+L00260,C2025-00142,2025-03-10,Ouest,Magasin,Informatique,Casque,2,209.00,144.00
+L00261,C2025-00142,2025-03-10,Ouest,Magasin,Accessoires,Câble,2,36.00,10.00
+L00268,C2025-00146,2025-03-10,Sud,En ligne,Accessoires,Souris,2,59.50,30.00
+L00321,C2025-00176,2025-03-10,Nord,Magasin,Sport,Sac,3,199.50,114.00
+L00327,C2025-00182,2025-03-10,Ouest,Magasin,Maison,Lampe,1,65.00,37.00
+L00332,C2025-00185,2025-03-10,Ouest,Magasin,Maison,Étagère,1,171.00,129.00
+L00333,C2025-00185,2025-03-10,Ouest,Magasin,Accessoires,Support,1,26.60,10.00
+L00334,C2025-00185,2025-03-10,Ouest,Magasin,Accessoires,Câble,3,54.00,15.00
+L00363,C2025-00200,2025-03-10,Ouest,En ligne,Sport,Tapis,1,40.50,23.00
+L00297,C2025-00162,2025-03-11,Sud,Magasin,Accessoires,Souris,1,35.00,15.00
+L00298,C2025-00162,2025-03-11,Sud,Magasin,Informatique,Écran,2,432.00,384.00
+L00264,C2025-00144,2025-03-12,Ouest,En ligne,Maison,Lampe,2,110.50,74.00
+L00265,C2025-00144,2025-03-12,Ouest,En ligne,Accessoires,Support,1,26.60,10.00
+L00271,C2025-00148,2025-03-12,Nord,Magasin,Accessoires,Câble,3,48.60,15.00
+L00272,C2025-00148,2025-03-12,Nord,Magasin,Informatique,Clavier,2,170.00,110.00
+L00291,C2025-00159,2025-03-12,Ouest,En ligne,Informatique,Casque,3,297.00,216.00
+L00318,C2025-00174,2025-03-12,Sud,Magasin,Accessoires,Support,2,56.00,20.00
+L00319,C2025-00174,2025-03-12,Sud,Magasin,Informatique,Casque,3,297.00,216.00
+L00340,C2025-00189,2025-03-12,Nord,Magasin,Maison,Chaise,2,252.00,190.00
+L00343,C2025-00191,2025-03-12,Est,Magasin,Accessoires,Câble,3,54.00,15.00
+L00344,C2025-00191,2025-03-12,Est,Magasin,Sport,Tapis,3,135.00,69.00
+L00256,C2025-00139,2025-03-13,Sud,En ligne,Informatique,Écran,3,684.00,576.00
+L00257,C2025-00140,2025-03-13,Ouest,Magasin,Accessoires,Support,1,25.20,10.00
+L00281,C2025-00154,2025-03-13,Sud,En ligne,Accessoires,Câble,2,34.20,10.00
+L00323,C2025-00178,2025-03-13,Ouest,Magasin,Informatique,Casque,2,220.00,144.00
+L00378,C2025-00210,2025-03-13,Ouest,Magasin,Maison,Chaise,1,133.00,95.00
+L00379,C2025-00210,2025-03-13,Ouest,Magasin,Informatique,Casque,3,313.50,216.00
+L00326,C2025-00181,2025-03-14,Est,Magasin,Sport,Sac,2,140.00,76.00
+L00347,C2025-00193,2025-03-14,Ouest,Magasin,Informatique,Écran,2,480.00,384.00
+L00348,C2025-00193,2025-03-14,Ouest,Magasin,Accessoires,Câble,3,54.00,15.00
+L00369,C2025-00205,2025-03-14,Sud,En ligne,Sport,Tapis,3,114.75,69.00
+L00370,C2025-00205,2025-03-14,Sud,En ligne,Accessoires,Support,1,26.60,10.00
+L00380,C2025-00211,2025-03-14,Nord,Magasin,Informatique,Clavier,2,170.00,110.00
+L00258,C2025-00141,2025-03-15,Est,Magasin,Accessoires,Souris,2,70.00,30.00
+L00295,C2025-00161,2025-03-15,Sud,Magasin,Informatique,Casque,2,209.00,144.00
+L00296,C2025-00161,2025-03-15,Sud,Magasin,Maison,Chaise,3,420.00,285.00
+L00368,C2025-00204,2025-03-15,Ouest,En ligne,Informatique,Clavier,3,216.75,165.00
+L00278,C2025-00152,2025-03-16,Nord,Magasin,Maison,Chaise,1,140.00,95.00
+L00279,C2025-00152,2025-03-16,Nord,Magasin,Accessoires,Câble,1,17.10,5.00
+L00314,C2025-00172,2025-03-16,Est,Magasin,Accessoires,Câble,1,18.00,5.00
+L00373,C2025-00207,2025-03-16,Ouest,Magasin,Informatique,Clavier,3,255.00,165.00
+L00374,C2025-00207,2025-03-16,Ouest,Magasin,Maison,Lampe,2,130.00,74.00
+L00254,C2025-00137,2025-03-17,Est,Magasin,Informatique,Écran,1,240.00,192.00
+L00301,C2025-00165,2025-03-18,Nord,Magasin,Informatique,Casque,2,209.00,144.00
+L00302,C2025-00165,2025-03-18,Nord,Magasin,Accessoires,Câble,1,18.00,5.00
+L00320,C2025-00175,2025-03-18,Ouest,Magasin,Sport,Tapis,2,85.50,46.00
+L00339,C2025-00188,2025-03-18,Nord,En ligne,Sport,Gourde,2,47.50,22.00
+L00269,C2025-00147,2025-03-19,Nord,Magasin,Accessoires,Souris,1,31.50,15.00
+L00270,C2025-00147,2025-03-19,Nord,Magasin,Informatique,Clavier,2,153.00,110.00
+L00325,C2025-00180,2025-03-19,Nord,En ligne,Accessoires,Câble,3,51.30,15.00
+L00388,C2025-00216,2025-03-19,Est,Magasin,Maison,Chaise,3,399.00,285.00
+L00280,C2025-00153,2025-03-20,Sud,Magasin,Maison,Chaise,2,252.00,190.00
+L00286,C2025-00157,2025-03-20,Ouest,Magasin,Informatique,Casque,3,297.00,216.00
+L00287,C2025-00157,2025-03-20,Ouest,Magasin,Informatique,Casque,1,110.00,72.00
+L00276,C2025-00151,2025-03-21,Est,Magasin,Informatique,Écran,2,480.00,384.00
+L00277,C2025-00151,2025-03-21,Est,Magasin,Accessoires,Souris,2,63.00,30.00
+L00292,C2025-00160,2025-03-21,Sud,Magasin,Informatique,Clavier,2,170.00,110.00
+L00293,C2025-00160,2025-03-21,Sud,Magasin,Maison,Lampe,2,130.00,74.00
+L00294,C2025-00160,2025-03-21,Sud,Magasin,Accessoires,Souris,1,35.00,15.00
+L00366,C2025-00203,2025-03-21,Est,Magasin,Informatique,Casque,2,198.00,144.00
+L00367,C2025-00203,2025-03-21,Est,Magasin,Accessoires,Souris,2,70.00,30.00
+L00311,C2025-00170,2025-03-22,Sud,Magasin,Accessoires,Souris,2,70.00,30.00
+L00382,C2025-00213,2025-03-22,Sud,Magasin,Informatique,Casque,2,220.00,144.00
+L00383,C2025-00213,2025-03-22,Sud,Magasin,Informatique,Écran,3,684.00,576.00
+L00262,C2025-00143,2025-03-24,Nord,Magasin,Accessoires,Support,2,50.40,20.00
+L00263,C2025-00143,2025-03-24,Nord,Magasin,Informatique,Écran,2,480.00,384.00
+L00274,C2025-00150,2025-03-25,Ouest,Magasin,Accessoires,Câble,2,32.40,10.00
+L00275,C2025-00150,2025-03-25,Ouest,Magasin,Informatique,Casque,1,110.00,72.00
+L00371,C2025-00206,2025-03-25,Ouest,Magasin,Maison,Étagère,1,190.00,129.00
+L00372,C2025-00206,2025-03-25,Ouest,Magasin,Informatique,Casque,3,330.00,216.00
+L00309,C2025-00169,2025-03-26,Est,En ligne,Informatique,Clavier,3,242.25,165.00
+L00310,C2025-00169,2025-03-26,Est,En ligne,Sport,Gourde,3,71.25,33.00
+L00330,C2025-00184,2025-03-26,Sud,Magasin,Accessoires,Support,3,84.00,30.00
+L00331,C2025-00184,2025-03-26,Sud,Magasin,Accessoires,Support,1,28.00,10.00
+L00377,C2025-00209,2025-03-26,Nord,En ligne,Maison,Lampe,3,185.25,111.00
+L00255,C2025-00138,2025-03-27,Ouest,Magasin,Informatique,Clavier,1,85.00,55.00
+L00306,C2025-00167,2025-03-28,Nord,Magasin,Sport,Tapis,2,90.00,46.00
+L00307,C2025-00167,2025-03-28,Nord,Magasin,Accessoires,Câble,1,17.10,5.00
+L00349,C2025-00194,2025-03-28,Ouest,En ligne,Informatique,Écran,1,216.00,192.00
+L00350,C2025-00194,2025-03-28,Ouest,En ligne,Accessoires,Support,2,50.40,20.00
+L00351,C2025-00194,2025-03-28,Ouest,En ligne,Informatique,Écran,1,228.00,192.00
+L00381,C2025-00212,2025-03-28,Nord,En ligne,Accessoires,Souris,2,59.50,30.00
+L00300,C2025-00164,2025-03-29,Ouest,Magasin,Informatique,Casque,3,330.00,216.00
+L00357,C2025-00197,2025-03-29,Ouest,Magasin,Informatique,Clavier,3,242.25,165.00
+L00358,C2025-00197,2025-03-29,Ouest,Magasin,Informatique,Écran,2,480.00,384.00
+L00284,C2025-00156,2025-03-30,Ouest,En ligne,Accessoires,Câble,1,17.10,5.00
+L00285,C2025-00156,2025-03-30,Ouest,En ligne,Accessoires,Souris,1,33.25,15.00
+L00303,C2025-00166,2025-03-30,Nord,En ligne,Informatique,Casque,1,93.50,72.00
+L00304,C2025-00166,2025-03-30,Nord,En ligne,Accessoires,Souris,3,99.75,45.00
+L00305,C2025-00166,2025-03-30,Nord,En ligne,Accessoires,Support,3,71.40,30.00
+L00312,C2025-00171,2025-03-30,Sud,En ligne,Sport,Sac,1,59.50,38.00
+L00313,C2025-00171,2025-03-30,Sud,En ligne,Informatique,Clavier,2,161.50,110.00
+L00328,C2025-00183,2025-03-30,Nord,Magasin,Maison,Chaise,1,140.00,95.00
+L00329,C2025-00183,2025-03-30,Nord,Magasin,Accessoires,Souris,3,99.75,45.00
+L00364,C2025-00201,2025-03-30,Sud,Magasin,Informatique,Clavier,1,80.75,55.00
+L00548,C2025-00301,2025-04-01,Sud,Magasin,Maison,Chaise,2,280.00,190.00
+L00549,C2025-00301,2025-04-01,Sud,Magasin,Sport,Sac,1,70.00,38.00
+L00550,C2025-00301,2025-04-01,Sud,Magasin,Accessoires,Support,1,28.00,10.00
+L00419,C2025-00233,2025-04-02,Nord,Magasin,Sport,Gourde,3,75.00,33.00
+L00420,C2025-00233,2025-04-02,Nord,Magasin,Informatique,Clavier,3,242.25,165.00
+L00475,C2025-00260,2025-04-03,Ouest,En ligne,Informatique,Écran,1,228.00,192.00
+L00476,C2025-00260,2025-04-03,Ouest,En ligne,Sport,Tapis,1,38.25,23.00
+L00507,C2025-00277,2025-04-03,Nord,En ligne,Maison,Étagère,2,361.00,258.00
+L00508,C2025-00277,2025-04-03,Nord,En ligne,Accessoires,Support,3,79.80,30.00
+L00538,C2025-00294,2025-04-03,Sud,Magasin,Sport,Sac,3,210.00,114.00
+L00452,C2025-00249,2025-04-04,Sud,Magasin,Accessoires,Souris,2,66.50,30.00
+L00453,C2025-00249,2025-04-04,Sud,Magasin,Informatique,Clavier,1,85.00,55.00
+L00491,C2025-00268,2025-04-04,Nord,Magasin,Maison,Lampe,1,65.00,37.00
+L00492,C2025-00268,2025-04-04,Nord,Magasin,Sport,Gourde,1,22.50,11.00
+L00539,C2025-00295,2025-04-04,Nord,Magasin,Informatique,Casque,2,220.00,144.00
+L00540,C2025-00295,2025-04-04,Nord,Magasin,Maison,Chaise,3,420.00,285.00
+L00544,C2025-00298,2025-04-04,Nord,Magasin,Sport,Gourde,1,22.50,11.00
+L00545,C2025-00298,2025-04-04,Nord,Magasin,Informatique,Écran,3,720.00,576.00
+L00394,C2025-00220,2025-04-05,Ouest,En ligne,Sport,Tapis,1,40.50,23.00
+L00395,C2025-00220,2025-04-05,Ouest,En ligne,Maison,Lampe,3,185.25,111.00
+L00405,C2025-00227,2025-04-05,Nord,Magasin,Informatique,Clavier,3,229.50,165.00
+L00406,C2025-00227,2025-04-05,Nord,Magasin,Informatique,Clavier,3,229.50,165.00
+L00407,C2025-00227,2025-04-05,Nord,Magasin,Accessoires,Support,1,28.00,10.00
+L00487,C2025-00266,2025-04-05,Ouest,Magasin,Informatique,Clavier,1,85.00,55.00
+L00488,C2025-00266,2025-04-05,Ouest,Magasin,Informatique,Clavier,3,255.00,165.00
+L00518,C2025-00284,2025-04-05,Ouest,Magasin,Informatique,Clavier,1,76.50,55.00
+L00519,C2025-00284,2025-04-05,Ouest,Magasin,Maison,Lampe,3,175.50,111.00
+L00543,C2025-00297,2025-04-05,Nord,Magasin,Sport,Sac,3,210.00,114.00
+L00402,C2025-00225,2025-04-06,Nord,En ligne,Informatique,Clavier,2,161.50,110.00
+L00403,C2025-00226,2025-04-07,Nord,En ligne,Informatique,Clavier,3,216.75,165.00
+L00404,C2025-00226,2025-04-07,Nord,En ligne,Accessoires,Souris,2,59.50,30.00
+L00460,C2025-00253,2025-04-07,Sud,En ligne,Informatique,Écran,3,684.00,576.00
+L00461,C2025-00253,2025-04-07,Sud,En ligne,Informatique,Clavier,3,216.75,165.00
+L00462,C2025-00253,2025-04-07,Sud,En ligne,Sport,Gourde,3,71.25,33.00
+L00423,C2025-00235,2025-04-08,Ouest,Magasin,Maison,Lampe,3,195.00,111.00
+L00416,C2025-00232,2025-04-09,Est,Magasin,Maison,Chaise,1,126.00,95.00
+L00417,C2025-00232,2025-04-09,Est,Magasin,Maison,Étagère,1,180.50,129.00
+L00418,C2025-00232,2025-04-09,Est,Magasin,Maison,Chaise,2,252.00,190.00
+L00442,C2025-00243,2025-04-09,Ouest,Magasin,Maison,Chaise,1,140.00,95.00
+L00444,C2025-00245,2025-04-09,Nord,Magasin,Accessoires,Support,2,56.00,20.00
+L00445,C2025-00245,2025-04-09,Nord,Magasin,Sport,Tapis,1,45.00,23.00
+L00471,C2025-00258,2025-04-09,Nord,En ligne,Accessoires,Câble,2,30.60,10.00
+L00472,C2025-00258,2025-04-09,Nord,En ligne,Accessoires,Câble,1,17.10,5.00
+L00523,C2025-00287,2025-04-09,Est,Magasin,Sport,Tapis,2,90.00,46.00
+L00524,C2025-00287,2025-04-09,Est,Magasin,Sport,Gourde,2,50.00,22.00
+L00527,C2025-00289,2025-04-09,Ouest,En ligne,Sport,Sac,2,133.00,76.00
+L00528,C2025-00289,2025-04-09,Ouest,En ligne,Maison,Chaise,2,266.00,190.00
+L00529,C2025-00289,2025-04-09,Ouest,En ligne,Informatique,Clavier,3,229.50,165.00
+L00408,C2025-00228,2025-04-10,Nord,Magasin,Informatique,Écran,2,480.00,384.00
+L00432,C2025-00239,2025-04-10,Nord,En ligne,Accessoires,Souris,1,29.75,15.00
+L00433,C2025-00239,2025-04-10,Nord,En ligne,Accessoires,Câble,1,17.10,5.00
+L00434,C2025-00239,2025-04-10,Nord,En ligne,Accessoires,Câble,1,17.10,5.00
+L00437,C2025-00241,2025-04-10,Ouest,En ligne,Informatique,Écran,1,216.00,192.00
+L00438,C2025-00241,2025-04-10,Ouest,En ligne,Informatique,Clavier,2,153.00,110.00
+L00467,C2025-00256,2025-04-10,Ouest,En ligne,Informatique,Casque,3,313.50,216.00
+L00468,C2025-00256,2025-04-10,Ouest,En ligne,Informatique,Clavier,3,216.75,165.00
+L00393,C2025-00219,2025-04-11,Ouest,En ligne,Accessoires,Souris,3,94.50,45.00
+L00396,C2025-00221,2025-04-11,Ouest,En ligne,Accessoires,Support,1,23.80,10.00
+L00397,C2025-00221,2025-04-11,Ouest,En ligne,Informatique,Écran,3,684.00,576.00
+L00499,C2025-00272,2025-04-11,Ouest,Magasin,Maison,Chaise,1,140.00,95.00
+L00500,C2025-00272,2025-04-11,Ouest,Magasin,Informatique,Clavier,3,255.00,165.00
+L00511,C2025-00280,2025-04-11,Nord,Magasin,Sport,Sac,1,70.00,38.00
+L00512,C2025-00280,2025-04-11,Nord,Magasin,Sport,Gourde,2,50.00,22.00
+L00400,C2025-00223,2025-04-12,Sud,Magasin,Maison,Étagère,1,180.50,129.00
+L00501,C2025-00273,2025-04-12,Nord,Magasin,Informatique,Clavier,3,229.50,165.00
+L00510,C2025-00279,2025-04-12,Nord,Magasin,Accessoires,Câble,1,16.20,5.00
+L00489,C2025-00267,2025-04-13,Ouest,Magasin,Accessoires,Câble,3,51.30,15.00
+L00490,C2025-00267,2025-04-13,Ouest,Magasin,Informatique,Écran,1,216.00,192.00
+L00530,C2025-00290,2025-04-13,Ouest,En ligne,Informatique,Casque,1,99.00,72.00
+L00531,C2025-00290,2025-04-13,Ouest,En ligne,Sport,Gourde,2,42.50,22.00
+L00398,C2025-00222,2025-04-14,Ouest,Magasin,Informatique,Clavier,2,161.50,110.00
+L00399,C2025-00222,2025-04-14,Ouest,Magasin,Accessoires,Support,2,53.20,20.00
+L00439,C2025-00242,2025-04-14,Ouest,Magasin,Maison,Chaise,1,133.00,95.00
+L00440,C2025-00242,2025-04-14,Ouest,Magasin,Sport,Gourde,2,47.50,22.00
+L00441,C2025-00242,2025-04-14,Ouest,Magasin,Maison,Chaise,1,140.00,95.00
+L00455,C2025-00251,2025-04-14,Nord,Magasin,Informatique,Casque,1,104.50,72.00
+L00456,C2025-00251,2025-04-14,Nord,Magasin,Maison,Lampe,2,130.00,74.00
+L00457,C2025-00251,2025-04-14,Nord,Magasin,Informatique,Casque,3,313.50,216.00
+L00477,C2025-00261,2025-04-14,Sud,Magasin,Informatique,Écran,1,240.00,192.00
+L00481,C2025-00263,2025-04-14,Ouest,Magasin,Informatique,Écran,1,228.00,192.00
+L00482,C2025-00263,2025-04-14,Ouest,Magasin,Informatique,Casque,1,110.00,72.00
+L00483,C2025-00264,2025-04-14,Ouest,Magasin,Maison,Étagère,3,570.00,387.00
+L00484,C2025-00264,2025-04-14,Ouest,Magasin,Informatique,Écran,3,720.00,576.00
+L00495,C2025-00270,2025-04-14,Ouest,En ligne,Maison,Chaise,1,126.00,95.00
+L00517,C2025-00283,2025-04-14,Sud,Magasin,Informatique,Écran,2,480.00,384.00
+L00533,C2025-00292,2025-04-14,Ouest,Magasin,Sport,Gourde,1,25.00,11.00
+L00534,C2025-00292,2025-04-14,Ouest,Magasin,Sport,Sac,2,133.00,76.00
+L00535,C2025-00292,2025-04-14,Ouest,Magasin,Accessoires,Support,1,25.20,10.00
+L00493,C2025-00269,2025-04-16,Ouest,Magasin,Informatique,Casque,3,330.00,216.00
+L00494,C2025-00269,2025-04-16,Ouest,Magasin,Maison,Chaise,3,378.00,285.00
+L00435,C2025-00240,2025-04-17,Nord,Magasin,Accessoires,Support,2,50.40,20.00
+L00436,C2025-00240,2025-04-17,Nord,Magasin,Accessoires,Souris,2,66.50,30.00
+L00464,C2025-00255,2025-04-17,Ouest,Magasin,Maison,Lampe,1,58.50,37.00
+L00465,C2025-00255,2025-04-17,Ouest,Magasin,Maison,Chaise,3,399.00,285.00
+L00466,C2025-00255,2025-04-17,Ouest,Magasin,Accessoires,Support,3,84.00,30.00
+L00473,C2025-00259,2025-04-17,Sud,Magasin,Sport,Sac,2,140.00,76.00
+L00474,C2025-00259,2025-04-17,Sud,Magasin,Maison,Chaise,1,140.00,95.00
+L00496,C2025-00271,2025-04-17,Nord,En ligne,Maison,Lampe,1,61.75,37.00
+L00497,C2025-00271,2025-04-17,Nord,En ligne,Informatique,Casque,2,187.00,144.00
+L00498,C2025-00271,2025-04-17,Nord,En ligne,Maison,Lampe,2,123.50,74.00
+L00502,C2025-00274,2025-04-17,Nord,Magasin,Accessoires,Souris,3,105.00,45.00
+L00503,C2025-00274,2025-04-17,Nord,Magasin,Informatique,Casque,3,330.00,216.00
+L00509,C2025-00278,2025-04-18,Ouest,Magasin,Maison,Lampe,3,185.25,111.00
+L00458,C2025-00252,2025-04-19,Est,Magasin,Accessoires,Câble,2,36.00,10.00
+L00459,C2025-00252,2025-04-19,Est,Magasin,Accessoires,Souris,1,35.00,15.00
+L00505,C2025-00276,2025-04-19,Ouest,Magasin,Maison,Chaise,3,399.00,285.00
+L00506,C2025-00276,2025-04-19,Ouest,Magasin,Informatique,Clavier,2,161.50,110.00
+L00520,C2025-00285,2025-04-19,Nord,En ligne,Maison,Chaise,1,119.00,95.00
+L00521,C2025-00285,2025-04-19,Nord,En ligne,Accessoires,Souris,1,33.25,15.00
+L00469,C2025-00257,2025-04-20,Est,En ligne,Maison,Chaise,2,238.00,190.00
+L00470,C2025-00257,2025-04-20,Est,En ligne,Informatique,Écran,2,432.00,384.00
+L00478,C2025-00262,2025-04-20,Est,Magasin,Accessoires,Souris,1,35.00,15.00
+L00479,C2025-00262,2025-04-20,Est,Magasin,Accessoires,Souris,1,35.00,15.00
+L00480,C2025-00262,2025-04-20,Est,Magasin,Maison,Chaise,1,140.00,95.00
+L00522,C2025-00286,2025-04-20,Sud,En ligne,Informatique,Écran,1,216.00,192.00
+L00536,C2025-00293,2025-04-20,Sud,En ligne,Maison,Chaise,1,126.00,95.00
+L00537,C2025-00293,2025-04-20,Sud,En ligne,Maison,Lampe,3,175.50,111.00
+L00409,C2025-00229,2025-04-21,Ouest,Magasin,Maison,Chaise,2,252.00,190.00
+L00410,C2025-00229,2025-04-21,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L00411,C2025-00229,2025-04-21,Ouest,Magasin,Informatique,Écran,2,480.00,384.00
+L00430,C2025-00238,2025-04-21,Ouest,Magasin,Maison,Étagère,3,541.50,387.00
+L00431,C2025-00238,2025-04-21,Ouest,Magasin,Sport,Tapis,1,45.00,23.00
+L00421,C2025-00234,2025-04-22,Nord,En ligne,Informatique,Écran,3,684.00,576.00
+L00422,C2025-00234,2025-04-22,Nord,En ligne,Informatique,Casque,2,187.00,144.00
+L00424,C2025-00236,2025-04-22,Nord,Magasin,Informatique,Clavier,3,242.25,165.00
+L00425,C2025-00236,2025-04-22,Nord,Magasin,Informatique,Clavier,3,242.25,165.00
+L00426,C2025-00236,2025-04-22,Nord,Magasin,Informatique,Casque,1,110.00,72.00
+L00414,C2025-00231,2025-04-23,Sud,En ligne,Informatique,Clavier,3,242.25,165.00
+L00415,C2025-00231,2025-04-23,Sud,En ligne,Informatique,Clavier,3,242.25,165.00
+L00449,C2025-00247,2025-04-23,Nord,Magasin,Maison,Étagère,2,361.00,258.00
+L00450,C2025-00247,2025-04-23,Nord,Magasin,Accessoires,Support,1,28.00,10.00
+L00525,C2025-00288,2025-04-23,Ouest,Magasin,Informatique,Écran,3,720.00,576.00
+L00526,C2025-00288,2025-04-23,Ouest,Magasin,Maison,Chaise,3,420.00,285.00
+L00541,C2025-00296,2025-04-23,Ouest,Magasin,Sport,Gourde,3,75.00,33.00
+L00542,C2025-00296,2025-04-23,Ouest,Magasin,Sport,Gourde,1,22.50,11.00
+L00551,C2025-00302,2025-04-23,Sud,En ligne,Informatique,Écran,2,456.00,384.00
+L00389,C2025-00217,2025-04-24,Sud,Magasin,Sport,Tapis,3,135.00,69.00
+L00390,C2025-00217,2025-04-24,Sud,Magasin,Informatique,Casque,3,297.00,216.00
+L00391,C2025-00218,2025-04-24,Nord,Magasin,Sport,Gourde,2,50.00,22.00
+L00392,C2025-00218,2025-04-24,Nord,Magasin,Accessoires,Câble,3,51.30,15.00
+L00515,C2025-00282,2025-04-24,Ouest,Magasin,Sport,Gourde,2,45.00,22.00
+L00516,C2025-00282,2025-04-24,Ouest,Magasin,Informatique,Clavier,3,255.00,165.00
+L00412,C2025-00230,2025-04-25,Nord,Magasin,Maison,Étagère,2,361.00,258.00
+L00413,C2025-00230,2025-04-25,Nord,Magasin,Informatique,Casque,1,110.00,72.00
+L00446,C2025-00246,2025-04-25,Ouest,Magasin,Sport,Sac,1,70.00,38.00
+L00447,C2025-00246,2025-04-25,Ouest,Magasin,Accessoires,Souris,2,70.00,30.00
+L00448,C2025-00246,2025-04-25,Ouest,Magasin,Informatique,Écran,3,684.00,576.00
+L00485,C2025-00265,2025-04-25,Ouest,Magasin,Informatique,Casque,3,313.50,216.00
+L00486,C2025-00265,2025-04-25,Ouest,Magasin,Sport,Tapis,3,135.00,69.00
+L00451,C2025-00248,2025-04-26,Ouest,Magasin,Maison,Chaise,2,266.00,190.00
+L00427,C2025-00237,2025-04-27,Ouest,En ligne,Accessoires,Câble,2,34.20,10.00
+L00428,C2025-00237,2025-04-27,Ouest,En ligne,Maison,Lampe,3,165.75,111.00
+L00429,C2025-00237,2025-04-27,Ouest,En ligne,Informatique,Clavier,2,144.50,110.00
+L00401,C2025-00224,2025-04-28,Sud,Magasin,Accessoires,Câble,2,34.20,10.00
+L00443,C2025-00244,2025-04-29,Sud,En ligne,Maison,Lampe,3,185.25,111.00
+L00454,C2025-00250,2025-04-29,Ouest,En ligne,Accessoires,Support,3,79.80,30.00
+L00463,C2025-00254,2025-04-29,Sud,En ligne,Informatique,Clavier,2,153.00,110.00
+L00513,C2025-00281,2025-04-29,Sud,Magasin,Informatique,Casque,3,330.00,216.00
+L00514,C2025-00281,2025-04-29,Sud,Magasin,Informatique,Écran,3,684.00,576.00
+L00546,C2025-00299,2025-04-29,Ouest,En ligne,Maison,Chaise,1,119.00,95.00
+L00547,C2025-00300,2025-04-29,Ouest,Magasin,Informatique,Clavier,1,76.50,55.00
+L00504,C2025-00275,2025-04-30,Sud,Magasin,Informatique,Écran,2,480.00,384.00
+L00532,C2025-00291,2025-04-30,Nord,En ligne,Sport,Tapis,3,121.50,69.00
+L00555,C2025-00305,2025-05-01,Nord,Magasin,Maison,Étagère,3,541.50,387.00
+L00556,C2025-00305,2025-05-01,Nord,Magasin,Accessoires,Souris,3,105.00,45.00
+L00647,C2025-00362,2025-05-02,Ouest,Magasin,Sport,Gourde,2,47.50,22.00
+L00552,C2025-00303,2025-05-03,Ouest,Magasin,Sport,Sac,2,133.00,76.00
+L00582,C2025-00322,2025-05-03,Nord,Magasin,Informatique,Écran,2,480.00,384.00
+L00632,C2025-00353,2025-05-04,Sud,Magasin,Accessoires,Câble,1,16.20,5.00
+L00655,C2025-00367,2025-05-04,Est,Magasin,Accessoires,Souris,1,35.00,15.00
+L00656,C2025-00367,2025-05-04,Est,Magasin,Accessoires,Câble,2,34.20,10.00
+L00670,C2025-00376,2025-05-04,Nord,En ligne,Informatique,Écran,1,228.00,192.00
+L00671,C2025-00376,2025-05-04,Nord,En ligne,Sport,Sac,1,59.50,38.00
+L00680,C2025-00380,2025-05-04,Ouest,Magasin,Maison,Étagère,3,570.00,387.00
+L00553,C2025-00304,2025-05-05,Est,Magasin,Sport,Tapis,3,121.50,69.00
+L00554,C2025-00304,2025-05-05,Est,Magasin,Maison,Chaise,1,133.00,95.00
+L00562,C2025-00310,2025-05-05,Ouest,En ligne,Sport,Gourde,3,71.25,33.00
+L00564,C2025-00312,2025-05-05,Nord,En ligne,Accessoires,Support,2,50.40,20.00
+L00575,C2025-00318,2025-05-05,Ouest,En ligne,Maison,Chaise,2,266.00,190.00
+L00576,C2025-00318,2025-05-05,Ouest,En ligne,Maison,Chaise,1,133.00,95.00
+L00590,C2025-00327,2025-05-05,Est,Magasin,Maison,Lampe,3,185.25,111.00
+L00595,C2025-00332,2025-05-05,Nord,Magasin,Maison,Chaise,1,140.00,95.00
+L00596,C2025-00332,2025-05-05,Nord,Magasin,Sport,Gourde,3,75.00,33.00
+L00565,C2025-00313,2025-05-06,Nord,En ligne,Maison,Étagère,2,361.00,258.00
+L00577,C2025-00319,2025-05-06,Nord,Magasin,Maison,Lampe,1,65.00,37.00
+L00593,C2025-00330,2025-05-06,Sud,En ligne,Informatique,Écran,3,648.00,576.00
+L00648,C2025-00363,2025-05-06,Ouest,Magasin,Maison,Lampe,1,65.00,37.00
+L00649,C2025-00363,2025-05-06,Ouest,Magasin,Informatique,Clavier,1,85.00,55.00
+L00687,C2025-00384,2025-05-06,Est,Magasin,Sport,Tapis,2,90.00,46.00
+L00629,C2025-00351,2025-05-07,Ouest,En ligne,Informatique,Clavier,1,76.50,55.00
+L00630,C2025-00351,2025-05-07,Ouest,En ligne,Informatique,Casque,1,99.00,72.00
+L00643,C2025-00360,2025-05-07,Nord,En ligne,Informatique,Écran,3,684.00,576.00
+L00644,C2025-00360,2025-05-07,Nord,En ligne,Informatique,Casque,3,313.50,216.00
+L00703,C2025-00393,2025-05-07,Nord,Magasin,Accessoires,Câble,2,36.00,10.00
+L00599,C2025-00335,2025-05-08,Ouest,Magasin,Accessoires,Support,1,26.60,10.00
+L00609,C2025-00341,2025-05-08,Nord,Magasin,Informatique,Écran,3,720.00,576.00
+L00651,C2025-00365,2025-05-08,Ouest,En ligne,Sport,Gourde,3,63.75,33.00
+L00652,C2025-00365,2025-05-08,Ouest,En ligne,Informatique,Écran,1,204.00,192.00
+L00653,C2025-00365,2025-05-08,Ouest,En ligne,Accessoires,Souris,2,66.50,30.00
+L00712,C2025-00397,2025-05-08,Ouest,En ligne,Informatique,Casque,1,104.50,72.00
+L00713,C2025-00397,2025-05-08,Ouest,En ligne,Informatique,Écran,1,216.00,192.00
+L00592,C2025-00329,2025-05-09,Ouest,Magasin,Informatique,Casque,2,198.00,144.00
+L00636,C2025-00356,2025-05-09,Nord,Magasin,Maison,Lampe,1,65.00,37.00
+L00637,C2025-00356,2025-05-09,Nord,Magasin,Accessoires,Support,3,84.00,30.00
+L00697,C2025-00390,2025-05-09,Ouest,Magasin,Sport,Gourde,1,25.00,11.00
+L00698,C2025-00390,2025-05-09,Ouest,Magasin,Informatique,Clavier,1,85.00,55.00
+L00578,C2025-00320,2025-05-10,Nord,Magasin,Informatique,Casque,1,104.50,72.00
+L00579,C2025-00320,2025-05-10,Nord,Magasin,Maison,Étagère,3,570.00,387.00
+L00580,C2025-00321,2025-05-10,Sud,Magasin,Informatique,Clavier,3,255.00,165.00
+L00581,C2025-00321,2025-05-10,Sud,Magasin,Maison,Chaise,2,280.00,190.00
+L00619,C2025-00347,2025-05-10,Ouest,Magasin,Maison,Lampe,1,65.00,37.00
+L00620,C2025-00347,2025-05-10,Ouest,Magasin,Informatique,Clavier,2,170.00,110.00
+L00623,C2025-00349,2025-05-10,Nord,Magasin,Informatique,Écran,2,456.00,384.00
+L00624,C2025-00349,2025-05-10,Nord,Magasin,Informatique,Écran,3,720.00,576.00
+L00625,C2025-00349,2025-05-10,Nord,Magasin,Maison,Chaise,2,280.00,190.00
+L00675,C2025-00378,2025-05-11,Est,Magasin,Informatique,Écran,1,228.00,192.00
+L00676,C2025-00378,2025-05-11,Est,Magasin,Sport,Sac,2,133.00,76.00
+L00559,C2025-00308,2025-05-12,Nord,Magasin,Informatique,Écran,3,684.00,576.00
+L00560,C2025-00309,2025-05-12,Est,Magasin,Informatique,Écran,3,684.00,576.00
+L00561,C2025-00309,2025-05-12,Est,Magasin,Accessoires,Support,3,84.00,30.00
+L00566,C2025-00314,2025-05-12,Ouest,En ligne,Accessoires,Souris,1,31.50,15.00
+L00567,C2025-00314,2025-05-12,Ouest,En ligne,Informatique,Clavier,1,80.75,55.00
+L00568,C2025-00314,2025-05-12,Ouest,En ligne,Informatique,Casque,3,297.00,216.00
+L00586,C2025-00325,2025-05-12,Nord,Magasin,Sport,Tapis,3,135.00,69.00
+L00587,C2025-00325,2025-05-12,Nord,Magasin,Accessoires,Câble,3,54.00,15.00
+L00650,C2025-00364,2025-05-12,Nord,Magasin,Sport,Gourde,3,71.25,33.00
+L00667,C2025-00374,2025-05-12,Ouest,Magasin,Accessoires,Souris,2,70.00,30.00
+L00668,C2025-00374,2025-05-12,Ouest,Magasin,Accessoires,Support,3,75.60,30.00
+L00621,C2025-00348,2025-05-13,Sud,En ligne,Informatique,Écran,1,228.00,192.00
+L00622,C2025-00348,2025-05-13,Sud,En ligne,Informatique,Casque,3,313.50,216.00
+L00691,C2025-00387,2025-05-13,Nord,Magasin,Informatique,Clavier,1,76.50,55.00
+L00707,C2025-00395,2025-05-13,Est,Magasin,Informatique,Clavier,1,85.00,55.00
+L00708,C2025-00395,2025-05-13,Est,Magasin,Maison,Lampe,1,65.00,37.00
+L00594,C2025-00331,2025-05-14,Ouest,En ligne,Informatique,Clavier,3,229.50,165.00
+L00626,C2025-00350,2025-05-14,Sud,En ligne,Accessoires,Support,2,47.60,20.00
+L00627,C2025-00350,2025-05-14,Sud,En ligne,Accessoires,Souris,2,66.50,30.00
+L00628,C2025-00350,2025-05-14,Sud,En ligne,Informatique,Écran,2,432.00,384.00
+L00642,C2025-00359,2025-05-15,Nord,En ligne,Accessoires,Câble,1,17.10,5.00
+L00681,C2025-00381,2025-05-15,Nord,Magasin,Accessoires,Souris,3,94.50,45.00
+L00682,C2025-00381,2025-05-15,Nord,Magasin,Informatique,Écran,1,240.00,192.00
+L00683,C2025-00381,2025-05-15,Nord,Magasin,Informatique,Clavier,2,170.00,110.00
+L00600,C2025-00336,2025-05-16,Ouest,En ligne,Accessoires,Support,3,75.60,30.00
+L00699,C2025-00391,2025-05-16,Sud,Magasin,Informatique,Casque,2,220.00,144.00
+L00700,C2025-00391,2025-05-16,Sud,Magasin,Informatique,Casque,2,209.00,144.00
+L00585,C2025-00324,2025-05-17,Ouest,Magasin,Accessoires,Support,2,56.00,20.00
+L00613,C2025-00343,2025-05-17,Nord,Magasin,Informatique,Casque,2,198.00,144.00
+L00616,C2025-00345,2025-05-18,Ouest,Magasin,Maison,Lampe,3,185.25,111.00
+L00688,C2025-00385,2025-05-18,Sud,En ligne,Informatique,Écran,1,228.00,192.00
+L00689,C2025-00385,2025-05-18,Sud,En ligne,Informatique,Casque,2,187.00,144.00
+L00690,C2025-00386,2025-05-18,Sud,En ligne,Accessoires,Câble,2,32.40,10.00
+L00709,C2025-00396,2025-05-18,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L00710,C2025-00396,2025-05-18,Ouest,Magasin,Informatique,Casque,1,104.50,72.00
+L00711,C2025-00396,2025-05-18,Ouest,Magasin,Informatique,Écran,2,432.00,384.00
+L00558,C2025-00307,2025-05-19,Ouest,En ligne,Informatique,Casque,3,297.00,216.00
+L00583,C2025-00323,2025-05-19,Est,Magasin,Informatique,Écran,1,240.00,192.00
+L00584,C2025-00323,2025-05-19,Est,Magasin,Informatique,Écran,3,720.00,576.00
+L00631,C2025-00352,2025-05-19,Sud,Magasin,Sport,Tapis,3,135.00,69.00
+L00654,C2025-00366,2025-05-19,Ouest,Magasin,Informatique,Clavier,2,153.00,110.00
+L00563,C2025-00311,2025-05-20,Ouest,En ligne,Informatique,Clavier,2,161.50,110.00
+L00557,C2025-00306,2025-05-21,Ouest,Magasin,Accessoires,Souris,2,70.00,30.00
+L00570,C2025-00316,2025-05-21,Sud,Magasin,Maison,Chaise,1,133.00,95.00
+L00571,C2025-00316,2025-05-21,Sud,Magasin,Informatique,Casque,3,297.00,216.00
+L00610,C2025-00342,2025-05-21,Nord,Magasin,Informatique,Écran,1,240.00,192.00
+L00611,C2025-00342,2025-05-21,Nord,Magasin,Sport,Sac,1,70.00,38.00
+L00612,C2025-00342,2025-05-21,Nord,Magasin,Accessoires,Support,2,53.20,20.00
+L00657,C2025-00368,2025-05-21,Ouest,Magasin,Informatique,Casque,1,110.00,72.00
+L00588,C2025-00326,2025-05-22,Ouest,Magasin,Sport,Sac,2,133.00,76.00
+L00589,C2025-00326,2025-05-22,Ouest,Magasin,Informatique,Écran,2,432.00,384.00
+L00597,C2025-00333,2025-05-22,Nord,Magasin,Informatique,Clavier,1,85.00,55.00
+L00617,C2025-00346,2025-05-22,Ouest,Magasin,Accessoires,Souris,1,35.00,15.00
+L00618,C2025-00346,2025-05-22,Ouest,Magasin,Accessoires,Souris,1,33.25,15.00
+L00633,C2025-00354,2025-05-22,Nord,Magasin,Accessoires,Souris,1,35.00,15.00
+L00634,C2025-00354,2025-05-22,Nord,Magasin,Informatique,Clavier,1,85.00,55.00
+L00677,C2025-00379,2025-05-22,Nord,Magasin,Informatique,Casque,3,330.00,216.00
+L00678,C2025-00379,2025-05-22,Nord,Magasin,Informatique,Clavier,3,255.00,165.00
+L00679,C2025-00379,2025-05-22,Nord,Magasin,Informatique,Écran,2,480.00,384.00
+L00704,C2025-00394,2025-05-22,Ouest,Magasin,Informatique,Clavier,1,80.75,55.00
+L00705,C2025-00394,2025-05-22,Ouest,Magasin,Maison,Chaise,1,126.00,95.00
+L00706,C2025-00394,2025-05-22,Ouest,Magasin,Accessoires,Support,3,79.80,30.00
+L00572,C2025-00317,2025-05-23,Nord,Magasin,Sport,Gourde,3,75.00,33.00
+L00573,C2025-00317,2025-05-23,Nord,Magasin,Informatique,Écran,2,480.00,384.00
+L00574,C2025-00317,2025-05-23,Nord,Magasin,Accessoires,Souris,1,35.00,15.00
+L00607,C2025-00340,2025-05-23,Ouest,En ligne,Accessoires,Souris,3,99.75,45.00
+L00608,C2025-00340,2025-05-23,Ouest,En ligne,Informatique,Casque,1,99.00,72.00
+L00614,C2025-00344,2025-05-23,Ouest,Magasin,Accessoires,Support,1,25.20,10.00
+L00615,C2025-00344,2025-05-23,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L00662,C2025-00371,2025-05-23,Ouest,Magasin,Maison,Chaise,3,378.00,285.00
+L00663,C2025-00372,2025-05-23,Est,Magasin,Maison,Étagère,2,380.00,258.00
+L00664,C2025-00372,2025-05-23,Est,Magasin,Informatique,Écran,2,432.00,384.00
+L00669,C2025-00375,2025-05-24,Sud,En ligne,Informatique,Écran,2,456.00,384.00
+L00601,C2025-00337,2025-05-25,Sud,Magasin,Informatique,Écran,3,720.00,576.00
+L00602,C2025-00338,2025-05-26,Nord,En ligne,Informatique,Casque,3,280.50,216.00
+L00603,C2025-00338,2025-05-26,Nord,En ligne,Informatique,Clavier,2,144.50,110.00
+L00701,C2025-00392,2025-05-26,Nord,En ligne,Informatique,Clavier,1,72.25,55.00
+L00702,C2025-00392,2025-05-26,Nord,En ligne,Informatique,Casque,3,280.50,216.00
+L00659,C2025-00370,2025-05-27,Ouest,En ligne,Informatique,Casque,1,104.50,72.00
+L00660,C2025-00370,2025-05-27,Ouest,En ligne,Accessoires,Souris,3,99.75,45.00
+L00661,C2025-00370,2025-05-27,Ouest,En ligne,Maison,Lampe,3,165.75,111.00
+L00665,C2025-00373,2025-05-27,Est,Magasin,Informatique,Clavier,3,242.25,165.00
+L00666,C2025-00373,2025-05-27,Est,Magasin,Maison,Étagère,1,180.50,129.00
+L00672,C2025-00377,2025-05-27,Nord,En ligne,Informatique,Clavier,3,242.25,165.00
+L00673,C2025-00377,2025-05-27,Nord,En ligne,Informatique,Écran,1,204.00,192.00
+L00674,C2025-00377,2025-05-27,Nord,En ligne,Accessoires,Souris,3,94.50,45.00
+L00591,C2025-00328,2025-05-28,Nord,Magasin,Informatique,Casque,1,110.00,72.00
+L00684,C2025-00382,2025-05-28,Nord,Magasin,Accessoires,Support,1,26.60,10.00
+L00692,C2025-00388,2025-05-28,Est,Magasin,Accessoires,Support,2,56.00,20.00
+L00693,C2025-00388,2025-05-28,Est,Magasin,Accessoires,Support,2,56.00,20.00
+L00604,C2025-00339,2025-05-29,Est,En ligne,Sport,Gourde,2,42.50,22.00
+L00605,C2025-00339,2025-05-29,Est,En ligne,Accessoires,Souris,1,33.25,15.00
+L00606,C2025-00339,2025-05-29,Est,En ligne,Sport,Gourde,3,71.25,33.00
+L00635,C2025-00355,2025-05-29,Nord,En ligne,Informatique,Écran,2,456.00,384.00
+L00641,C2025-00358,2025-05-29,Sud,Magasin,Accessoires,Support,1,28.00,10.00
+L00658,C2025-00369,2025-05-29,Nord,Magasin,Accessoires,Support,1,26.60,10.00
+L00694,C2025-00389,2025-05-29,Sud,En ligne,Accessoires,Support,2,53.20,20.00
+L00695,C2025-00389,2025-05-29,Sud,En ligne,Informatique,Clavier,1,80.75,55.00
+L00696,C2025-00389,2025-05-29,Sud,En ligne,Informatique,Casque,3,313.50,216.00
+L00569,C2025-00315,2025-05-30,Est,Magasin,Informatique,Casque,3,330.00,216.00
+L00598,C2025-00334,2025-05-30,Nord,Magasin,Maison,Lampe,2,130.00,74.00
+L00645,C2025-00361,2025-05-30,Sud,Magasin,Maison,Lampe,3,185.25,111.00
+L00646,C2025-00361,2025-05-30,Sud,Magasin,Informatique,Casque,1,104.50,72.00
+L00638,C2025-00357,2025-05-31,Est,Magasin,Accessoires,Support,2,50.40,20.00
+L00639,C2025-00357,2025-05-31,Est,Magasin,Sport,Tapis,1,45.00,23.00
+L00640,C2025-00357,2025-05-31,Est,Magasin,Informatique,Écran,2,432.00,384.00
+L00685,C2025-00383,2025-05-31,Ouest,Magasin,Accessoires,Support,3,84.00,30.00
+L00686,C2025-00383,2025-05-31,Ouest,Magasin,Accessoires,Support,2,53.20,20.00
+L00738,C2025-00412,2025-06-01,Sud,Magasin,Accessoires,Souris,2,70.00,30.00
+L00739,C2025-00412,2025-06-01,Sud,Magasin,Maison,Chaise,1,133.00,95.00
+L00893,C2025-00502,2025-06-01,Ouest,Magasin,Accessoires,Souris,2,70.00,30.00
+L00894,C2025-00502,2025-06-01,Ouest,Magasin,Sport,Gourde,2,50.00,22.00
+L00895,C2025-00502,2025-06-01,Ouest,Magasin,Sport,Tapis,1,40.50,23.00
+L00766,C2025-00427,2025-06-02,Nord,Magasin,Sport,Gourde,1,25.00,11.00
+L00767,C2025-00427,2025-06-02,Nord,Magasin,Accessoires,Souris,2,70.00,30.00
+L00774,C2025-00431,2025-06-02,Ouest,Magasin,Accessoires,Câble,3,48.60,15.00
+L00775,C2025-00431,2025-06-02,Ouest,Magasin,Informatique,Clavier,1,80.75,55.00
+L00781,C2025-00436,2025-06-02,Est,En ligne,Accessoires,Souris,2,66.50,30.00
+L00745,C2025-00416,2025-06-03,Ouest,Magasin,Accessoires,Support,3,84.00,30.00
+L00752,C2025-00420,2025-06-03,Ouest,En ligne,Informatique,Écran,1,204.00,192.00
+L00753,C2025-00420,2025-06-03,Ouest,En ligne,Maison,Étagère,3,513.00,387.00
+L00754,C2025-00420,2025-06-03,Ouest,En ligne,Informatique,Casque,2,198.00,144.00
+L00789,C2025-00442,2025-06-03,Nord,En ligne,Accessoires,Souris,3,99.75,45.00
+L00801,C2025-00449,2025-06-03,Est,Magasin,Accessoires,Support,1,28.00,10.00
+L00718,C2025-00400,2025-06-04,Est,Magasin,Accessoires,Support,2,56.00,20.00
+L00719,C2025-00400,2025-06-04,Est,Magasin,Sport,Tapis,2,81.00,46.00
+L00720,C2025-00400,2025-06-04,Est,Magasin,Informatique,Écran,2,456.00,384.00
+L00732,C2025-00407,2025-06-04,Est,Magasin,Sport,Sac,1,66.50,38.00
+L00765,C2025-00426,2025-06-04,Nord,Magasin,Maison,Étagère,3,541.50,387.00
+L00807,C2025-00453,2025-06-04,Nord,Magasin,Informatique,Clavier,3,229.50,165.00
+L00816,C2025-00459,2025-06-04,Ouest,Magasin,Informatique,Écran,1,240.00,192.00
+L00817,C2025-00459,2025-06-04,Ouest,Magasin,Informatique,Écran,2,480.00,384.00
+L00818,C2025-00459,2025-06-04,Ouest,Magasin,Informatique,Écran,3,720.00,576.00
+L00733,C2025-00408,2025-06-05,Est,Magasin,Informatique,Casque,2,220.00,144.00
+L00743,C2025-00415,2025-06-05,Sud,Magasin,Maison,Lampe,3,195.00,111.00
+L00744,C2025-00415,2025-06-05,Sud,Magasin,Informatique,Casque,1,99.00,72.00
+L00761,C2025-00424,2025-06-05,Est,En ligne,Sport,Gourde,2,42.50,22.00
+L00778,C2025-00434,2025-06-05,Nord,En ligne,Sport,Tapis,3,121.50,69.00
+L00779,C2025-00434,2025-06-05,Nord,En ligne,Sport,Sac,2,133.00,76.00
+L00780,C2025-00435,2025-06-05,Est,En ligne,Sport,Sac,2,133.00,76.00
+L00825,C2025-00464,2025-06-05,Ouest,En ligne,Accessoires,Support,1,25.20,10.00
+L00861,C2025-00485,2025-06-05,Est,En ligne,Maison,Lampe,1,55.25,37.00
+L00862,C2025-00485,2025-06-05,Est,En ligne,Accessoires,Câble,3,45.90,15.00
+L00863,C2025-00485,2025-06-05,Est,En ligne,Maison,Étagère,2,342.00,258.00
+L00866,C2025-00487,2025-06-05,Ouest,En ligne,Accessoires,Souris,2,66.50,30.00
+L00867,C2025-00487,2025-06-05,Ouest,En ligne,Accessoires,Souris,3,99.75,45.00
+L00868,C2025-00487,2025-06-05,Ouest,En ligne,Informatique,Écran,3,684.00,576.00
+L00728,C2025-00405,2025-06-06,Ouest,Magasin,Informatique,Clavier,1,80.75,55.00
+L00729,C2025-00405,2025-06-06,Ouest,Magasin,Maison,Étagère,1,190.00,129.00
+L00730,C2025-00405,2025-06-06,Ouest,Magasin,Informatique,Écran,3,720.00,576.00
+L00805,C2025-00452,2025-06-06,Est,En ligne,Informatique,Casque,3,313.50,216.00
+L00806,C2025-00452,2025-06-06,Est,En ligne,Accessoires,Support,1,26.60,10.00
+L00846,C2025-00478,2025-06-07,Nord,Magasin,Maison,Chaise,1,133.00,95.00
+L00888,C2025-00499,2025-06-07,Ouest,Magasin,Accessoires,Support,2,50.40,20.00
+L00889,C2025-00500,2025-06-07,Nord,Magasin,Informatique,Écran,1,228.00,192.00
+L00737,C2025-00411,2025-06-08,Nord,Magasin,Informatique,Clavier,3,255.00,165.00
+L00777,C2025-00433,2025-06-08,Sud,En ligne,Informatique,Clavier,2,153.00,110.00
+L00768,C2025-00428,2025-06-09,Ouest,Magasin,Accessoires,Câble,2,34.20,10.00
+L00769,C2025-00428,2025-06-09,Ouest,Magasin,Informatique,Écran,1,228.00,192.00
+L00847,C2025-00479,2025-06-09,Sud,Magasin,Accessoires,Souris,1,33.25,15.00
+L00848,C2025-00479,2025-06-09,Sud,Magasin,Informatique,Casque,3,297.00,216.00
+L00849,C2025-00479,2025-06-09,Sud,Magasin,Sport,Gourde,1,25.00,11.00
+L00721,C2025-00401,2025-06-10,Ouest,En ligne,Accessoires,Câble,1,17.10,5.00
+L00742,C2025-00414,2025-06-10,Est,Magasin,Maison,Lampe,3,195.00,111.00
+L00822,C2025-00462,2025-06-10,Sud,En ligne,Informatique,Écran,3,612.00,576.00
+L00831,C2025-00469,2025-06-10,Est,Magasin,Maison,Étagère,1,171.00,129.00
+L00832,C2025-00469,2025-06-10,Est,Magasin,Accessoires,Support,1,25.20,10.00
+L00874,C2025-00490,2025-06-10,Ouest,En ligne,Sport,Sac,1,59.50,38.00
+L00714,C2025-00398,2025-06-11,Est,Magasin,Accessoires,Souris,1,35.00,15.00
+L00715,C2025-00398,2025-06-11,Est,Magasin,Accessoires,Câble,1,16.20,5.00
+L00826,C2025-00465,2025-06-11,Ouest,Magasin,Maison,Chaise,3,399.00,285.00
+L00838,C2025-00473,2025-06-11,Est,Magasin,Sport,Sac,3,210.00,114.00
+L00839,C2025-00473,2025-06-11,Est,Magasin,Maison,Lampe,2,123.50,74.00
+L00840,C2025-00473,2025-06-11,Est,Magasin,Informatique,Écran,2,480.00,384.00
+L00759,C2025-00423,2025-06-12,Ouest,En ligne,Informatique,Écran,2,456.00,384.00
+L00760,C2025-00423,2025-06-12,Ouest,En ligne,Accessoires,Souris,2,63.00,30.00
+L00845,C2025-00477,2025-06-12,Ouest,En ligne,Sport,Tapis,2,85.50,46.00
+L00734,C2025-00409,2025-06-13,Ouest,Magasin,Informatique,Écran,3,720.00,576.00
+L00735,C2025-00409,2025-06-13,Ouest,Magasin,Maison,Lampe,2,130.00,74.00
+L00809,C2025-00455,2025-06-13,Sud,En ligne,Informatique,Casque,1,99.00,72.00
+L00842,C2025-00475,2025-06-13,Nord,Magasin,Informatique,Écran,2,456.00,384.00
+L00808,C2025-00454,2025-06-14,Nord,Magasin,Informatique,Écran,1,240.00,192.00
+L00869,C2025-00488,2025-06-15,Est,Magasin,Informatique,Casque,1,99.00,72.00
+L00870,C2025-00488,2025-06-15,Est,Magasin,Informatique,Écran,3,720.00,576.00
+L00813,C2025-00457,2025-06-16,Ouest,Magasin,Accessoires,Support,3,79.80,30.00
+L00814,C2025-00457,2025-06-16,Ouest,Magasin,Accessoires,Souris,1,35.00,15.00
+L00879,C2025-00493,2025-06-16,Sud,Magasin,Sport,Gourde,2,50.00,22.00
+L00740,C2025-00413,2025-06-17,Sud,Magasin,Informatique,Clavier,3,255.00,165.00
+L00741,C2025-00413,2025-06-17,Sud,Magasin,Sport,Gourde,1,25.00,11.00
+L00786,C2025-00440,2025-06-17,Sud,Magasin,Maison,Chaise,2,280.00,190.00
+L00823,C2025-00463,2025-06-17,Ouest,Magasin,Accessoires,Câble,1,18.00,5.00
+L00824,C2025-00463,2025-06-17,Ouest,Magasin,Informatique,Casque,2,220.00,144.00
+L00875,C2025-00491,2025-06-17,Sud,Magasin,Maison,Chaise,3,420.00,285.00
+L00876,C2025-00491,2025-06-17,Sud,Magasin,Accessoires,Câble,1,18.00,5.00
+L00877,C2025-00492,2025-06-17,Nord,Magasin,Informatique,Écran,1,240.00,192.00
+L00878,C2025-00492,2025-06-17,Nord,Magasin,Accessoires,Souris,2,70.00,30.00
+L00881,C2025-00495,2025-06-17,Ouest,Magasin,Maison,Étagère,3,513.00,387.00
+L00785,C2025-00439,2025-06-18,Sud,Magasin,Accessoires,Câble,3,54.00,15.00
+L00798,C2025-00447,2025-06-18,Nord,En ligne,Informatique,Clavier,1,80.75,55.00
+L00799,C2025-00447,2025-06-18,Nord,En ligne,Informatique,Casque,3,313.50,216.00
+L00724,C2025-00403,2025-06-19,Ouest,En ligne,Sport,Tapis,3,121.50,69.00
+L00725,C2025-00403,2025-06-19,Ouest,En ligne,Informatique,Casque,2,209.00,144.00
+L00726,C2025-00403,2025-06-19,Ouest,En ligne,Informatique,Casque,1,104.50,72.00
+L00803,C2025-00451,2025-06-19,Est,Magasin,Accessoires,Câble,3,54.00,15.00
+L00804,C2025-00451,2025-06-19,Est,Magasin,Maison,Étagère,3,570.00,387.00
+L00770,C2025-00429,2025-06-20,Sud,En ligne,Sport,Sac,2,119.00,76.00
+L00771,C2025-00429,2025-06-20,Sud,En ligne,Sport,Sac,1,59.50,38.00
+L00772,C2025-00429,2025-06-20,Sud,En ligne,Sport,Sac,1,66.50,38.00
+L00797,C2025-00446,2025-06-20,Sud,Magasin,Informatique,Casque,3,297.00,216.00
+L00810,C2025-00456,2025-06-20,Nord,Magasin,Maison,Lampe,2,130.00,74.00
+L00811,C2025-00456,2025-06-20,Nord,Magasin,Maison,Chaise,3,399.00,285.00
+L00812,C2025-00456,2025-06-20,Nord,Magasin,Informatique,Clavier,3,229.50,165.00
+L00819,C2025-00460,2025-06-20,Ouest,En ligne,Informatique,Casque,3,297.00,216.00
+L00755,C2025-00421,2025-06-21,Ouest,Magasin,Informatique,Écran,1,240.00,192.00
+L00756,C2025-00421,2025-06-21,Ouest,Magasin,Informatique,Clavier,1,85.00,55.00
+L00757,C2025-00421,2025-06-21,Ouest,Magasin,Informatique,Écran,3,720.00,576.00
+L00791,C2025-00444,2025-06-21,Ouest,Magasin,Sport,Gourde,1,25.00,11.00
+L00792,C2025-00444,2025-06-21,Ouest,Magasin,Accessoires,Support,1,28.00,10.00
+L00793,C2025-00444,2025-06-21,Ouest,Magasin,Accessoires,Souris,2,70.00,30.00
+L00890,C2025-00501,2025-06-21,Nord,Magasin,Informatique,Casque,2,209.00,144.00
+L00891,C2025-00501,2025-06-21,Nord,Magasin,Maison,Chaise,2,266.00,190.00
+L00892,C2025-00501,2025-06-21,Nord,Magasin,Maison,Étagère,1,180.50,129.00
+L00751,C2025-00419,2025-06-22,Est,Magasin,Informatique,Casque,1,110.00,72.00
+L00790,C2025-00443,2025-06-22,Est,Magasin,Accessoires,Support,3,75.60,30.00
+L00864,C2025-00486,2025-06-23,Sud,En ligne,Informatique,Clavier,1,76.50,55.00
+L00865,C2025-00486,2025-06-23,Sud,En ligne,Informatique,Écran,1,228.00,192.00
+L00794,C2025-00445,2025-06-24,Nord,En ligne,Maison,Chaise,2,266.00,190.00
+L00795,C2025-00445,2025-06-24,Nord,En ligne,Informatique,Écran,2,456.00,384.00
+L00796,C2025-00445,2025-06-24,Nord,En ligne,Accessoires,Souris,1,33.25,15.00
+L00856,C2025-00482,2025-06-24,Est,Magasin,Accessoires,Support,1,28.00,10.00
+L00857,C2025-00482,2025-06-24,Est,Magasin,Maison,Chaise,1,126.00,95.00
+L00758,C2025-00422,2025-06-25,Ouest,Magasin,Informatique,Écran,1,240.00,192.00
+L00820,C2025-00461,2025-06-25,Nord,Magasin,Informatique,Clavier,1,80.75,55.00
+L00821,C2025-00461,2025-06-25,Nord,Magasin,Informatique,Clavier,1,85.00,55.00
+L00835,C2025-00471,2025-06-25,Nord,Magasin,Sport,Gourde,3,71.25,33.00
+L00836,C2025-00471,2025-06-25,Nord,Magasin,Informatique,Écran,3,684.00,576.00
+L00853,C2025-00481,2025-06-25,Est,En ligne,Informatique,Écran,2,408.00,384.00
+L00854,C2025-00481,2025-06-25,Est,En ligne,Informatique,Casque,3,297.00,216.00
+L00855,C2025-00481,2025-06-25,Est,En ligne,Informatique,Clavier,2,161.50,110.00
+L00860,C2025-00484,2025-06-25,Sud,Magasin,Maison,Lampe,3,195.00,111.00
+L00727,C2025-00404,2025-06-26,Nord,Magasin,Maison,Lampe,3,195.00,111.00
+L00731,C2025-00406,2025-06-26,Sud,Magasin,Accessoires,Support,1,28.00,10.00
+L00736,C2025-00410,2025-06-26,Est,Magasin,Maison,Lampe,1,65.00,37.00
+L00748,C2025-00418,2025-06-26,Nord,Magasin,Informatique,Écran,3,684.00,576.00
+L00749,C2025-00418,2025-06-26,Nord,Magasin,Accessoires,Souris,2,70.00,30.00
+L00750,C2025-00418,2025-06-26,Nord,Magasin,Sport,Sac,2,133.00,76.00
+L00784,C2025-00438,2025-06-26,Est,Magasin,Informatique,Casque,1,104.50,72.00
+L00815,C2025-00458,2025-06-26,Ouest,Magasin,Accessoires,Câble,3,51.30,15.00
+L00827,C2025-00466,2025-06-26,Sud,Magasin,Sport,Sac,2,126.00,76.00
+L00828,C2025-00466,2025-06-26,Sud,Magasin,Informatique,Clavier,2,170.00,110.00
+L00829,C2025-00467,2025-06-26,Ouest,Magasin,Accessoires,Câble,3,54.00,15.00
+L00833,C2025-00470,2025-06-26,Nord,En ligne,Maison,Lampe,3,185.25,111.00
+L00834,C2025-00470,2025-06-26,Nord,En ligne,Accessoires,Support,3,79.80,30.00
+L00837,C2025-00472,2025-06-26,Ouest,Magasin,Informatique,Écran,3,684.00,576.00
+L00843,C2025-00476,2025-06-26,Nord,Magasin,Maison,Lampe,2,130.00,74.00
+L00844,C2025-00476,2025-06-26,Nord,Magasin,Informatique,Casque,2,209.00,144.00
+L00850,C2025-00480,2025-06-26,Est,En ligne,Informatique,Clavier,1,80.75,55.00
+L00851,C2025-00480,2025-06-26,Est,En ligne,Accessoires,Support,1,26.60,10.00
+L00852,C2025-00480,2025-06-26,Est,En ligne,Maison,Étagère,2,323.00,258.00
+L00858,C2025-00483,2025-06-26,Sud,En ligne,Informatique,Écran,3,612.00,576.00
+L00859,C2025-00483,2025-06-26,Sud,En ligne,Informatique,Casque,3,313.50,216.00
+L00716,C2025-00399,2025-06-27,Ouest,Magasin,Sport,Sac,3,210.00,114.00
+L00717,C2025-00399,2025-06-27,Ouest,Magasin,Informatique,Casque,2,198.00,144.00
+L00800,C2025-00448,2025-06-27,Nord,Magasin,Sport,Sac,3,189.00,114.00
+L00830,C2025-00468,2025-06-27,Nord,En ligne,Accessoires,Câble,3,48.60,15.00
+L00884,C2025-00497,2025-06-27,Ouest,Magasin,Informatique,Casque,2,220.00,144.00
+L00885,C2025-00497,2025-06-27,Ouest,Magasin,Maison,Chaise,2,280.00,190.00
+L00762,C2025-00425,2025-06-28,Sud,En ligne,Informatique,Clavier,1,76.50,55.00
+L00763,C2025-00425,2025-06-28,Sud,En ligne,Accessoires,Support,1,26.60,10.00
+L00764,C2025-00425,2025-06-28,Sud,En ligne,Informatique,Écran,1,216.00,192.00
+L00787,C2025-00441,2025-06-28,Ouest,Magasin,Sport,Gourde,1,25.00,11.00
+L00788,C2025-00441,2025-06-28,Ouest,Magasin,Sport,Tapis,2,81.00,46.00
+L00841,C2025-00474,2025-06-28,Ouest,En ligne,Informatique,Écran,2,432.00,384.00
+L00886,C2025-00498,2025-06-28,Sud,Magasin,Maison,Lampe,2,123.50,74.00
+L00887,C2025-00498,2025-06-28,Sud,Magasin,Accessoires,Câble,3,54.00,15.00
+L00773,C2025-00430,2025-06-29,Sud,Magasin,Informatique,Casque,2,220.00,144.00
+L00782,C2025-00437,2025-06-29,Sud,Magasin,Accessoires,Souris,2,70.00,30.00
+L00783,C2025-00437,2025-06-29,Sud,Magasin,Maison,Chaise,1,133.00,95.00
+L00880,C2025-00494,2025-06-29,Nord,En ligne,Informatique,Clavier,2,153.00,110.00
+L00882,C2025-00496,2025-06-29,Ouest,En ligne,Informatique,Clavier,3,216.75,165.00
+L00883,C2025-00496,2025-06-29,Ouest,En ligne,Sport,Tapis,1,42.75,23.00
+L00722,C2025-00402,2025-06-30,Nord,En ligne,Maison,Étagère,1,171.00,129.00
+L00723,C2025-00402,2025-06-30,Nord,En ligne,Informatique,Casque,2,209.00,144.00
+L00746,C2025-00417,2025-06-30,Nord,En ligne,Accessoires,Câble,1,17.10,5.00
+L00747,C2025-00417,2025-06-30,Nord,En ligne,Informatique,Clavier,3,216.75,165.00
+L00776,C2025-00432,2025-06-30,Nord,Magasin,Sport,Gourde,3,71.25,33.00
+L00802,C2025-00450,2025-06-30,Ouest,En ligne,Accessoires,Souris,3,99.75,45.00
+L00871,C2025-00489,2025-06-30,Nord,En ligne,Informatique,Écran,1,228.00,192.00
+L00872,C2025-00489,2025-06-30,Nord,En ligne,Maison,Lampe,1,61.75,37.00
+L00873,C2025-00489,2025-06-30,Nord,En ligne,Sport,Gourde,3,71.25,33.00
+L00937,C2025-00526,2025-07-01,Ouest,Magasin,Sport,Gourde,3,67.50,33.00
+L00969,C2025-00546,2025-07-01,Ouest,En ligne,Sport,Gourde,1,22.50,11.00
+L00970,C2025-00546,2025-07-01,Ouest,En ligne,Sport,Sac,3,189.00,114.00
+L01012,C2025-00569,2025-07-01,Nord,Magasin,Sport,Sac,1,66.50,38.00
+L01013,C2025-00569,2025-07-01,Nord,Magasin,Sport,Gourde,2,47.50,22.00
+L01014,C2025-00569,2025-07-01,Nord,Magasin,Informatique,Casque,1,104.50,72.00
+L00906,C2025-00509,2025-07-02,Sud,En ligne,Sport,Gourde,3,71.25,33.00
+L00997,C2025-00562,2025-07-02,Ouest,Magasin,Informatique,Écran,3,720.00,576.00
+L00998,C2025-00562,2025-07-02,Ouest,Magasin,Sport,Sac,2,140.00,76.00
+L01038,C2025-00581,2025-07-02,Ouest,Magasin,Informatique,Casque,3,313.50,216.00
+L00920,C2025-00517,2025-07-03,Nord,Magasin,Informatique,Écran,3,720.00,576.00
+L00921,C2025-00517,2025-07-03,Nord,Magasin,Informatique,Casque,3,330.00,216.00
+L00922,C2025-00517,2025-07-03,Nord,Magasin,Informatique,Clavier,2,170.00,110.00
+L01060,C2025-00593,2025-07-03,Ouest,Magasin,Maison,Chaise,1,133.00,95.00
+L01061,C2025-00593,2025-07-03,Ouest,Magasin,Sport,Sac,3,210.00,114.00
+L00951,C2025-00534,2025-07-04,Sud,En ligne,Accessoires,Souris,1,31.50,15.00
+L00952,C2025-00534,2025-07-04,Sud,En ligne,Maison,Étagère,2,342.00,258.00
+L01047,C2025-00586,2025-07-04,Nord,Magasin,Sport,Tapis,2,90.00,46.00
+L01048,C2025-00586,2025-07-04,Nord,Magasin,Informatique,Clavier,1,85.00,55.00
+L01049,C2025-00586,2025-07-04,Nord,Magasin,Informatique,Clavier,2,170.00,110.00
+L00907,C2025-00510,2025-07-05,Nord,En ligne,Accessoires,Câble,3,51.30,15.00
+L00908,C2025-00510,2025-07-05,Nord,En ligne,Maison,Chaise,3,399.00,285.00
+L00979,C2025-00551,2025-07-05,Ouest,En ligne,Informatique,Clavier,2,161.50,110.00
+L00980,C2025-00551,2025-07-05,Ouest,En ligne,Informatique,Casque,2,187.00,144.00
+L00995,C2025-00561,2025-07-05,Ouest,Magasin,Maison,Chaise,2,280.00,190.00
+L00996,C2025-00561,2025-07-05,Ouest,Magasin,Informatique,Écran,3,684.00,576.00
+L01004,C2025-00566,2025-07-05,Ouest,En ligne,Maison,Lampe,3,185.25,111.00
+L01005,C2025-00566,2025-07-05,Ouest,En ligne,Sport,Sac,2,133.00,76.00
+L01006,C2025-00566,2025-07-05,Ouest,En ligne,Sport,Tapis,2,85.50,46.00
+L00958,C2025-00537,2025-07-06,Nord,En ligne,Accessoires,Souris,1,29.75,15.00
+L00959,C2025-00537,2025-07-06,Nord,En ligne,Sport,Sac,1,66.50,38.00
+L00966,C2025-00543,2025-07-06,Nord,En ligne,Sport,Tapis,2,85.50,46.00
+L01000,C2025-00564,2025-07-06,Est,Magasin,Accessoires,Souris,1,33.25,15.00
+L00896,C2025-00503,2025-07-07,Ouest,En ligne,Informatique,Clavier,2,144.50,110.00
+L00900,C2025-00505,2025-07-07,Nord,En ligne,Informatique,Écran,1,216.00,192.00
+L00904,C2025-00508,2025-07-07,Ouest,Magasin,Sport,Tapis,2,90.00,46.00
+L00905,C2025-00508,2025-07-07,Ouest,Magasin,Accessoires,Souris,1,33.25,15.00
+L00940,C2025-00528,2025-07-07,Ouest,Magasin,Informatique,Écran,3,720.00,576.00
+L00941,C2025-00528,2025-07-07,Ouest,Magasin,Maison,Lampe,3,195.00,111.00
+L00971,C2025-00547,2025-07-07,Sud,Magasin,Sport,Gourde,3,75.00,33.00
+L00972,C2025-00547,2025-07-07,Sud,Magasin,Informatique,Écran,1,240.00,192.00
+L01040,C2025-00583,2025-07-07,Sud,En ligne,Informatique,Clavier,3,216.75,165.00
+L01016,C2025-00571,2025-07-08,Ouest,Magasin,Maison,Lampe,2,130.00,74.00
+L01017,C2025-00571,2025-07-08,Ouest,Magasin,Accessoires,Support,1,25.20,10.00
+L01018,C2025-00571,2025-07-08,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L00955,C2025-00536,2025-07-09,Nord,Magasin,Accessoires,Support,3,84.00,30.00
+L00956,C2025-00536,2025-07-09,Nord,Magasin,Informatique,Clavier,2,170.00,110.00
+L00957,C2025-00536,2025-07-09,Nord,Magasin,Accessoires,Câble,2,36.00,10.00
+L01052,C2025-00588,2025-07-09,Ouest,Magasin,Informatique,Clavier,3,255.00,165.00
+L00929,C2025-00523,2025-07-10,Sud,En ligne,Informatique,Casque,3,313.50,216.00
+L00930,C2025-00523,2025-07-10,Sud,En ligne,Maison,Lampe,2,123.50,74.00
+L01059,C2025-00592,2025-07-10,Est,Magasin,Informatique,Casque,1,110.00,72.00
+L00912,C2025-00512,2025-07-11,Nord,Magasin,Sport,Tapis,2,81.00,46.00
+L00913,C2025-00512,2025-07-11,Nord,Magasin,Accessoires,Support,3,84.00,30.00
+L00923,C2025-00518,2025-07-11,Sud,Magasin,Sport,Tapis,1,42.75,23.00
+L00949,C2025-00533,2025-07-11,Est,Magasin,Accessoires,Câble,2,36.00,10.00
+L00950,C2025-00533,2025-07-11,Est,Magasin,Accessoires,Support,3,84.00,30.00
+L00975,C2025-00549,2025-07-11,Nord,En ligne,Accessoires,Souris,1,31.50,15.00
+L01009,C2025-00568,2025-07-11,Sud,Magasin,Informatique,Clavier,3,255.00,165.00
+L01010,C2025-00568,2025-07-11,Sud,Magasin,Accessoires,Câble,1,18.00,5.00
+L01011,C2025-00568,2025-07-11,Sud,Magasin,Informatique,Écran,2,480.00,384.00
+L00897,C2025-00504,2025-07-12,Est,Magasin,Informatique,Écran,2,432.00,384.00
+L00898,C2025-00504,2025-07-12,Est,Magasin,Maison,Lampe,2,130.00,74.00
+L00899,C2025-00504,2025-07-12,Est,Magasin,Sport,Sac,1,70.00,38.00
+L00914,C2025-00513,2025-07-12,Ouest,Magasin,Maison,Lampe,1,58.50,37.00
+L01007,C2025-00567,2025-07-12,Ouest,En ligne,Maison,Lampe,1,55.25,37.00
+L01008,C2025-00567,2025-07-12,Ouest,En ligne,Maison,Chaise,3,378.00,285.00
+L00993,C2025-00560,2025-07-13,Nord,En ligne,Maison,Chaise,1,119.00,95.00
+L00994,C2025-00560,2025-07-13,Nord,En ligne,Accessoires,Support,1,26.60,10.00
+L01066,C2025-00596,2025-07-13,Ouest,Magasin,Sport,Sac,3,210.00,114.00
+L01074,C2025-00600,2025-07-13,Ouest,Magasin,Informatique,Écran,2,432.00,384.00
+L01075,C2025-00600,2025-07-13,Ouest,Magasin,Maison,Étagère,2,342.00,258.00
+L01076,C2025-00600,2025-07-13,Ouest,Magasin,Accessoires,Câble,3,48.60,15.00
+L00985,C2025-00555,2025-07-14,Sud,Magasin,Accessoires,Support,2,53.20,20.00
+L00999,C2025-00563,2025-07-14,Nord,Magasin,Sport,Tapis,3,128.25,69.00
+L01077,C2025-00601,2025-07-15,Nord,Magasin,Accessoires,Support,2,50.40,20.00
+L00915,C2025-00514,2025-07-16,Sud,Magasin,Informatique,Écran,1,228.00,192.00
+L00916,C2025-00514,2025-07-16,Sud,Magasin,Informatique,Clavier,1,85.00,55.00
+L00917,C2025-00514,2025-07-16,Sud,Magasin,Informatique,Casque,2,220.00,144.00
+L00948,C2025-00532,2025-07-16,Sud,En ligne,Accessoires,Souris,1,29.75,15.00
+L00981,C2025-00552,2025-07-16,Nord,En ligne,Maison,Chaise,3,399.00,285.00
+L00982,C2025-00552,2025-07-16,Nord,En ligne,Maison,Lampe,2,110.50,74.00
+L00990,C2025-00559,2025-07-16,Est,Magasin,Sport,Sac,1,70.00,38.00
+L00991,C2025-00559,2025-07-16,Est,Magasin,Accessoires,Support,2,50.40,20.00
+L00992,C2025-00559,2025-07-16,Est,Magasin,Informatique,Clavier,2,170.00,110.00
+L01035,C2025-00580,2025-07-16,Ouest,Magasin,Accessoires,Câble,2,36.00,10.00
+L01036,C2025-00580,2025-07-16,Ouest,Magasin,Accessoires,Souris,3,94.50,45.00
+L01037,C2025-00580,2025-07-16,Ouest,Magasin,Accessoires,Souris,1,31.50,15.00
+L01062,C2025-00594,2025-07-16,Nord,Magasin,Informatique,Casque,1,99.00,72.00
+L01063,C2025-00594,2025-07-16,Nord,Magasin,Accessoires,Support,1,25.20,10.00
+L01064,C2025-00595,2025-07-16,Nord,En ligne,Maison,Étagère,1,180.50,129.00
+L01065,C2025-00595,2025-07-16,Nord,En ligne,Sport,Gourde,3,63.75,33.00
+L00924,C2025-00519,2025-07-17,Ouest,Magasin,Sport,Gourde,1,25.00,11.00
+L00927,C2025-00521,2025-07-18,Ouest,En ligne,Maison,Étagère,2,361.00,258.00
+L00934,C2025-00525,2025-07-18,Nord,Magasin,Sport,Gourde,1,25.00,11.00
+L00935,C2025-00525,2025-07-18,Nord,Magasin,Sport,Gourde,1,23.75,11.00
+L00936,C2025-00525,2025-07-18,Nord,Magasin,Sport,Gourde,2,50.00,22.00
+L00944,C2025-00530,2025-07-18,Ouest,En ligne,Accessoires,Support,2,47.60,20.00
+L00945,C2025-00530,2025-07-18,Ouest,En ligne,Informatique,Clavier,3,242.25,165.00
+L01039,C2025-00582,2025-07-18,Sud,En ligne,Sport,Sac,3,199.50,114.00
+L00960,C2025-00538,2025-07-20,Ouest,En ligne,Maison,Lampe,2,123.50,74.00
+L01044,C2025-00585,2025-07-20,Ouest,Magasin,Maison,Étagère,3,541.50,387.00
+L01045,C2025-00585,2025-07-20,Ouest,Magasin,Informatique,Écran,1,216.00,192.00
+L01046,C2025-00585,2025-07-20,Ouest,Magasin,Informatique,Clavier,3,255.00,165.00
+L00909,C2025-00511,2025-07-21,Nord,Magasin,Informatique,Écran,2,480.00,384.00
+L00910,C2025-00511,2025-07-21,Nord,Magasin,Informatique,Casque,2,209.00,144.00
+L00911,C2025-00511,2025-07-21,Nord,Magasin,Accessoires,Câble,3,51.30,15.00
+L00931,C2025-00524,2025-07-21,Sud,En ligne,Informatique,Écran,3,612.00,576.00
+L00932,C2025-00524,2025-07-21,Sud,En ligne,Accessoires,Support,3,71.40,30.00
+L00933,C2025-00524,2025-07-21,Sud,En ligne,Informatique,Casque,2,209.00,144.00
+L00983,C2025-00553,2025-07-21,Sud,Magasin,Accessoires,Support,1,28.00,10.00
+L01024,C2025-00575,2025-07-21,Ouest,Magasin,Informatique,Casque,2,220.00,144.00
+L01025,C2025-00575,2025-07-21,Ouest,Magasin,Accessoires,Souris,2,66.50,30.00
+L01055,C2025-00590,2025-07-21,Ouest,Magasin,Accessoires,Support,3,84.00,30.00
+L01056,C2025-00590,2025-07-21,Ouest,Magasin,Informatique,Casque,1,104.50,72.00
+L01070,C2025-00598,2025-07-21,Sud,En ligne,Accessoires,Support,2,53.20,20.00
+L00953,C2025-00535,2025-07-22,Sud,Magasin,Sport,Gourde,2,45.00,22.00
+L00954,C2025-00535,2025-07-22,Sud,Magasin,Accessoires,Câble,2,36.00,10.00
+L01001,C2025-00565,2025-07-22,Nord,Magasin,Informatique,Écran,2,432.00,384.00
+L01002,C2025-00565,2025-07-22,Nord,Magasin,Accessoires,Souris,3,105.00,45.00
+L01003,C2025-00565,2025-07-22,Nord,Magasin,Accessoires,Souris,1,35.00,15.00
+L01034,C2025-00579,2025-07-22,Ouest,Magasin,Accessoires,Câble,1,16.20,5.00
+L00989,C2025-00558,2025-07-23,Sud,En ligne,Informatique,Casque,2,209.00,144.00
+L01015,C2025-00570,2025-07-23,Sud,En ligne,Informatique,Clavier,2,153.00,110.00
+L01022,C2025-00574,2025-07-23,Nord,Magasin,Sport,Sac,2,140.00,76.00
+L01023,C2025-00574,2025-07-23,Nord,Magasin,Maison,Lampe,2,130.00,74.00
+L00968,C2025-00545,2025-07-24,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L01057,C2025-00591,2025-07-24,Est,Magasin,Sport,Gourde,2,50.00,22.00
+L01058,C2025-00591,2025-07-24,Est,Magasin,Informatique,Clavier,1,85.00,55.00
+L01021,C2025-00573,2025-07-26,Est,Magasin,Accessoires,Support,3,79.80,30.00
+L01029,C2025-00577,2025-07-26,Sud,En ligne,Informatique,Clavier,1,80.75,55.00
+L01030,C2025-00577,2025-07-26,Sud,En ligne,Sport,Gourde,1,23.75,11.00
+L01031,C2025-00577,2025-07-26,Sud,En ligne,Maison,Chaise,2,252.00,190.00
+L01050,C2025-00587,2025-07-26,Nord,Magasin,Informatique,Casque,3,330.00,216.00
+L01051,C2025-00587,2025-07-26,Nord,Magasin,Maison,Chaise,1,140.00,95.00
+L00902,C2025-00507,2025-07-27,Est,Magasin,Sport,Tapis,3,121.50,69.00
+L00903,C2025-00507,2025-07-27,Est,Magasin,Accessoires,Souris,3,105.00,45.00
+L00928,C2025-00522,2025-07-27,Sud,Magasin,Accessoires,Câble,2,34.20,10.00
+L00963,C2025-00541,2025-07-27,Nord,Magasin,Accessoires,Câble,3,54.00,15.00
+L00973,C2025-00548,2025-07-27,Ouest,Magasin,Maison,Chaise,2,252.00,190.00
+L00974,C2025-00548,2025-07-27,Ouest,Magasin,Accessoires,Souris,3,105.00,45.00
+L00976,C2025-00550,2025-07-27,Est,En ligne,Informatique,Casque,2,198.00,144.00
+L00977,C2025-00550,2025-07-27,Est,En ligne,Sport,Sac,1,66.50,38.00
+L00978,C2025-00550,2025-07-27,Est,En ligne,Accessoires,Support,2,47.60,20.00
+L01026,C2025-00576,2025-07-27,Est,Magasin,Accessoires,Souris,1,35.00,15.00
+L01027,C2025-00576,2025-07-27,Est,Magasin,Informatique,Casque,2,209.00,144.00
+L01028,C2025-00576,2025-07-27,Est,Magasin,Accessoires,Support,1,28.00,10.00
+L00942,C2025-00529,2025-07-28,Nord,Magasin,Maison,Étagère,3,513.00,387.00
+L00943,C2025-00529,2025-07-28,Nord,Magasin,Accessoires,Câble,3,48.60,15.00
+L00964,C2025-00542,2025-07-28,Est,En ligne,Informatique,Écran,2,456.00,384.00
+L00965,C2025-00542,2025-07-28,Est,En ligne,Maison,Chaise,2,252.00,190.00
+L00986,C2025-00556,2025-07-28,Est,Magasin,Accessoires,Souris,2,70.00,30.00
+L01071,C2025-00599,2025-07-28,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L01072,C2025-00599,2025-07-28,Ouest,Magasin,Informatique,Clavier,1,80.75,55.00
+L01073,C2025-00599,2025-07-28,Ouest,Magasin,Accessoires,Souris,2,63.00,30.00
+L00925,C2025-00520,2025-07-29,Sud,En ligne,Accessoires,Câble,2,32.40,10.00
+L00926,C2025-00520,2025-07-29,Sud,En ligne,Informatique,Clavier,2,161.50,110.00
+L00962,C2025-00540,2025-07-29,Ouest,Magasin,Informatique,Clavier,1,85.00,55.00
+L01019,C2025-00572,2025-07-29,Nord,Magasin,Informatique,Écran,2,480.00,384.00
+L01020,C2025-00572,2025-07-29,Nord,Magasin,Accessoires,Souris,3,105.00,45.00
+L01053,C2025-00589,2025-07-29,Ouest,En ligne,Maison,Lampe,1,58.50,37.00
+L01054,C2025-00589,2025-07-29,Ouest,En ligne,Accessoires,Câble,2,34.20,10.00
+L00901,C2025-00506,2025-07-30,Nord,En ligne,Accessoires,Support,3,79.80,30.00
+L00918,C2025-00515,2025-07-30,Ouest,Magasin,Sport,Sac,3,210.00,114.00
+L00946,C2025-00531,2025-07-30,Ouest,Magasin,Informatique,Casque,1,99.00,72.00
+L00947,C2025-00531,2025-07-30,Ouest,Magasin,Informatique,Casque,2,209.00,144.00
+L00961,C2025-00539,2025-07-30,Ouest,Magasin,Informatique,Écran,3,684.00,576.00
+L00967,C2025-00544,2025-07-30,Ouest,Magasin,Accessoires,Souris,1,33.25,15.00
+L01032,C2025-00578,2025-07-30,Sud,Magasin,Accessoires,Souris,3,94.50,45.00
+L01033,C2025-00578,2025-07-30,Sud,Magasin,Maison,Chaise,1,126.00,95.00
+L00919,C2025-00516,2025-07-31,Nord,Magasin,Accessoires,Support,1,28.00,10.00
+L00938,C2025-00527,2025-07-31,Ouest,Magasin,Accessoires,Support,2,56.00,20.00
+L00939,C2025-00527,2025-07-31,Ouest,Magasin,Informatique,Casque,2,220.00,144.00
+L00984,C2025-00554,2025-07-31,Ouest,Magasin,Maison,Chaise,2,280.00,190.00
+L00987,C2025-00557,2025-07-31,Sud,Magasin,Informatique,Clavier,3,229.50,165.00
+L00988,C2025-00557,2025-07-31,Sud,Magasin,Maison,Étagère,2,361.00,258.00
+L01041,C2025-00584,2025-07-31,Sud,En ligne,Informatique,Casque,3,280.50,216.00
+L01042,C2025-00584,2025-07-31,Sud,En ligne,Informatique,Clavier,2,161.50,110.00
+L01043,C2025-00584,2025-07-31,Sud,En ligne,Accessoires,Câble,1,15.30,5.00
+L01067,C2025-00597,2025-07-31,Nord,Magasin,Maison,Lampe,2,130.00,74.00
+L01068,C2025-00597,2025-07-31,Nord,Magasin,Sport,Gourde,2,47.50,22.00
+L01069,C2025-00597,2025-07-31,Nord,Magasin,Informatique,Écran,3,684.00,576.00
+L01219,C2025-00683,2025-08-01,Ouest,En ligne,Maison,Lampe,1,61.75,37.00
+L01220,C2025-00683,2025-08-01,Ouest,En ligne,Accessoires,Souris,1,33.25,15.00
+L01221,C2025-00683,2025-08-01,Ouest,En ligne,Accessoires,Souris,3,89.25,45.00
+L01199,C2025-00669,2025-08-02,Sud,En ligne,Accessoires,Support,3,71.40,30.00
+L01200,C2025-00669,2025-08-02,Sud,En ligne,Informatique,Écran,1,228.00,192.00
+L01239,C2025-00692,2025-08-02,Sud,Magasin,Maison,Chaise,1,140.00,95.00
+L01240,C2025-00692,2025-08-02,Sud,Magasin,Informatique,Écran,1,228.00,192.00
+L01105,C2025-00616,2025-08-03,Est,En ligne,Accessoires,Câble,2,32.40,10.00
+L01206,C2025-00674,2025-08-03,Ouest,En ligne,Maison,Chaise,2,266.00,190.00
+L01207,C2025-00674,2025-08-03,Ouest,En ligne,Informatique,Clavier,3,242.25,165.00
+L01229,C2025-00687,2025-08-03,Sud,Magasin,Informatique,Écran,2,456.00,384.00
+L01230,C2025-00687,2025-08-03,Sud,Magasin,Informatique,Clavier,1,85.00,55.00
+L01234,C2025-00689,2025-08-04,Nord,Magasin,Accessoires,Souris,2,70.00,30.00
+L01235,C2025-00689,2025-08-04,Nord,Magasin,Informatique,Clavier,2,170.00,110.00
+L01120,C2025-00624,2025-08-05,Ouest,Magasin,Accessoires,Support,3,79.80,30.00
+L01121,C2025-00624,2025-08-05,Ouest,Magasin,Accessoires,Support,3,84.00,30.00
+L01140,C2025-00638,2025-08-05,Nord,En ligne,Maison,Chaise,1,133.00,95.00
+L01177,C2025-00658,2025-08-05,Nord,En ligne,Informatique,Clavier,2,153.00,110.00
+L01178,C2025-00658,2025-08-05,Nord,En ligne,Maison,Étagère,2,361.00,258.00
+L01201,C2025-00670,2025-08-05,Ouest,En ligne,Informatique,Clavier,1,72.25,55.00
+L01208,C2025-00675,2025-08-05,Sud,Magasin,Sport,Sac,3,210.00,114.00
+L01209,C2025-00675,2025-08-05,Sud,Magasin,Informatique,Clavier,2,170.00,110.00
+L01111,C2025-00619,2025-08-06,Ouest,Magasin,Accessoires,Support,2,56.00,20.00
+L01112,C2025-00619,2025-08-06,Ouest,Magasin,Maison,Lampe,2,117.00,74.00
+L01171,C2025-00655,2025-08-06,Ouest,En ligne,Informatique,Écran,2,408.00,384.00
+L01172,C2025-00655,2025-08-06,Ouest,En ligne,Informatique,Écran,2,432.00,384.00
+L01203,C2025-00672,2025-08-06,Est,En ligne,Maison,Lampe,1,58.50,37.00
+L01204,C2025-00672,2025-08-06,Est,En ligne,Maison,Étagère,1,171.00,129.00
+L01151,C2025-00646,2025-08-07,Ouest,En ligne,Accessoires,Support,1,23.80,10.00
+L01152,C2025-00646,2025-08-07,Ouest,En ligne,Sport,Sac,1,66.50,38.00
+L01187,C2025-00664,2025-08-07,Ouest,Magasin,Maison,Étagère,3,570.00,387.00
+L01188,C2025-00664,2025-08-07,Ouest,Magasin,Informatique,Écran,1,216.00,192.00
+L01118,C2025-00623,2025-08-08,Nord,Magasin,Informatique,Écran,1,216.00,192.00
+L01119,C2025-00623,2025-08-08,Nord,Magasin,Sport,Sac,1,70.00,38.00
+L01202,C2025-00671,2025-08-08,Sud,Magasin,Informatique,Écran,2,480.00,384.00
+L01244,C2025-00694,2025-08-08,Ouest,Magasin,Accessoires,Souris,1,31.50,15.00
+L01113,C2025-00620,2025-08-09,Ouest,Magasin,Informatique,Clavier,1,85.00,55.00
+L01114,C2025-00620,2025-08-09,Ouest,Magasin,Informatique,Clavier,3,255.00,165.00
+L01160,C2025-00650,2025-08-09,Sud,Magasin,Accessoires,Souris,1,35.00,15.00
+L01161,C2025-00650,2025-08-09,Sud,Magasin,Accessoires,Câble,2,36.00,10.00
+L01162,C2025-00650,2025-08-09,Sud,Magasin,Informatique,Clavier,1,85.00,55.00
+L01238,C2025-00691,2025-08-09,Ouest,En ligne,Sport,Sac,2,133.00,76.00
+L01083,C2025-00604,2025-08-10,Nord,Magasin,Informatique,Casque,1,110.00,72.00
+L01101,C2025-00614,2025-08-10,Sud,Magasin,Informatique,Clavier,1,80.75,55.00
+L01102,C2025-00614,2025-08-10,Sud,Magasin,Informatique,Écran,1,240.00,192.00
+L01098,C2025-00613,2025-08-11,Nord,Magasin,Informatique,Clavier,3,229.50,165.00
+L01099,C2025-00613,2025-08-11,Nord,Magasin,Sport,Tapis,2,81.00,46.00
+L01100,C2025-00613,2025-08-11,Nord,Magasin,Accessoires,Support,3,84.00,30.00
+L01116,C2025-00622,2025-08-11,Nord,Magasin,Informatique,Clavier,2,153.00,110.00
+L01117,C2025-00622,2025-08-11,Nord,Magasin,Maison,Chaise,3,378.00,285.00
+L01205,C2025-00673,2025-08-11,Ouest,Magasin,Maison,Étagère,3,570.00,387.00
+L01218,C2025-00682,2025-08-11,Ouest,En ligne,Sport,Sac,2,119.00,76.00
+L01134,C2025-00634,2025-08-12,Est,En ligne,Informatique,Clavier,2,144.50,110.00
+L01135,C2025-00634,2025-08-12,Est,En ligne,Accessoires,Souris,1,33.25,15.00
+L01144,C2025-00641,2025-08-12,Est,En ligne,Accessoires,Souris,3,89.25,45.00
+L01215,C2025-00679,2025-08-12,Ouest,Magasin,Sport,Tapis,3,128.25,69.00
+L01093,C2025-00610,2025-08-13,Est,Magasin,Informatique,Casque,1,110.00,72.00
+L01196,C2025-00668,2025-08-13,Est,Magasin,Informatique,Casque,1,110.00,72.00
+L01197,C2025-00668,2025-08-13,Est,Magasin,Accessoires,Support,1,28.00,10.00
+L01198,C2025-00668,2025-08-13,Est,Magasin,Accessoires,Câble,3,48.60,15.00
+L01091,C2025-00609,2025-08-14,Ouest,Magasin,Maison,Chaise,3,399.00,285.00
+L01092,C2025-00609,2025-08-14,Ouest,Magasin,Accessoires,Câble,3,48.60,15.00
+L01130,C2025-00632,2025-08-14,Ouest,En ligne,Maison,Lampe,1,61.75,37.00
+L01131,C2025-00632,2025-08-14,Ouest,En ligne,Accessoires,Support,2,47.60,20.00
+L01127,C2025-00629,2025-08-15,Est,En ligne,Accessoires,Câble,3,51.30,15.00
+L01213,C2025-00678,2025-08-15,Sud,En ligne,Maison,Étagère,2,323.00,258.00
+L01214,C2025-00678,2025-08-15,Sud,En ligne,Informatique,Casque,1,104.50,72.00
+L01125,C2025-00627,2025-08-16,Ouest,En ligne,Informatique,Casque,2,209.00,144.00
+L01141,C2025-00639,2025-08-16,Nord,En ligne,Sport,Gourde,1,21.25,11.00
+L01153,C2025-00647,2025-08-16,Nord,Magasin,Informatique,Écran,1,228.00,192.00
+L01154,C2025-00647,2025-08-16,Nord,Magasin,Sport,Tapis,1,45.00,23.00
+L01155,C2025-00647,2025-08-16,Nord,Magasin,Accessoires,Souris,3,105.00,45.00
+L01126,C2025-00628,2025-08-17,Sud,Magasin,Informatique,Écran,2,432.00,384.00
+L01210,C2025-00676,2025-08-17,Sud,Magasin,Informatique,Clavier,2,153.00,110.00
+L01211,C2025-00676,2025-08-17,Sud,Magasin,Maison,Étagère,1,190.00,129.00
+L01223,C2025-00685,2025-08-18,Sud,Magasin,Sport,Tapis,1,42.75,23.00
+L01224,C2025-00685,2025-08-18,Sud,Magasin,Accessoires,Support,3,79.80,30.00
+L01225,C2025-00685,2025-08-18,Sud,Magasin,Accessoires,Câble,1,17.10,5.00
+L01078,C2025-00602,2025-08-19,Nord,En ligne,Informatique,Écran,3,648.00,576.00
+L01079,C2025-00602,2025-08-19,Nord,En ligne,Maison,Chaise,3,357.00,285.00
+L01084,C2025-00605,2025-08-20,Ouest,En ligne,Accessoires,Souris,2,66.50,30.00
+L01085,C2025-00605,2025-08-20,Ouest,En ligne,Accessoires,Câble,1,15.30,5.00
+L01123,C2025-00626,2025-08-20,Est,En ligne,Informatique,Écran,1,228.00,192.00
+L01124,C2025-00626,2025-08-20,Est,En ligne,Informatique,Clavier,3,229.50,165.00
+L01166,C2025-00653,2025-08-20,Ouest,En ligne,Informatique,Casque,1,99.00,72.00
+L01167,C2025-00653,2025-08-20,Ouest,En ligne,Accessoires,Support,3,71.40,30.00
+L01231,C2025-00688,2025-08-20,Ouest,Magasin,Sport,Sac,1,70.00,38.00
+L01232,C2025-00688,2025-08-20,Ouest,Magasin,Accessoires,Support,2,56.00,20.00
+L01233,C2025-00688,2025-08-20,Ouest,Magasin,Informatique,Écran,3,648.00,576.00
+L01236,C2025-00690,2025-08-20,Ouest,Magasin,Maison,Étagère,3,570.00,387.00
+L01237,C2025-00690,2025-08-20,Ouest,Magasin,Accessoires,Souris,3,99.75,45.00
+L01094,C2025-00611,2025-08-21,Est,Magasin,Maison,Chaise,1,126.00,95.00
+L01095,C2025-00611,2025-08-21,Est,Magasin,Informatique,Casque,2,220.00,144.00
+L01106,C2025-00617,2025-08-21,Ouest,En ligne,Accessoires,Câble,1,17.10,5.00
+L01107,C2025-00617,2025-08-21,Ouest,En ligne,Informatique,Écran,3,612.00,576.00
+L01156,C2025-00648,2025-08-21,Ouest,Magasin,Informatique,Clavier,3,255.00,165.00
+L01179,C2025-00659,2025-08-21,Sud,Magasin,Informatique,Écran,1,240.00,192.00
+L01180,C2025-00659,2025-08-21,Sud,Magasin,Accessoires,Souris,2,70.00,30.00
+L01181,C2025-00659,2025-08-21,Sud,Magasin,Informatique,Clavier,2,161.50,110.00
+L01090,C2025-00608,2025-08-22,Ouest,En ligne,Informatique,Clavier,3,216.75,165.00
+L01136,C2025-00635,2025-08-22,Sud,En ligne,Accessoires,Support,2,53.20,20.00
+L01122,C2025-00625,2025-08-23,Est,Magasin,Informatique,Clavier,1,85.00,55.00
+L01168,C2025-00654,2025-08-23,Nord,Magasin,Informatique,Casque,3,330.00,216.00
+L01169,C2025-00654,2025-08-23,Nord,Magasin,Sport,Tapis,3,135.00,69.00
+L01170,C2025-00654,2025-08-23,Nord,Magasin,Informatique,Clavier,3,229.50,165.00
+L01193,C2025-00667,2025-08-23,Nord,En ligne,Sport,Gourde,3,71.25,33.00
+L01194,C2025-00667,2025-08-23,Nord,En ligne,Maison,Chaise,1,133.00,95.00
+L01195,C2025-00667,2025-08-23,Nord,En ligne,Accessoires,Câble,2,30.60,10.00
+L01222,C2025-00684,2025-08-23,Sud,Magasin,Informatique,Clavier,1,85.00,55.00
+L01226,C2025-00686,2025-08-23,Nord,Magasin,Sport,Tapis,2,90.00,46.00
+L01227,C2025-00686,2025-08-23,Nord,Magasin,Maison,Chaise,3,399.00,285.00
+L01228,C2025-00686,2025-08-23,Nord,Magasin,Accessoires,Souris,1,33.25,15.00
+L01080,C2025-00603,2025-08-24,Sud,Magasin,Accessoires,Câble,2,36.00,10.00
+L01081,C2025-00603,2025-08-24,Sud,Magasin,Informatique,Écran,3,720.00,576.00
+L01082,C2025-00603,2025-08-24,Sud,Magasin,Accessoires,Support,2,50.40,20.00
+L01086,C2025-00606,2025-08-24,Sud,Magasin,Accessoires,Support,2,53.20,20.00
+L01087,C2025-00606,2025-08-24,Sud,Magasin,Informatique,Casque,1,99.00,72.00
+L01128,C2025-00630,2025-08-24,Ouest,Magasin,Informatique,Écran,3,684.00,576.00
+L01132,C2025-00633,2025-08-24,Nord,Magasin,Accessoires,Support,2,56.00,20.00
+L01133,C2025-00633,2025-08-24,Nord,Magasin,Informatique,Écran,3,720.00,576.00
+L01138,C2025-00637,2025-08-24,Ouest,Magasin,Informatique,Écran,1,228.00,192.00
+L01139,C2025-00637,2025-08-24,Ouest,Magasin,Sport,Sac,3,210.00,114.00
+L01149,C2025-00645,2025-08-24,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L01150,C2025-00645,2025-08-24,Ouest,Magasin,Maison,Étagère,3,541.50,387.00
+L01175,C2025-00657,2025-08-24,Est,Magasin,Accessoires,Câble,2,36.00,10.00
+L01176,C2025-00657,2025-08-24,Est,Magasin,Accessoires,Câble,2,36.00,10.00
+L01129,C2025-00631,2025-08-25,Sud,Magasin,Informatique,Écran,3,720.00,576.00
+L01165,C2025-00652,2025-08-25,Sud,En ligne,Informatique,Casque,2,209.00,144.00
+L01189,C2025-00665,2025-08-25,Ouest,Magasin,Informatique,Écran,2,480.00,384.00
+L01190,C2025-00665,2025-08-25,Ouest,Magasin,Accessoires,Souris,1,35.00,15.00
+L01217,C2025-00681,2025-08-25,Est,Magasin,Informatique,Écran,2,480.00,384.00
+L01096,C2025-00612,2025-08-26,Ouest,En ligne,Sport,Sac,3,199.50,114.00
+L01097,C2025-00612,2025-08-26,Ouest,En ligne,Informatique,Casque,3,313.50,216.00
+L01142,C2025-00640,2025-08-26,Sud,En ligne,Informatique,Casque,2,209.00,144.00
+L01143,C2025-00640,2025-08-26,Sud,En ligne,Informatique,Écran,2,456.00,384.00
+L01148,C2025-00644,2025-08-26,Nord,Magasin,Sport,Gourde,1,25.00,11.00
+L01115,C2025-00621,2025-08-27,Ouest,Magasin,Informatique,Écran,3,648.00,576.00
+L01157,C2025-00649,2025-08-27,Ouest,Magasin,Accessoires,Souris,3,105.00,45.00
+L01158,C2025-00649,2025-08-27,Ouest,Magasin,Sport,Tapis,2,90.00,46.00
+L01159,C2025-00649,2025-08-27,Ouest,Magasin,Informatique,Clavier,3,229.50,165.00
+L01191,C2025-00666,2025-08-27,Nord,Magasin,Maison,Chaise,1,140.00,95.00
+L01192,C2025-00666,2025-08-27,Nord,Magasin,Informatique,Écran,2,432.00,384.00
+L01216,C2025-00680,2025-08-27,Nord,En ligne,Accessoires,Câble,3,45.90,15.00
+L01088,C2025-00607,2025-08-28,Ouest,En ligne,Sport,Tapis,3,128.25,69.00
+L01089,C2025-00607,2025-08-28,Ouest,En ligne,Informatique,Casque,1,104.50,72.00
+L01145,C2025-00642,2025-08-28,Nord,En ligne,Maison,Lampe,1,61.75,37.00
+L01183,C2025-00661,2025-08-28,Nord,En ligne,Informatique,Casque,2,209.00,144.00
+L01185,C2025-00663,2025-08-28,Nord,En ligne,Informatique,Casque,2,198.00,144.00
+L01186,C2025-00663,2025-08-28,Nord,En ligne,Accessoires,Souris,1,33.25,15.00
+L01245,C2025-00695,2025-08-28,Nord,Magasin,Informatique,Clavier,1,76.50,55.00
+L01246,C2025-00695,2025-08-28,Nord,Magasin,Sport,Sac,1,66.50,38.00
+L01103,C2025-00615,2025-08-29,Nord,Magasin,Informatique,Casque,2,198.00,144.00
+L01104,C2025-00615,2025-08-29,Nord,Magasin,Accessoires,Câble,2,32.40,10.00
+L01173,C2025-00656,2025-08-29,Sud,Magasin,Maison,Chaise,3,420.00,285.00
+L01174,C2025-00656,2025-08-29,Sud,Magasin,Informatique,Écran,3,684.00,576.00
+L01212,C2025-00677,2025-08-29,Est,En ligne,Informatique,Clavier,2,144.50,110.00
+L01163,C2025-00651,2025-08-30,Nord,Magasin,Maison,Lampe,2,123.50,74.00
+L01164,C2025-00651,2025-08-30,Nord,Magasin,Informatique,Clavier,3,242.25,165.00
+L01241,C2025-00693,2025-08-30,Ouest,En ligne,Informatique,Écran,3,612.00,576.00
+L01242,C2025-00693,2025-08-30,Ouest,En ligne,Accessoires,Câble,2,30.60,10.00
+L01243,C2025-00693,2025-08-30,Ouest,En ligne,Maison,Lampe,3,185.25,111.00
+L01108,C2025-00618,2025-08-31,Ouest,Magasin,Accessoires,Souris,3,105.00,45.00
+L01109,C2025-00618,2025-08-31,Ouest,Magasin,Informatique,Écran,3,648.00,576.00
+L01110,C2025-00618,2025-08-31,Ouest,Magasin,Sport,Sac,3,210.00,114.00
+L01137,C2025-00636,2025-08-31,Sud,En ligne,Informatique,Casque,2,187.00,144.00
+L01146,C2025-00643,2025-08-31,Ouest,Magasin,Informatique,Casque,3,313.50,216.00
+L01147,C2025-00643,2025-08-31,Ouest,Magasin,Accessoires,Câble,3,48.60,15.00
+L01182,C2025-00660,2025-08-31,Nord,Magasin,Maison,Étagère,2,361.00,258.00
+L01184,C2025-00662,2025-08-31,Sud,En ligne,Informatique,Clavier,3,242.25,165.00
+L01247,C2025-00696,2025-09-01,Sud,En ligne,Accessoires,Souris,3,99.75,45.00
+L01260,C2025-00705,2025-09-01,Sud,Magasin,Informatique,Casque,2,209.00,144.00
+L01267,C2025-00710,2025-09-01,Sud,Magasin,Accessoires,Support,1,25.20,10.00
+L01268,C2025-00710,2025-09-01,Sud,Magasin,Maison,Chaise,1,133.00,95.00
+L01327,C2025-00740,2025-09-01,Sud,Magasin,Informatique,Casque,2,220.00,144.00
+L01396,C2025-00781,2025-09-01,Nord,Magasin,Accessoires,Câble,3,54.00,15.00
+L01421,C2025-00795,2025-09-01,Sud,Magasin,Maison,Lampe,3,195.00,111.00
+L01422,C2025-00795,2025-09-01,Sud,Magasin,Informatique,Casque,1,104.50,72.00
+L01293,C2025-00724,2025-09-02,Sud,Magasin,Sport,Tapis,3,128.25,69.00
+L01294,C2025-00724,2025-09-02,Sud,Magasin,Informatique,Casque,3,297.00,216.00
+L01307,C2025-00731,2025-09-02,Ouest,Magasin,Maison,Lampe,1,65.00,37.00
+L01308,C2025-00731,2025-09-02,Ouest,Magasin,Informatique,Casque,1,104.50,72.00
+L01309,C2025-00731,2025-09-02,Ouest,Magasin,Sport,Gourde,2,47.50,22.00
+L01364,C2025-00760,2025-09-02,Nord,Magasin,Sport,Tapis,3,121.50,69.00
+L01365,C2025-00760,2025-09-02,Nord,Magasin,Accessoires,Câble,2,32.40,10.00
+L01369,C2025-00764,2025-09-02,Sud,Magasin,Maison,Chaise,1,133.00,95.00
+L01414,C2025-00790,2025-09-02,Ouest,Magasin,Informatique,Écran,2,432.00,384.00
+L01415,C2025-00791,2025-09-02,Sud,Magasin,Informatique,Clavier,3,229.50,165.00
+L01248,C2025-00697,2025-09-03,Sud,Magasin,Informatique,Casque,2,220.00,144.00
+L01314,C2025-00734,2025-09-03,Est,Magasin,Sport,Tapis,3,128.25,69.00
+L01315,C2025-00734,2025-09-03,Est,Magasin,Informatique,Casque,2,198.00,144.00
+L01316,C2025-00734,2025-09-03,Est,Magasin,Informatique,Écran,1,228.00,192.00
+L01423,C2025-00796,2025-09-03,Est,En ligne,Informatique,Casque,2,187.00,144.00
+L01424,C2025-00796,2025-09-03,Est,En ligne,Accessoires,Câble,3,51.30,15.00
+L01253,C2025-00700,2025-09-04,Nord,Magasin,Informatique,Clavier,3,255.00,165.00
+L01284,C2025-00718,2025-09-04,Ouest,Magasin,Informatique,Clavier,1,85.00,55.00
+L01288,C2025-00721,2025-09-04,Est,En ligne,Accessoires,Souris,2,63.00,30.00
+L01289,C2025-00721,2025-09-04,Est,En ligne,Accessoires,Support,2,50.40,20.00
+L01290,C2025-00721,2025-09-04,Est,En ligne,Accessoires,Support,3,75.60,30.00
+L01366,C2025-00761,2025-09-04,Ouest,En ligne,Maison,Étagère,1,161.50,129.00
+L01368,C2025-00763,2025-09-04,Nord,En ligne,Informatique,Écran,3,648.00,576.00
+L01381,C2025-00772,2025-09-05,Sud,Magasin,Informatique,Écran,1,228.00,192.00
+L01382,C2025-00772,2025-09-05,Sud,Magasin,Informatique,Clavier,2,170.00,110.00
+L01384,C2025-00774,2025-09-05,Est,Magasin,Accessoires,Souris,1,31.50,15.00
+L01385,C2025-00774,2025-09-05,Est,Magasin,Informatique,Clavier,3,255.00,165.00
+L01386,C2025-00774,2025-09-05,Est,Magasin,Informatique,Clavier,1,80.75,55.00
+L01303,C2025-00729,2025-09-06,Ouest,Magasin,Sport,Gourde,3,67.50,33.00
+L01304,C2025-00729,2025-09-06,Ouest,Magasin,Sport,Tapis,1,40.50,23.00
+L01320,C2025-00736,2025-09-06,Nord,Magasin,Informatique,Écran,1,216.00,192.00
+L01321,C2025-00736,2025-09-06,Nord,Magasin,Accessoires,Câble,2,36.00,10.00
+L01355,C2025-00755,2025-09-06,Sud,Magasin,Sport,Gourde,2,45.00,22.00
+L01356,C2025-00755,2025-09-06,Sud,Magasin,Informatique,Casque,3,297.00,216.00
+L01347,C2025-00751,2025-09-07,Nord,Magasin,Accessoires,Support,3,84.00,30.00
+L01434,C2025-00803,2025-09-07,Ouest,Magasin,Informatique,Casque,2,220.00,144.00
+L01435,C2025-00803,2025-09-07,Ouest,Magasin,Informatique,Casque,3,297.00,216.00
+L01436,C2025-00803,2025-09-07,Ouest,Magasin,Informatique,Casque,3,330.00,216.00
+L01317,C2025-00735,2025-09-08,Ouest,Magasin,Informatique,Casque,3,330.00,216.00
+L01318,C2025-00735,2025-09-08,Ouest,Magasin,Maison,Chaise,3,378.00,285.00
+L01319,C2025-00735,2025-09-08,Ouest,Magasin,Maison,Lampe,3,185.25,111.00
+L01329,C2025-00742,2025-09-08,Sud,Magasin,Maison,Chaise,3,420.00,285.00
+L01332,C2025-00745,2025-09-08,Ouest,Magasin,Accessoires,Souris,1,35.00,15.00
+L01333,C2025-00745,2025-09-08,Ouest,Magasin,Sport,Tapis,2,90.00,46.00
+L01334,C2025-00745,2025-09-08,Ouest,Magasin,Sport,Gourde,1,25.00,11.00
+L01438,C2025-00805,2025-09-08,Ouest,En ligne,Informatique,Casque,2,209.00,144.00
+L01296,C2025-00726,2025-09-09,Nord,En ligne,Accessoires,Support,3,79.80,30.00
+L01338,C2025-00747,2025-09-09,Ouest,En ligne,Informatique,Clavier,1,72.25,55.00
+L01378,C2025-00771,2025-09-09,Est,En ligne,Accessoires,Support,3,75.60,30.00
+L01379,C2025-00771,2025-09-09,Est,En ligne,Sport,Gourde,2,45.00,22.00
+L01380,C2025-00771,2025-09-09,Est,En ligne,Sport,Sac,2,119.00,76.00
+L01398,C2025-00783,2025-09-09,Sud,Magasin,Accessoires,Support,1,26.60,10.00
+L01285,C2025-00719,2025-09-11,Nord,En ligne,Informatique,Écran,3,684.00,576.00
+L01295,C2025-00725,2025-09-11,Est,Magasin,Informatique,Écran,2,432.00,384.00
+L01353,C2025-00754,2025-09-12,Nord,En ligne,Sport,Gourde,2,47.50,22.00
+L01354,C2025-00754,2025-09-12,Nord,En ligne,Maison,Chaise,3,399.00,285.00
+L01416,C2025-00792,2025-09-12,Sud,En ligne,Informatique,Casque,1,104.50,72.00
+L01417,C2025-00792,2025-09-12,Sud,En ligne,Maison,Lampe,1,55.25,37.00
+L01324,C2025-00739,2025-09-13,Sud,Magasin,Informatique,Casque,2,198.00,144.00
+L01325,C2025-00739,2025-09-13,Sud,Magasin,Accessoires,Support,3,79.80,30.00
+L01326,C2025-00739,2025-09-13,Sud,Magasin,Sport,Gourde,3,75.00,33.00
+L01370,C2025-00765,2025-09-13,Nord,Magasin,Maison,Lampe,3,185.25,111.00
+L01373,C2025-00768,2025-09-13,Nord,Magasin,Informatique,Écran,3,648.00,576.00
+L01374,C2025-00768,2025-09-13,Nord,Magasin,Informatique,Casque,3,330.00,216.00
+L01375,C2025-00768,2025-09-13,Nord,Magasin,Sport,Sac,1,70.00,38.00
+L01399,C2025-00784,2025-09-13,Ouest,Magasin,Sport,Gourde,1,23.75,11.00
+L01400,C2025-00784,2025-09-13,Ouest,Magasin,Maison,Chaise,1,140.00,95.00
+L01433,C2025-00802,2025-09-13,Sud,Magasin,Sport,Gourde,2,47.50,22.00
+L01264,C2025-00708,2025-09-14,Ouest,Magasin,Sport,Sac,3,199.50,114.00
+L01357,C2025-00756,2025-09-14,Ouest,Magasin,Accessoires,Câble,2,34.20,10.00
+L01358,C2025-00756,2025-09-14,Ouest,Magasin,Maison,Étagère,2,380.00,258.00
+L01410,C2025-00788,2025-09-14,Ouest,Magasin,Informatique,Écran,1,228.00,192.00
+L01411,C2025-00788,2025-09-14,Ouest,Magasin,Informatique,Casque,3,330.00,216.00
+L01412,C2025-00788,2025-09-14,Ouest,Magasin,Maison,Lampe,3,195.00,111.00
+L01276,C2025-00715,2025-09-15,Sud,En ligne,Informatique,Clavier,2,161.50,110.00
+L01277,C2025-00715,2025-09-15,Sud,En ligne,Sport,Tapis,1,42.75,23.00
+L01278,C2025-00715,2025-09-15,Sud,En ligne,Maison,Chaise,3,357.00,285.00
+L01335,C2025-00746,2025-09-15,Nord,Magasin,Informatique,Clavier,2,170.00,110.00
+L01336,C2025-00746,2025-09-15,Nord,Magasin,Sport,Gourde,2,45.00,22.00
+L01337,C2025-00746,2025-09-15,Nord,Magasin,Informatique,Casque,1,99.00,72.00
+L01372,C2025-00767,2025-09-15,Sud,Magasin,Informatique,Casque,3,330.00,216.00
+L01420,C2025-00794,2025-09-15,Est,Magasin,Maison,Lampe,1,58.50,37.00
+L01432,C2025-00801,2025-09-15,Ouest,Magasin,Informatique,Clavier,2,170.00,110.00
+L01300,C2025-00728,2025-09-16,Est,Magasin,Accessoires,Support,1,28.00,10.00
+L01301,C2025-00728,2025-09-16,Est,Magasin,Informatique,Écran,3,648.00,576.00
+L01302,C2025-00728,2025-09-16,Est,Magasin,Maison,Lampe,2,130.00,74.00
+L01387,C2025-00775,2025-09-16,Ouest,Magasin,Maison,Chaise,3,378.00,285.00
+L01331,C2025-00744,2025-09-17,Ouest,En ligne,Sport,Sac,3,189.00,114.00
+L01367,C2025-00762,2025-09-17,Ouest,En ligne,Maison,Chaise,2,266.00,190.00
+L01418,C2025-00793,2025-09-17,Sud,En ligne,Maison,Étagère,1,180.50,129.00
+L01419,C2025-00793,2025-09-17,Sud,En ligne,Maison,Lampe,3,165.75,111.00
+L01425,C2025-00797,2025-09-17,Sud,En ligne,Accessoires,Câble,1,17.10,5.00
+L01426,C2025-00797,2025-09-17,Sud,En ligne,Sport,Tapis,1,42.75,23.00
+L01256,C2025-00703,2025-09-18,Sud,Magasin,Accessoires,Souris,2,66.50,30.00
+L01257,C2025-00703,2025-09-18,Sud,Magasin,Sport,Gourde,1,23.75,11.00
+L01328,C2025-00741,2025-09-18,Nord,Magasin,Maison,Chaise,2,280.00,190.00
+L01291,C2025-00722,2025-09-19,Ouest,En ligne,Informatique,Clavier,2,161.50,110.00
+L01255,C2025-00702,2025-09-20,Ouest,En ligne,Sport,Gourde,1,23.75,11.00
+L01305,C2025-00730,2025-09-20,Ouest,Magasin,Informatique,Casque,1,110.00,72.00
+L01306,C2025-00730,2025-09-20,Ouest,Magasin,Informatique,Casque,1,110.00,72.00
+L01330,C2025-00743,2025-09-20,Est,Magasin,Maison,Chaise,2,266.00,190.00
+L01310,C2025-00732,2025-09-21,Sud,Magasin,Informatique,Clavier,1,80.75,55.00
+L01311,C2025-00732,2025-09-21,Sud,Magasin,Accessoires,Câble,1,18.00,5.00
+L01323,C2025-00738,2025-09-21,Sud,Magasin,Accessoires,Souris,1,31.50,15.00
+L01397,C2025-00782,2025-09-21,Ouest,Magasin,Maison,Chaise,1,140.00,95.00
+L01401,C2025-00785,2025-09-21,Ouest,Magasin,Informatique,Écran,2,432.00,384.00
+L01402,C2025-00785,2025-09-21,Ouest,Magasin,Maison,Étagère,3,570.00,387.00
+L01403,C2025-00785,2025-09-21,Ouest,Magasin,Maison,Étagère,3,541.50,387.00
+L01249,C2025-00698,2025-09-22,Ouest,En ligne,Accessoires,Support,2,50.40,20.00
+L01250,C2025-00698,2025-09-22,Ouest,En ligne,Informatique,Clavier,1,72.25,55.00
+L01251,C2025-00699,2025-09-22,Sud,Magasin,Sport,Gourde,2,50.00,22.00
+L01252,C2025-00699,2025-09-22,Sud,Magasin,Maison,Lampe,2,130.00,74.00
+L01269,C2025-00711,2025-09-22,Sud,En ligne,Maison,Chaise,1,133.00,95.00
+L01270,C2025-00711,2025-09-22,Sud,En ligne,Informatique,Casque,1,104.50,72.00
+L01271,C2025-00711,2025-09-22,Sud,En ligne,Accessoires,Câble,2,34.20,10.00
+L01274,C2025-00714,2025-09-22,Est,Magasin,Maison,Lampe,3,175.50,111.00
+L01275,C2025-00714,2025-09-22,Est,Magasin,Maison,Lampe,3,175.50,111.00
+L01348,C2025-00752,2025-09-22,Ouest,En ligne,Informatique,Écran,2,456.00,384.00
+L01349,C2025-00752,2025-09-22,Ouest,En ligne,Accessoires,Souris,1,31.50,15.00
+L01395,C2025-00780,2025-09-22,Ouest,Magasin,Sport,Gourde,2,50.00,22.00
+L01272,C2025-00712,2025-09-23,Sud,Magasin,Informatique,Casque,1,99.00,72.00
+L01394,C2025-00779,2025-09-23,Sud,En ligne,Maison,Étagère,2,323.00,258.00
+L01322,C2025-00737,2025-09-24,Ouest,Magasin,Accessoires,Support,2,53.20,20.00
+L01371,C2025-00766,2025-09-24,Sud,Magasin,Accessoires,Câble,1,17.10,5.00
+L01263,C2025-00707,2025-09-25,Ouest,Magasin,Informatique,Écran,2,480.00,384.00
+L01282,C2025-00717,2025-09-25,Sud,Magasin,Informatique,Clavier,3,229.50,165.00
+L01283,C2025-00717,2025-09-25,Sud,Magasin,Accessoires,Souris,2,66.50,30.00
+L01286,C2025-00720,2025-09-25,Nord,Magasin,Maison,Chaise,3,378.00,285.00
+L01287,C2025-00720,2025-09-25,Nord,Magasin,Sport,Tapis,3,135.00,69.00
+L01292,C2025-00723,2025-09-25,Nord,Magasin,Accessoires,Souris,1,35.00,15.00
+L01404,C2025-00786,2025-09-25,Sud,En ligne,Accessoires,Câble,2,34.20,10.00
+L01405,C2025-00786,2025-09-25,Sud,En ligne,Accessoires,Support,2,47.60,20.00
+L01406,C2025-00786,2025-09-25,Sud,En ligne,Informatique,Écran,2,456.00,384.00
+L01430,C2025-00800,2025-09-25,Est,Magasin,Maison,Étagère,2,342.00,258.00
+L01431,C2025-00800,2025-09-25,Est,Magasin,Sport,Sac,2,140.00,76.00
+L01258,C2025-00704,2025-09-26,Ouest,En ligne,Maison,Chaise,1,126.00,95.00
+L01259,C2025-00704,2025-09-26,Ouest,En ligne,Sport,Tapis,1,42.75,23.00
+L01261,C2025-00706,2025-09-26,Nord,En ligne,Accessoires,Câble,1,17.10,5.00
+L01262,C2025-00706,2025-09-26,Nord,En ligne,Accessoires,Câble,2,34.20,10.00
+L01279,C2025-00716,2025-09-26,Sud,En ligne,Accessoires,Souris,2,59.50,30.00
+L01280,C2025-00716,2025-09-26,Sud,En ligne,Accessoires,Support,1,23.80,10.00
+L01281,C2025-00716,2025-09-26,Sud,En ligne,Informatique,Casque,2,209.00,144.00
+L01339,C2025-00748,2025-09-26,Ouest,Magasin,Maison,Chaise,2,266.00,190.00
+L01340,C2025-00748,2025-09-26,Ouest,Magasin,Maison,Chaise,3,378.00,285.00
+L01388,C2025-00776,2025-09-26,Sud,En ligne,Accessoires,Support,2,47.60,20.00
+L01389,C2025-00776,2025-09-26,Sud,En ligne,Maison,Étagère,2,361.00,258.00
+L01390,C2025-00776,2025-09-26,Sud,En ligne,Maison,Lampe,2,123.50,74.00
+L01341,C2025-00749,2025-09-27,Ouest,En ligne,Accessoires,Support,2,53.20,20.00
+L01342,C2025-00749,2025-09-27,Ouest,En ligne,Informatique,Casque,3,297.00,216.00
+L01343,C2025-00749,2025-09-27,Ouest,En ligne,Maison,Chaise,1,126.00,95.00
+L01428,C2025-00799,2025-09-27,Ouest,En ligne,Sport,Tapis,3,128.25,69.00
+L01429,C2025-00799,2025-09-27,Ouest,En ligne,Accessoires,Souris,1,31.50,15.00
+L01361,C2025-00758,2025-09-28,Nord,Magasin,Accessoires,Câble,1,17.10,5.00
+L01377,C2025-00770,2025-09-28,Ouest,Magasin,Maison,Lampe,3,195.00,111.00
+L01391,C2025-00777,2025-09-28,Nord,Magasin,Sport,Tapis,1,40.50,23.00
+L01407,C2025-00787,2025-09-28,Nord,Magasin,Informatique,Écran,1,240.00,192.00
+L01408,C2025-00787,2025-09-28,Nord,Magasin,Sport,Sac,3,210.00,114.00
+L01409,C2025-00787,2025-09-28,Nord,Magasin,Sport,Sac,3,210.00,114.00
+L01437,C2025-00804,2025-09-28,Ouest,Magasin,Maison,Chaise,3,399.00,285.00
+L01254,C2025-00701,2025-09-29,Ouest,Magasin,Sport,Gourde,1,25.00,11.00
+L01297,C2025-00727,2025-09-29,Sud,Magasin,Sport,Sac,3,210.00,114.00
+L01298,C2025-00727,2025-09-29,Sud,Magasin,Accessoires,Câble,3,54.00,15.00
+L01299,C2025-00727,2025-09-29,Sud,Magasin,Accessoires,Souris,3,105.00,45.00
+L01312,C2025-00733,2025-09-29,Est,Magasin,Informatique,Écran,2,480.00,384.00
+L01313,C2025-00733,2025-09-29,Est,Magasin,Maison,Chaise,2,280.00,190.00
+L01344,C2025-00750,2025-09-29,Sud,Magasin,Informatique,Casque,2,220.00,144.00
+L01345,C2025-00750,2025-09-29,Sud,Magasin,Sport,Sac,3,210.00,114.00
+L01346,C2025-00750,2025-09-29,Sud,Magasin,Maison,Étagère,3,570.00,387.00
+L01359,C2025-00757,2025-09-29,Nord,Magasin,Accessoires,Câble,3,54.00,15.00
+L01360,C2025-00757,2025-09-29,Nord,Magasin,Maison,Chaise,2,280.00,190.00
+L01376,C2025-00769,2025-09-29,Nord,En ligne,Informatique,Clavier,1,72.25,55.00
+L01392,C2025-00778,2025-09-29,Nord,Magasin,Sport,Sac,1,66.50,38.00
+L01393,C2025-00778,2025-09-29,Nord,Magasin,Accessoires,Câble,2,34.20,10.00
+L01413,C2025-00789,2025-09-29,Est,Magasin,Accessoires,Support,2,50.40,20.00
+L01265,C2025-00709,2025-09-30,Nord,Magasin,Accessoires,Câble,3,51.30,15.00
+L01266,C2025-00709,2025-09-30,Nord,Magasin,Accessoires,Souris,1,35.00,15.00
+L01273,C2025-00713,2025-09-30,Ouest,Magasin,Informatique,Clavier,1,85.00,55.00
+L01350,C2025-00753,2025-09-30,Nord,Magasin,Informatique,Écran,1,240.00,192.00
+L01351,C2025-00753,2025-09-30,Nord,Magasin,Sport,Gourde,1,25.00,11.00
+L01352,C2025-00753,2025-09-30,Nord,Magasin,Sport,Tapis,1,45.00,23.00
+L01362,C2025-00759,2025-09-30,Est,En ligne,Accessoires,Câble,1,16.20,5.00
+L01363,C2025-00759,2025-09-30,Est,En ligne,Accessoires,Câble,2,34.20,10.00
+L01383,C2025-00773,2025-09-30,Sud,Magasin,Accessoires,Câble,3,54.00,15.00
+L01427,C2025-00798,2025-09-30,Sud,En ligne,Sport,Sac,1,63.00,38.00
+L01492,C2025-00832,2025-10-01,Nord,Magasin,Accessoires,Câble,3,54.00,15.00
+L01493,C2025-00832,2025-10-01,Nord,Magasin,Sport,Gourde,1,25.00,11.00
+L01494,C2025-00833,2025-10-01,Sud,En ligne,Sport,Sac,1,59.50,38.00
+L01495,C2025-00833,2025-10-01,Sud,En ligne,Informatique,Clavier,1,80.75,55.00
+L01496,C2025-00833,2025-10-01,Sud,En ligne,Informatique,Écran,2,408.00,384.00
+L01623,C2025-00905,2025-10-01,Ouest,En ligne,Accessoires,Câble,1,15.30,5.00
+L01439,C2025-00806,2025-10-02,Nord,En ligne,Maison,Étagère,2,342.00,258.00
+L01440,C2025-00806,2025-10-02,Nord,En ligne,Maison,Étagère,3,541.50,387.00
+L01441,C2025-00806,2025-10-02,Nord,En ligne,Accessoires,Souris,1,29.75,15.00
+L01540,C2025-00857,2025-10-02,Nord,En ligne,Maison,Chaise,1,133.00,95.00
+L01541,C2025-00857,2025-10-02,Nord,En ligne,Maison,Chaise,2,252.00,190.00
+L01610,C2025-00897,2025-10-02,Ouest,En ligne,Accessoires,Support,3,71.40,30.00
+L01611,C2025-00897,2025-10-02,Ouest,En ligne,Accessoires,Support,2,53.20,20.00
+L01612,C2025-00897,2025-10-02,Ouest,En ligne,Informatique,Clavier,3,242.25,165.00
+L01627,C2025-00907,2025-10-02,Nord,En ligne,Informatique,Casque,2,187.00,144.00
+L01628,C2025-00907,2025-10-02,Nord,En ligne,Accessoires,Support,3,79.80,30.00
+L01664,C2025-00925,2025-10-02,Nord,En ligne,Informatique,Clavier,2,161.50,110.00
+L01665,C2025-00925,2025-10-02,Nord,En ligne,Sport,Tapis,2,81.00,46.00
+L01666,C2025-00925,2025-10-02,Nord,En ligne,Maison,Lampe,1,58.50,37.00
+L01669,C2025-00927,2025-10-02,Nord,En ligne,Accessoires,Support,3,79.80,30.00
+L01670,C2025-00927,2025-10-02,Nord,En ligne,Informatique,Écran,1,204.00,192.00
+L01452,C2025-00812,2025-10-03,Ouest,En ligne,Accessoires,Souris,3,89.25,45.00
+L01488,C2025-00829,2025-10-03,Sud,Magasin,Maison,Lampe,1,65.00,37.00
+L01489,C2025-00829,2025-10-03,Sud,Magasin,Informatique,Clavier,1,76.50,55.00
+L01462,C2025-00817,2025-10-04,Nord,En ligne,Accessoires,Câble,2,34.20,10.00
+L01463,C2025-00817,2025-10-04,Nord,En ligne,Informatique,Écran,3,648.00,576.00
+L01469,C2025-00821,2025-10-04,Nord,Magasin,Accessoires,Câble,3,51.30,15.00
+L01470,C2025-00821,2025-10-04,Nord,Magasin,Accessoires,Souris,3,105.00,45.00
+L01640,C2025-00913,2025-10-04,Nord,En ligne,Accessoires,Support,3,79.80,30.00
+L01497,C2025-00834,2025-10-05,Sud,En ligne,Informatique,Écran,2,432.00,384.00
+L01498,C2025-00834,2025-10-05,Sud,En ligne,Informatique,Clavier,1,72.25,55.00
+L01502,C2025-00837,2025-10-05,Sud,Magasin,Sport,Sac,2,140.00,76.00
+L01503,C2025-00837,2025-10-05,Sud,Magasin,Accessoires,Souris,3,99.75,45.00
+L01524,C2025-00848,2025-10-05,Est,Magasin,Sport,Gourde,3,67.50,33.00
+L01563,C2025-00871,2025-10-05,Est,Magasin,Maison,Lampe,1,61.75,37.00
+L01572,C2025-00876,2025-10-05,Ouest,Magasin,Informatique,Casque,2,220.00,144.00
+L01650,C2025-00919,2025-10-05,Nord,En ligne,Informatique,Clavier,3,229.50,165.00
+L01651,C2025-00919,2025-10-05,Nord,En ligne,Accessoires,Support,1,23.80,10.00
+L01652,C2025-00920,2025-10-05,Sud,Magasin,Maison,Chaise,3,378.00,285.00
+L01653,C2025-00920,2025-10-05,Sud,Magasin,Accessoires,Câble,2,32.40,10.00
+L01654,C2025-00920,2025-10-05,Sud,Magasin,Accessoires,Câble,3,51.30,15.00
+L01539,C2025-00856,2025-10-06,Sud,En ligne,Informatique,Écran,2,456.00,384.00
+L01542,C2025-00858,2025-10-06,Nord,En ligne,Sport,Gourde,2,47.50,22.00
+L01575,C2025-00879,2025-10-06,Nord,Magasin,Informatique,Casque,1,110.00,72.00
+L01576,C2025-00879,2025-10-06,Nord,Magasin,Maison,Lampe,3,195.00,111.00
+L01577,C2025-00879,2025-10-06,Nord,Magasin,Accessoires,Souris,1,35.00,15.00
+L01587,C2025-00884,2025-10-06,Ouest,Magasin,Informatique,Clavier,3,229.50,165.00
+L01588,C2025-00884,2025-10-06,Ouest,Magasin,Accessoires,Souris,3,105.00,45.00
+L01589,C2025-00885,2025-10-06,Est,Magasin,Informatique,Casque,3,330.00,216.00
+L01590,C2025-00885,2025-10-06,Est,Magasin,Informatique,Écran,3,684.00,576.00
+L01609,C2025-00896,2025-10-06,Nord,Magasin,Informatique,Clavier,2,153.00,110.00
+L01543,C2025-00859,2025-10-07,Est,En ligne,Maison,Chaise,1,133.00,95.00
+L01544,C2025-00859,2025-10-07,Est,En ligne,Maison,Étagère,2,361.00,258.00
+L01617,C2025-00901,2025-10-07,Sud,Magasin,Maison,Étagère,2,361.00,258.00
+L01474,C2025-00824,2025-10-08,Est,En ligne,Maison,Lampe,2,123.50,74.00
+L01475,C2025-00824,2025-10-08,Est,En ligne,Maison,Étagère,2,342.00,258.00
+L01479,C2025-00826,2025-10-08,Sud,En ligne,Accessoires,Support,1,26.60,10.00
+L01480,C2025-00826,2025-10-08,Sud,En ligne,Accessoires,Câble,2,32.40,10.00
+L01481,C2025-00826,2025-10-08,Sud,En ligne,Informatique,Casque,2,187.00,144.00
+L01447,C2025-00810,2025-10-09,Sud,Magasin,Informatique,Casque,1,110.00,72.00
+L01448,C2025-00810,2025-10-09,Sud,Magasin,Informatique,Casque,3,330.00,216.00
+L01449,C2025-00810,2025-10-09,Sud,Magasin,Informatique,Écran,2,480.00,384.00
+L01514,C2025-00843,2025-10-09,Ouest,En ligne,Informatique,Casque,2,209.00,144.00
+L01515,C2025-00843,2025-10-09,Ouest,En ligne,Informatique,Écran,1,228.00,192.00
+L01525,C2025-00849,2025-10-09,Nord,En ligne,Sport,Gourde,2,42.50,22.00
+L01526,C2025-00849,2025-10-09,Nord,En ligne,Accessoires,Support,1,23.80,10.00
+L01527,C2025-00849,2025-10-09,Nord,En ligne,Informatique,Casque,1,99.00,72.00
+L01545,C2025-00860,2025-10-09,Ouest,En ligne,Informatique,Clavier,2,161.50,110.00
+L01546,C2025-00860,2025-10-09,Ouest,En ligne,Informatique,Casque,3,297.00,216.00
+L01550,C2025-00862,2025-10-09,Nord,En ligne,Maison,Lampe,2,123.50,74.00
+L01624,C2025-00906,2025-10-09,Ouest,Magasin,Informatique,Écran,1,240.00,192.00
+L01625,C2025-00906,2025-10-09,Ouest,Magasin,Accessoires,Souris,2,70.00,30.00
+L01626,C2025-00906,2025-10-09,Ouest,Magasin,Informatique,Écran,3,720.00,576.00
+L01644,C2025-00916,2025-10-09,Ouest,En ligne,Sport,Tapis,3,114.75,69.00
+L01645,C2025-00916,2025-10-09,Ouest,En ligne,Informatique,Clavier,2,144.50,110.00
+L01555,C2025-00865,2025-10-10,Sud,Magasin,Informatique,Casque,2,220.00,144.00
+L01556,C2025-00865,2025-10-10,Sud,Magasin,Maison,Chaise,2,280.00,190.00
+L01557,C2025-00865,2025-10-10,Sud,Magasin,Maison,Chaise,2,266.00,190.00
+L01570,C2025-00875,2025-10-10,Nord,Magasin,Sport,Gourde,2,47.50,22.00
+L01571,C2025-00875,2025-10-10,Nord,Magasin,Accessoires,Support,3,75.60,30.00
+L01444,C2025-00808,2025-10-11,Nord,En ligne,Accessoires,Câble,3,48.60,15.00
+L01445,C2025-00809,2025-10-11,Ouest,En ligne,Accessoires,Support,1,26.60,10.00
+L01446,C2025-00809,2025-10-11,Ouest,En ligne,Informatique,Clavier,3,242.25,165.00
+L01471,C2025-00822,2025-10-11,Ouest,En ligne,Sport,Sac,2,126.00,76.00
+L01605,C2025-00894,2025-10-11,Sud,Magasin,Maison,Chaise,3,399.00,285.00
+L01606,C2025-00894,2025-10-11,Sud,Magasin,Informatique,Écran,2,432.00,384.00
+L01607,C2025-00894,2025-10-11,Sud,Magasin,Accessoires,Câble,2,32.40,10.00
+L01608,C2025-00895,2025-10-11,Nord,En ligne,Accessoires,Souris,1,31.50,15.00
+L01482,C2025-00827,2025-10-12,Sud,Magasin,Maison,Lampe,2,117.00,74.00
+L01483,C2025-00827,2025-10-12,Sud,Magasin,Sport,Tapis,2,85.50,46.00
+L01484,C2025-00827,2025-10-12,Sud,Magasin,Maison,Étagère,1,190.00,129.00
+L01499,C2025-00835,2025-10-12,Nord,En ligne,Informatique,Écran,2,432.00,384.00
+L01500,C2025-00835,2025-10-12,Nord,En ligne,Informatique,Écran,3,684.00,576.00
+L01521,C2025-00847,2025-10-12,Nord,Magasin,Informatique,Clavier,3,229.50,165.00
+L01522,C2025-00847,2025-10-12,Nord,Magasin,Informatique,Écran,2,480.00,384.00
+L01523,C2025-00847,2025-10-12,Nord,Magasin,Maison,Lampe,3,175.50,111.00
+L01642,C2025-00915,2025-10-12,Sud,En ligne,Accessoires,Câble,1,16.20,5.00
+L01643,C2025-00915,2025-10-12,Sud,En ligne,Informatique,Écran,3,684.00,576.00
+L01647,C2025-00918,2025-10-12,Nord,Magasin,Accessoires,Support,3,79.80,30.00
+L01648,C2025-00918,2025-10-12,Nord,Magasin,Informatique,Écran,1,240.00,192.00
+L01649,C2025-00918,2025-10-12,Nord,Magasin,Informatique,Clavier,1,80.75,55.00
+L01506,C2025-00840,2025-10-13,Ouest,En ligne,Accessoires,Support,3,79.80,30.00
+L01507,C2025-00840,2025-10-13,Ouest,En ligne,Informatique,Casque,3,297.00,216.00
+L01508,C2025-00840,2025-10-13,Ouest,En ligne,Maison,Chaise,2,266.00,190.00
+L01631,C2025-00909,2025-10-13,Sud,En ligne,Informatique,Écran,1,204.00,192.00
+L01632,C2025-00909,2025-10-13,Sud,En ligne,Informatique,Casque,1,104.50,72.00
+L01655,C2025-00921,2025-10-13,Nord,En ligne,Accessoires,Souris,2,59.50,30.00
+L01458,C2025-00815,2025-10-14,Nord,En ligne,Informatique,Clavier,1,80.75,55.00
+L01459,C2025-00815,2025-10-14,Nord,En ligne,Informatique,Écran,2,456.00,384.00
+L01531,C2025-00851,2025-10-14,Nord,En ligne,Sport,Sac,2,119.00,76.00
+L01535,C2025-00853,2025-10-14,Nord,En ligne,Maison,Chaise,2,238.00,190.00
+L01536,C2025-00853,2025-10-14,Nord,En ligne,Informatique,Écran,1,204.00,192.00
+L01561,C2025-00869,2025-10-14,Ouest,Magasin,Sport,Tapis,3,121.50,69.00
+L01667,C2025-00926,2025-10-14,Ouest,En ligne,Informatique,Écran,1,228.00,192.00
+L01668,C2025-00926,2025-10-14,Ouest,En ligne,Informatique,Clavier,1,80.75,55.00
+L01464,C2025-00818,2025-10-15,Sud,Magasin,Informatique,Écran,2,432.00,384.00
+L01465,C2025-00818,2025-10-15,Sud,Magasin,Maison,Chaise,2,252.00,190.00
+L01509,C2025-00841,2025-10-15,Nord,En ligne,Sport,Gourde,2,42.50,22.00
+L01510,C2025-00841,2025-10-15,Nord,En ligne,Accessoires,Support,1,26.60,10.00
+L01537,C2025-00854,2025-10-15,Est,Magasin,Informatique,Écran,2,432.00,384.00
+L01585,C2025-00883,2025-10-15,Ouest,En ligne,Accessoires,Support,1,26.60,10.00
+L01586,C2025-00883,2025-10-15,Ouest,En ligne,Informatique,Casque,1,99.00,72.00
+L01442,C2025-00807,2025-10-16,Nord,En ligne,Informatique,Casque,3,297.00,216.00
+L01443,C2025-00807,2025-10-16,Nord,En ligne,Accessoires,Souris,1,29.75,15.00
+L01491,C2025-00831,2025-10-16,Est,En ligne,Sport,Tapis,2,85.50,46.00
+L01518,C2025-00845,2025-10-16,Est,En ligne,Accessoires,Souris,2,63.00,30.00
+L01519,C2025-00845,2025-10-16,Est,En ligne,Maison,Étagère,2,323.00,258.00
+L01562,C2025-00870,2025-10-16,Est,En ligne,Informatique,Casque,2,198.00,144.00
+L01564,C2025-00872,2025-10-16,Ouest,En ligne,Maison,Chaise,2,238.00,190.00
+L01565,C2025-00872,2025-10-16,Ouest,En ligne,Sport,Gourde,1,22.50,11.00
+L01566,C2025-00872,2025-10-16,Ouest,En ligne,Maison,Chaise,3,399.00,285.00
+L01591,C2025-00886,2025-10-16,Est,Magasin,Informatique,Écran,3,648.00,576.00
+L01592,C2025-00886,2025-10-16,Est,Magasin,Informatique,Clavier,3,229.50,165.00
+L01593,C2025-00886,2025-10-16,Est,Magasin,Informatique,Écran,3,648.00,576.00
+L01601,C2025-00892,2025-10-16,Sud,Magasin,Sport,Tapis,1,45.00,23.00
+L01460,C2025-00816,2025-10-17,Ouest,Magasin,Sport,Gourde,3,71.25,33.00
+L01461,C2025-00816,2025-10-17,Ouest,Magasin,Accessoires,Souris,3,99.75,45.00
+L01468,C2025-00820,2025-10-17,Ouest,En ligne,Accessoires,Souris,1,33.25,15.00
+L01511,C2025-00842,2025-10-17,Ouest,Magasin,Accessoires,Câble,3,54.00,15.00
+L01512,C2025-00842,2025-10-17,Ouest,Magasin,Maison,Lampe,3,175.50,111.00
+L01513,C2025-00842,2025-10-17,Ouest,Magasin,Sport,Gourde,1,23.75,11.00
+L01573,C2025-00877,2025-10-17,Ouest,Magasin,Informatique,Clavier,1,76.50,55.00
+L01595,C2025-00888,2025-10-17,Ouest,En ligne,Accessoires,Support,3,79.80,30.00
+L01596,C2025-00888,2025-10-17,Ouest,En ligne,Accessoires,Câble,2,34.20,10.00
+L01613,C2025-00898,2025-10-17,Nord,Magasin,Accessoires,Souris,3,105.00,45.00
+L01619,C2025-00903,2025-10-17,Nord,Magasin,Accessoires,Support,2,56.00,20.00
+L01620,C2025-00903,2025-10-17,Nord,Magasin,Accessoires,Souris,3,99.75,45.00
+L01490,C2025-00830,2025-10-18,Sud,Magasin,Informatique,Casque,2,209.00,144.00
+L01599,C2025-00890,2025-10-18,Ouest,En ligne,Maison,Chaise,1,119.00,95.00
+L01614,C2025-00899,2025-10-18,Ouest,En ligne,Informatique,Clavier,2,153.00,110.00
+L01615,C2025-00899,2025-10-18,Ouest,En ligne,Accessoires,Câble,1,15.30,5.00
+L01641,C2025-00914,2025-10-18,Sud,En ligne,Informatique,Écran,2,408.00,384.00
+L01456,C2025-00814,2025-10-19,Sud,Magasin,Sport,Sac,1,66.50,38.00
+L01457,C2025-00814,2025-10-19,Sud,Magasin,Accessoires,Souris,2,63.00,30.00
+L01558,C2025-00866,2025-10-19,Ouest,En ligne,Informatique,Écran,2,456.00,384.00
+L01582,C2025-00882,2025-10-19,Ouest,En ligne,Sport,Tapis,2,85.50,46.00
+L01583,C2025-00882,2025-10-19,Ouest,En ligne,Maison,Chaise,1,133.00,95.00
+L01584,C2025-00882,2025-10-19,Ouest,En ligne,Informatique,Écran,1,228.00,192.00
+L01637,C2025-00912,2025-10-19,Nord,Magasin,Informatique,Casque,2,220.00,144.00
+L01638,C2025-00912,2025-10-19,Nord,Magasin,Informatique,Casque,1,110.00,72.00
+L01639,C2025-00912,2025-10-19,Nord,Magasin,Informatique,Clavier,1,80.75,55.00
+L01453,C2025-00813,2025-10-20,Est,En ligne,Informatique,Écran,1,216.00,192.00
+L01454,C2025-00813,2025-10-20,Est,En ligne,Maison,Étagère,1,161.50,129.00
+L01455,C2025-00813,2025-10-20,Est,En ligne,Informatique,Clavier,3,242.25,165.00
+L01472,C2025-00823,2025-10-20,Est,Magasin,Informatique,Casque,3,313.50,216.00
+L01473,C2025-00823,2025-10-20,Est,Magasin,Accessoires,Support,3,84.00,30.00
+L01547,C2025-00861,2025-10-20,Ouest,En ligne,Informatique,Écran,3,612.00,576.00
+L01548,C2025-00861,2025-10-20,Ouest,En ligne,Informatique,Écran,3,684.00,576.00
+L01549,C2025-00861,2025-10-20,Ouest,En ligne,Informatique,Casque,1,104.50,72.00
+L01569,C2025-00874,2025-10-20,Nord,En ligne,Accessoires,Souris,1,29.75,15.00
+L01656,C2025-00922,2025-10-20,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L01657,C2025-00922,2025-10-20,Ouest,Magasin,Maison,Chaise,3,420.00,285.00
+L01661,C2025-00924,2025-10-20,Sud,En ligne,Maison,Étagère,3,541.50,387.00
+L01662,C2025-00924,2025-10-20,Sud,En ligne,Informatique,Casque,3,280.50,216.00
+L01663,C2025-00924,2025-10-20,Sud,En ligne,Informatique,Casque,1,93.50,72.00
+L01520,C2025-00846,2025-10-21,Est,En ligne,Sport,Tapis,1,42.75,23.00
+L01532,C2025-00852,2025-10-21,Sud,En ligne,Informatique,Casque,3,313.50,216.00
+L01533,C2025-00852,2025-10-21,Sud,En ligne,Sport,Sac,1,59.50,38.00
+L01534,C2025-00852,2025-10-21,Sud,En ligne,Informatique,Clavier,1,72.25,55.00
+L01574,C2025-00878,2025-10-21,Sud,En ligne,Accessoires,Souris,3,99.75,45.00
+L01618,C2025-00902,2025-10-21,Sud,Magasin,Maison,Chaise,3,420.00,285.00
+L01466,C2025-00819,2025-10-22,Ouest,En ligne,Accessoires,Support,3,79.80,30.00
+L01467,C2025-00819,2025-10-22,Ouest,En ligne,Informatique,Casque,1,104.50,72.00
+L01597,C2025-00889,2025-10-22,Est,Magasin,Accessoires,Souris,1,35.00,15.00
+L01598,C2025-00889,2025-10-22,Est,Magasin,Accessoires,Souris,1,31.50,15.00
+L01621,C2025-00904,2025-10-22,Nord,Magasin,Informatique,Écran,2,480.00,384.00
+L01622,C2025-00904,2025-10-22,Nord,Magasin,Informatique,Casque,3,313.50,216.00
+L01528,C2025-00850,2025-10-24,Sud,En ligne,Informatique,Écran,1,204.00,192.00
+L01529,C2025-00850,2025-10-24,Sud,En ligne,Informatique,Casque,1,104.50,72.00
+L01530,C2025-00850,2025-10-24,Sud,En ligne,Accessoires,Support,1,26.60,10.00
+L01594,C2025-00887,2025-10-24,Sud,En ligne,Informatique,Casque,2,209.00,144.00
+L01646,C2025-00917,2025-10-24,Est,En ligne,Maison,Chaise,1,119.00,95.00
+L01551,C2025-00863,2025-10-25,Nord,En ligne,Accessoires,Câble,2,30.60,10.00
+L01552,C2025-00863,2025-10-25,Nord,En ligne,Accessoires,Support,3,79.80,30.00
+L01553,C2025-00864,2025-10-25,Ouest,En ligne,Accessoires,Câble,1,17.10,5.00
+L01554,C2025-00864,2025-10-25,Ouest,En ligne,Informatique,Casque,2,209.00,144.00
+L01504,C2025-00838,2025-10-26,Ouest,Magasin,Informatique,Écran,2,432.00,384.00
+L01600,C2025-00891,2025-10-26,Est,Magasin,Accessoires,Souris,2,70.00,30.00
+L01629,C2025-00908,2025-10-26,Ouest,Magasin,Maison,Étagère,3,513.00,387.00
+L01630,C2025-00908,2025-10-26,Ouest,Magasin,Accessoires,Souris,1,35.00,15.00
+L01671,C2025-00928,2025-10-26,Nord,Magasin,Sport,Sac,1,70.00,38.00
+L01672,C2025-00928,2025-10-26,Nord,Magasin,Accessoires,Câble,3,48.60,15.00
+L01485,C2025-00828,2025-10-27,Nord,En ligne,Maison,Étagère,3,484.50,387.00
+L01486,C2025-00828,2025-10-27,Nord,En ligne,Informatique,Casque,2,209.00,144.00
+L01487,C2025-00828,2025-10-27,Nord,En ligne,Accessoires,Câble,3,48.60,15.00
+L01501,C2025-00836,2025-10-27,Sud,En ligne,Informatique,Casque,2,209.00,144.00
+L01505,C2025-00839,2025-10-27,Ouest,En ligne,Accessoires,Souris,1,33.25,15.00
+L01560,C2025-00868,2025-10-27,Est,En ligne,Informatique,Écran,2,408.00,384.00
+L01476,C2025-00825,2025-10-28,Nord,Magasin,Maison,Lampe,3,175.50,111.00
+L01477,C2025-00825,2025-10-28,Nord,Magasin,Informatique,Casque,2,220.00,144.00
+L01478,C2025-00825,2025-10-28,Nord,Magasin,Informatique,Casque,3,313.50,216.00
+L01580,C2025-00881,2025-10-28,Est,Magasin,Informatique,Clavier,2,170.00,110.00
+L01581,C2025-00881,2025-10-28,Est,Magasin,Informatique,Clavier,1,80.75,55.00
+L01538,C2025-00855,2025-10-29,Sud,Magasin,Maison,Étagère,2,361.00,258.00
+L01559,C2025-00867,2025-10-29,Est,En ligne,Informatique,Écran,1,216.00,192.00
+L01567,C2025-00873,2025-10-29,Ouest,Magasin,Maison,Chaise,1,140.00,95.00
+L01568,C2025-00873,2025-10-29,Ouest,Magasin,Sport,Tapis,1,42.75,23.00
+L01616,C2025-00900,2025-10-29,Nord,En ligne,Maison,Chaise,1,133.00,95.00
+L01450,C2025-00811,2025-10-30,Nord,En ligne,Informatique,Écran,1,216.00,192.00
+L01451,C2025-00811,2025-10-30,Nord,En ligne,Sport,Gourde,2,47.50,22.00
+L01602,C2025-00893,2025-10-30,Sud,Magasin,Accessoires,Support,3,79.80,30.00
+L01603,C2025-00893,2025-10-30,Sud,Magasin,Accessoires,Câble,1,17.10,5.00
+L01604,C2025-00893,2025-10-30,Sud,Magasin,Accessoires,Câble,1,18.00,5.00
+L01633,C2025-00910,2025-10-30,Sud,En ligne,Informatique,Clavier,2,161.50,110.00
+L01634,C2025-00910,2025-10-30,Sud,En ligne,Maison,Étagère,2,361.00,258.00
+L01635,C2025-00911,2025-10-30,Nord,En ligne,Maison,Étagère,1,180.50,129.00
+L01636,C2025-00911,2025-10-30,Nord,En ligne,Maison,Chaise,2,238.00,190.00
+L01658,C2025-00923,2025-10-30,Est,En ligne,Sport,Gourde,1,22.50,11.00
+L01659,C2025-00923,2025-10-30,Est,En ligne,Informatique,Écran,1,228.00,192.00
+L01660,C2025-00923,2025-10-30,Est,En ligne,Accessoires,Souris,1,31.50,15.00
+L01516,C2025-00844,2025-10-31,Ouest,En ligne,Informatique,Clavier,2,144.50,110.00
+L01517,C2025-00844,2025-10-31,Ouest,En ligne,Accessoires,Support,3,75.60,30.00
+L01578,C2025-00880,2025-10-31,Ouest,En ligne,Sport,Tapis,3,121.50,69.00
+L01579,C2025-00880,2025-10-31,Ouest,En ligne,Sport,Tapis,2,85.50,46.00
+L01682,C2025-00934,2025-11-01,Sud,En ligne,Sport,Sac,3,189.00,114.00
+L01763,C2025-00977,2025-11-01,Est,Magasin,Sport,Sac,3,178.50,114.00
+L01764,C2025-00977,2025-11-01,Est,Magasin,Informatique,Écran,1,204.00,192.00
+L01797,C2025-00993,2025-11-01,Nord,Magasin,Informatique,Écran,3,612.00,576.00
+L01798,C2025-00993,2025-11-01,Nord,Magasin,Sport,Sac,1,59.50,38.00
+L01806,C2025-00999,2025-11-01,Ouest,En ligne,Accessoires,Support,1,25.20,10.00
+L01807,C2025-00999,2025-11-01,Ouest,En ligne,Informatique,Casque,1,88.00,72.00
+L01811,C2025-01002,2025-11-01,Nord,En ligne,Informatique,Écran,3,648.00,576.00
+L01875,C2025-01039,2025-11-01,Ouest,En ligne,Informatique,Écran,3,612.00,576.00
+L01680,C2025-00933,2025-11-02,Nord,Magasin,Accessoires,Câble,3,51.30,15.00
+L01681,C2025-00933,2025-11-02,Nord,Magasin,Informatique,Clavier,1,72.25,55.00
+L01788,C2025-00989,2025-11-02,Ouest,En ligne,Sport,Gourde,2,45.00,22.00
+L01822,C2025-01008,2025-11-02,Est,En ligne,Sport,Sac,3,178.50,114.00
+L01898,C2025-01052,2025-11-02,Ouest,En ligne,Informatique,Casque,3,280.50,216.00
+L01905,C2025-01057,2025-11-02,Ouest,Magasin,Maison,Chaise,2,266.00,190.00
+L01906,C2025-01057,2025-11-02,Ouest,Magasin,Informatique,Clavier,1,76.50,55.00
+L01683,C2025-00935,2025-11-03,Sud,En ligne,Maison,Chaise,1,126.00,95.00
+L01684,C2025-00935,2025-11-03,Sud,En ligne,Informatique,Casque,2,187.00,144.00
+L01733,C2025-00961,2025-11-03,Est,En ligne,Maison,Étagère,1,171.00,129.00
+L01780,C2025-00985,2025-11-03,Sud,En ligne,Informatique,Clavier,3,229.50,165.00
+L01818,C2025-01006,2025-11-03,Ouest,En ligne,Informatique,Clavier,2,136.00,110.00
+L01819,C2025-01006,2025-11-03,Ouest,En ligne,Informatique,Casque,2,198.00,144.00
+L01820,C2025-01006,2025-11-03,Ouest,En ligne,Maison,Étagère,2,342.00,258.00
+L01866,C2025-01033,2025-11-03,Nord,En ligne,Sport,Gourde,3,60.00,33.00
+L01904,C2025-01056,2025-11-03,Ouest,En ligne,Maison,Étagère,2,323.00,258.00
+L01907,C2025-01058,2025-11-03,Sud,En ligne,Accessoires,Souris,2,63.00,30.00
+L01908,C2025-01058,2025-11-03,Sud,En ligne,Accessoires,Câble,1,16.20,5.00
+L01954,C2025-01086,2025-11-03,Nord,En ligne,Informatique,Clavier,2,136.00,110.00
+L01687,C2025-00937,2025-11-04,Nord,Magasin,Accessoires,Support,1,23.80,10.00
+L01688,C2025-00937,2025-11-04,Nord,Magasin,Informatique,Clavier,2,161.50,110.00
+L01689,C2025-00937,2025-11-04,Nord,Magasin,Sport,Tapis,2,76.50,46.00
+L01765,C2025-00978,2025-11-04,Sud,En ligne,Informatique,Clavier,1,76.50,55.00
+L01766,C2025-00978,2025-11-04,Sud,En ligne,Informatique,Casque,1,93.50,72.00
+L01808,C2025-01000,2025-11-04,Ouest,Magasin,Informatique,Écran,2,432.00,384.00
+L01809,C2025-01001,2025-11-04,Ouest,Magasin,Accessoires,Souris,1,33.25,15.00
+L01810,C2025-01001,2025-11-04,Ouest,Magasin,Accessoires,Souris,2,66.50,30.00
+L01850,C2025-01024,2025-11-04,Sud,En ligne,Accessoires,Câble,1,14.40,5.00
+L01851,C2025-01024,2025-11-04,Sud,En ligne,Accessoires,Souris,1,29.75,15.00
+L01862,C2025-01031,2025-11-04,Est,En ligne,Sport,Tapis,1,36.00,23.00
+L01912,C2025-01061,2025-11-04,Nord,Magasin,Informatique,Clavier,1,76.50,55.00
+L01913,C2025-01061,2025-11-04,Nord,Magasin,Informatique,Clavier,1,80.75,55.00
+L01703,C2025-00945,2025-11-05,Ouest,En ligne,Informatique,Clavier,3,216.75,165.00
+L01739,C2025-00965,2025-11-05,Sud,Magasin,Informatique,Clavier,3,229.50,165.00
+L01740,C2025-00965,2025-11-05,Sud,Magasin,Informatique,Écran,1,228.00,192.00
+L01931,C2025-01071,2025-11-05,Ouest,Magasin,Maison,Étagère,2,361.00,258.00
+L01752,C2025-00972,2025-11-06,Sud,En ligne,Informatique,Écran,2,432.00,384.00
+L01753,C2025-00972,2025-11-06,Sud,En ligne,Informatique,Casque,1,93.50,72.00
+L01754,C2025-00972,2025-11-06,Sud,En ligne,Sport,Gourde,1,22.50,11.00
+L01784,C2025-00987,2025-11-06,Sud,En ligne,Informatique,Clavier,3,204.00,165.00
+L01785,C2025-00987,2025-11-06,Sud,En ligne,Maison,Étagère,1,171.00,129.00
+L01791,C2025-00991,2025-11-06,Ouest,En ligne,Sport,Gourde,1,22.50,11.00
+L01792,C2025-00991,2025-11-06,Ouest,En ligne,Informatique,Écran,2,408.00,384.00
+L01793,C2025-00991,2025-11-06,Ouest,En ligne,Maison,Chaise,2,252.00,190.00
+L01826,C2025-01010,2025-11-06,Ouest,En ligne,Maison,Chaise,2,238.00,190.00
+L01839,C2025-01019,2025-11-06,Est,Magasin,Informatique,Clavier,2,161.50,110.00
+L01840,C2025-01019,2025-11-06,Est,Magasin,Sport,Gourde,2,47.50,22.00
+L01692,C2025-00939,2025-11-07,Ouest,Magasin,Sport,Gourde,3,63.75,33.00
+L01723,C2025-00956,2025-11-07,Est,En ligne,Informatique,Écran,2,432.00,384.00
+L01724,C2025-00956,2025-11-07,Est,En ligne,Sport,Tapis,2,72.00,46.00
+L01830,C2025-01013,2025-11-07,Sud,En ligne,Accessoires,Souris,2,63.00,30.00
+L01831,C2025-01013,2025-11-07,Sud,En ligne,Accessoires,Câble,1,16.20,5.00
+L01852,C2025-01025,2025-11-07,Est,Magasin,Informatique,Clavier,3,229.50,165.00
+L01920,C2025-01066,2025-11-07,Ouest,Magasin,Maison,Lampe,3,165.75,111.00
+L01921,C2025-01066,2025-11-07,Ouest,Magasin,Maison,Étagère,3,484.50,387.00
+L01922,C2025-01066,2025-11-07,Ouest,Magasin,Informatique,Écran,3,684.00,576.00
+L01940,C2025-01077,2025-11-07,Sud,En ligne,Informatique,Casque,3,264.00,216.00
+L01941,C2025-01077,2025-11-07,Sud,En ligne,Maison,Étagère,2,342.00,258.00
+L01767,C2025-00979,2025-11-08,Nord,En ligne,Accessoires,Support,3,71.40,30.00
+L01768,C2025-00979,2025-11-08,Nord,En ligne,Sport,Tapis,1,36.00,23.00
+L01769,C2025-00979,2025-11-08,Nord,En ligne,Maison,Chaise,1,126.00,95.00
+L01955,C2025-01087,2025-11-08,Ouest,Magasin,Informatique,Clavier,1,72.25,55.00
+L01690,C2025-00938,2025-11-09,Est,En ligne,Maison,Étagère,1,171.00,129.00
+L01691,C2025-00938,2025-11-09,Est,En ligne,Accessoires,Support,2,50.40,20.00
+L01730,C2025-00960,2025-11-09,Ouest,En ligne,Maison,Étagère,3,513.00,387.00
+L01731,C2025-00960,2025-11-09,Ouest,En ligne,Informatique,Écran,2,384.00,384.00
+L01732,C2025-00960,2025-11-09,Ouest,En ligne,Informatique,Clavier,3,204.00,165.00
+L01751,C2025-00971,2025-11-09,Sud,En ligne,Informatique,Clavier,1,76.50,55.00
+L01846,C2025-01022,2025-11-09,Sud,En ligne,Maison,Lampe,2,117.00,74.00
+L01847,C2025-01022,2025-11-09,Sud,En ligne,Informatique,Écran,2,408.00,384.00
+L01848,C2025-01022,2025-11-09,Sud,En ligne,Informatique,Clavier,2,136.00,110.00
+L01925,C2025-01068,2025-11-09,Sud,En ligne,Accessoires,Souris,1,28.00,15.00
+L01705,C2025-00947,2025-11-10,Sud,Magasin,Accessoires,Câble,3,48.60,15.00
+L01716,C2025-00953,2025-11-10,Nord,En ligne,Informatique,Casque,2,176.00,144.00
+L01717,C2025-00953,2025-11-10,Nord,En ligne,Informatique,Casque,2,198.00,144.00
+L01718,C2025-00953,2025-11-10,Nord,En ligne,Informatique,Écran,1,192.00,192.00
+L01721,C2025-00955,2025-11-10,Nord,En ligne,Accessoires,Support,3,75.60,30.00
+L01722,C2025-00955,2025-11-10,Nord,En ligne,Informatique,Clavier,3,216.75,165.00
+L01803,C2025-00996,2025-11-10,Ouest,Magasin,Informatique,Casque,3,297.00,216.00
+L01841,C2025-01020,2025-11-10,Sud,Magasin,Accessoires,Support,1,26.60,10.00
+L01842,C2025-01020,2025-11-10,Sud,Magasin,Maison,Lampe,3,185.25,111.00
+L01843,C2025-01020,2025-11-10,Sud,Magasin,Accessoires,Support,1,26.60,10.00
+L01869,C2025-01036,2025-11-10,Sud,Magasin,Maison,Étagère,2,361.00,258.00
+L01870,C2025-01036,2025-11-10,Sud,Magasin,Accessoires,Souris,2,66.50,30.00
+L01890,C2025-01047,2025-11-10,Nord,Magasin,Informatique,Écran,1,228.00,192.00
+L01936,C2025-01074,2025-11-10,Nord,En ligne,Informatique,Clavier,3,204.00,165.00
+L01701,C2025-00944,2025-11-11,Sud,Magasin,Sport,Gourde,1,23.75,11.00
+L01702,C2025-00944,2025-11-11,Sud,Magasin,Accessoires,Support,3,71.40,30.00
+L01704,C2025-00946,2025-11-11,Ouest,En ligne,Accessoires,Câble,2,28.80,10.00
+L01758,C2025-00975,2025-11-11,Est,Magasin,Informatique,Clavier,1,72.25,55.00
+L01759,C2025-00975,2025-11-11,Est,Magasin,Accessoires,Câble,3,45.90,15.00
+L01878,C2025-01042,2025-11-11,Nord,En ligne,Informatique,Casque,1,93.50,72.00
+L01879,C2025-01042,2025-11-11,Nord,En ligne,Informatique,Casque,3,280.50,216.00
+L01880,C2025-01042,2025-11-11,Nord,En ligne,Informatique,Casque,1,99.00,72.00
+L01749,C2025-00970,2025-11-12,Ouest,Magasin,Accessoires,Câble,1,17.10,5.00
+L01750,C2025-00970,2025-11-12,Ouest,Magasin,Sport,Sac,1,63.00,38.00
+L01832,C2025-01014,2025-11-12,Est,En ligne,Accessoires,Souris,2,63.00,30.00
+L01956,C2025-01088,2025-11-12,Ouest,Magasin,Sport,Sac,2,133.00,76.00
+L01957,C2025-01088,2025-11-12,Ouest,Magasin,Accessoires,Souris,3,89.25,45.00
+L01710,C2025-00951,2025-11-13,Ouest,En ligne,Sport,Sac,2,112.00,76.00
+L01711,C2025-00951,2025-11-13,Ouest,En ligne,Maison,Étagère,3,513.00,387.00
+L01712,C2025-00951,2025-11-13,Ouest,En ligne,Maison,Étagère,1,171.00,129.00
+L01736,C2025-00963,2025-11-13,Ouest,En ligne,Sport,Sac,3,178.50,114.00
+L01737,C2025-00963,2025-11-13,Ouest,En ligne,Informatique,Casque,1,99.00,72.00
+L01938,C2025-01076,2025-11-13,Sud,En ligne,Sport,Sac,2,119.00,76.00
+L01939,C2025-01076,2025-11-13,Sud,En ligne,Informatique,Clavier,1,68.00,55.00
+L01815,C2025-01005,2025-11-14,Nord,En ligne,Maison,Lampe,1,55.25,37.00
+L01816,C2025-01005,2025-11-14,Nord,En ligne,Accessoires,Support,1,25.20,10.00
+L01817,C2025-01005,2025-11-14,Nord,En ligne,Informatique,Casque,3,297.00,216.00
+L01833,C2025-01015,2025-11-14,Nord,En ligne,Informatique,Écran,1,216.00,192.00
+L01834,C2025-01015,2025-11-14,Nord,En ligne,Informatique,Casque,2,198.00,144.00
+L01697,C2025-00942,2025-11-15,Sud,En ligne,Informatique,Écran,2,432.00,384.00
+L01698,C2025-00942,2025-11-15,Sud,En ligne,Maison,Chaise,2,224.00,190.00
+L01699,C2025-00942,2025-11-15,Sud,En ligne,Informatique,Écran,1,192.00,192.00
+L01756,C2025-00974,2025-11-15,Nord,Magasin,Maison,Étagère,1,180.50,129.00
+L01757,C2025-00974,2025-11-15,Nord,Magasin,Accessoires,Support,3,79.80,30.00
+L01786,C2025-00988,2025-11-15,Nord,Magasin,Sport,Gourde,2,47.50,22.00
+L01787,C2025-00988,2025-11-15,Nord,Magasin,Accessoires,Câble,1,17.10,5.00
+L01835,C2025-01016,2025-11-15,Nord,Magasin,Informatique,Casque,3,313.50,216.00
+L01855,C2025-01027,2025-11-15,Sud,Magasin,Accessoires,Support,1,23.80,10.00
+L01886,C2025-01045,2025-11-15,Ouest,En ligne,Informatique,Casque,2,176.00,144.00
+L01887,C2025-01045,2025-11-15,Ouest,En ligne,Maison,Chaise,3,378.00,285.00
+L01928,C2025-01070,2025-11-15,Ouest,Magasin,Maison,Chaise,3,399.00,285.00
+L01929,C2025-01070,2025-11-15,Ouest,Magasin,Informatique,Clavier,3,242.25,165.00
+L01930,C2025-01070,2025-11-15,Ouest,Magasin,Informatique,Casque,2,209.00,144.00
+L01945,C2025-01080,2025-11-15,Ouest,En ligne,Informatique,Clavier,3,229.50,165.00
+L01778,C2025-00984,2025-11-16,Sud,En ligne,Accessoires,Câble,3,43.20,15.00
+L01779,C2025-00984,2025-11-16,Sud,En ligne,Informatique,Casque,3,297.00,216.00
+L01799,C2025-00994,2025-11-16,Ouest,En ligne,Sport,Sac,2,126.00,76.00
+L01800,C2025-00994,2025-11-16,Ouest,En ligne,Accessoires,Support,2,50.40,20.00
+L01914,C2025-01062,2025-11-16,Sud,En ligne,Maison,Lampe,2,117.00,74.00
+L01693,C2025-00940,2025-11-17,Est,Magasin,Sport,Sac,1,66.50,38.00
+L01694,C2025-00940,2025-11-17,Est,Magasin,Informatique,Clavier,3,242.25,165.00
+L01774,C2025-00982,2025-11-17,Nord,Magasin,Sport,Gourde,2,42.50,22.00
+L01775,C2025-00982,2025-11-17,Nord,Magasin,Informatique,Écran,1,204.00,192.00
+L01805,C2025-00998,2025-11-17,Sud,En ligne,Informatique,Écran,3,576.00,576.00
+L01849,C2025-01023,2025-11-17,Est,Magasin,Accessoires,Souris,3,94.50,45.00
+L01853,C2025-01026,2025-11-17,Sud,En ligne,Maison,Chaise,1,126.00,95.00
+L01854,C2025-01026,2025-11-17,Sud,En ligne,Informatique,Casque,3,264.00,216.00
+L01868,C2025-01035,2025-11-17,Nord,Magasin,Informatique,Écran,2,408.00,384.00
+L01894,C2025-01050,2025-11-18,Ouest,Magasin,Accessoires,Support,1,23.80,10.00
+L01895,C2025-01050,2025-11-18,Ouest,Magasin,Informatique,Clavier,3,229.50,165.00
+L01896,C2025-01050,2025-11-18,Ouest,Magasin,Accessoires,Souris,2,59.50,30.00
+L01900,C2025-01054,2025-11-18,Sud,En ligne,Accessoires,Support,1,25.20,10.00
+L01901,C2025-01054,2025-11-18,Sud,En ligne,Accessoires,Support,1,23.80,10.00
+L01910,C2025-01060,2025-11-18,Ouest,En ligne,Accessoires,Souris,2,59.50,30.00
+L01911,C2025-01060,2025-11-18,Ouest,En ligne,Sport,Tapis,3,108.00,69.00
+L01934,C2025-01073,2025-11-18,Ouest,Magasin,Informatique,Casque,1,93.50,72.00
+L01935,C2025-01073,2025-11-18,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L01706,C2025-00948,2025-11-19,Est,Magasin,Informatique,Écran,2,408.00,384.00
+L01741,C2025-00966,2025-11-19,Sud,En ligne,Accessoires,Câble,1,16.20,5.00
+L01742,C2025-00966,2025-11-19,Sud,En ligne,Accessoires,Support,2,50.40,20.00
+L01745,C2025-00968,2025-11-19,Nord,En ligne,Accessoires,Câble,1,14.40,5.00
+L01746,C2025-00968,2025-11-19,Nord,En ligne,Informatique,Casque,1,99.00,72.00
+L01747,C2025-00968,2025-11-19,Nord,En ligne,Informatique,Écran,1,192.00,192.00
+L01789,C2025-00990,2025-11-19,Sud,Magasin,Accessoires,Câble,3,51.30,15.00
+L01790,C2025-00990,2025-11-19,Sud,Magasin,Informatique,Casque,3,297.00,216.00
+L01707,C2025-00949,2025-11-20,Ouest,Magasin,Accessoires,Câble,3,45.90,15.00
+L01708,C2025-00949,2025-11-20,Ouest,Magasin,Accessoires,Souris,1,33.25,15.00
+L01727,C2025-00958,2025-11-20,Ouest,Magasin,Accessoires,Câble,2,32.40,10.00
+L01772,C2025-00981,2025-11-20,Ouest,En ligne,Maison,Chaise,2,252.00,190.00
+L01773,C2025-00981,2025-11-20,Ouest,En ligne,Informatique,Écran,1,192.00,192.00
+L01891,C2025-01048,2025-11-20,Nord,En ligne,Sport,Tapis,1,36.00,23.00
+L01892,C2025-01048,2025-11-20,Nord,En ligne,Informatique,Casque,1,88.00,72.00
+L01673,C2025-00929,2025-11-21,Sud,En ligne,Sport,Tapis,1,38.25,23.00
+L01755,C2025-00973,2025-11-21,Sud,Magasin,Informatique,Casque,2,209.00,144.00
+L01821,C2025-01007,2025-11-21,Sud,En ligne,Informatique,Clavier,1,76.50,55.00
+L01844,C2025-01021,2025-11-21,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L01845,C2025-01021,2025-11-21,Ouest,Magasin,Maison,Étagère,2,361.00,258.00
+L01695,C2025-00941,2025-11-22,Nord,Magasin,Sport,Gourde,1,21.25,11.00
+L01696,C2025-00941,2025-11-22,Nord,Magasin,Accessoires,Câble,2,32.40,10.00
+L01743,C2025-00967,2025-11-22,Nord,En ligne,Accessoires,Souris,2,56.00,30.00
+L01744,C2025-00967,2025-11-22,Nord,En ligne,Accessoires,Souris,1,31.50,15.00
+L01801,C2025-00995,2025-11-22,Sud,Magasin,Accessoires,Support,1,25.20,10.00
+L01802,C2025-00995,2025-11-22,Sud,Magasin,Maison,Étagère,2,323.00,258.00
+L01860,C2025-01030,2025-11-22,Sud,En ligne,Informatique,Clavier,2,153.00,110.00
+L01861,C2025-01030,2025-11-22,Sud,En ligne,Sport,Gourde,1,22.50,11.00
+L01951,C2025-01084,2025-11-22,Nord,En ligne,Informatique,Écran,3,648.00,576.00
+L01674,C2025-00930,2025-11-23,Nord,Magasin,Informatique,Casque,1,93.50,72.00
+L01725,C2025-00957,2025-11-23,Ouest,Magasin,Maison,Étagère,2,342.00,258.00
+L01726,C2025-00957,2025-11-23,Ouest,Magasin,Informatique,Écran,1,228.00,192.00
+L01728,C2025-00959,2025-11-23,Sud,En ligne,Informatique,Casque,3,297.00,216.00
+L01729,C2025-00959,2025-11-23,Sud,En ligne,Informatique,Écran,3,648.00,576.00
+L01748,C2025-00969,2025-11-23,Ouest,Magasin,Informatique,Casque,1,104.50,72.00
+L01949,C2025-01083,2025-11-23,Est,En ligne,Informatique,Écran,2,432.00,384.00
+L01950,C2025-01083,2025-11-23,Est,En ligne,Informatique,Clavier,2,144.50,110.00
+L01781,C2025-00986,2025-11-24,Sud,En ligne,Maison,Lampe,3,156.00,111.00
+L01782,C2025-00986,2025-11-24,Sud,En ligne,Sport,Tapis,1,40.50,23.00
+L01783,C2025-00986,2025-11-24,Sud,En ligne,Informatique,Écran,3,576.00,576.00
+L01856,C2025-01028,2025-11-24,Nord,En ligne,Maison,Lampe,3,175.50,111.00
+L01857,C2025-01028,2025-11-24,Nord,En ligne,Informatique,Clavier,1,76.50,55.00
+L01867,C2025-01034,2025-11-24,Sud,Magasin,Maison,Étagère,3,541.50,387.00
+L01888,C2025-01046,2025-11-24,Ouest,En ligne,Accessoires,Support,2,44.80,20.00
+L01889,C2025-01046,2025-11-24,Ouest,En ligne,Informatique,Écran,1,216.00,192.00
+L01675,C2025-00931,2025-11-25,Est,Magasin,Informatique,Casque,2,209.00,144.00
+L01676,C2025-00931,2025-11-25,Est,Magasin,Maison,Chaise,3,399.00,285.00
+L01881,C2025-01043,2025-11-25,Sud,Magasin,Informatique,Écran,1,228.00,192.00
+L01882,C2025-01043,2025-11-25,Sud,Magasin,Sport,Sac,1,59.50,38.00
+L01883,C2025-01043,2025-11-25,Sud,Magasin,Maison,Chaise,3,399.00,285.00
+L01897,C2025-01051,2025-11-25,Est,En ligne,Accessoires,Support,3,71.40,30.00
+L01944,C2025-01079,2025-11-25,Est,Magasin,Maison,Chaise,2,266.00,190.00
+L01946,C2025-01081,2025-11-25,Ouest,Magasin,Accessoires,Souris,2,66.50,30.00
+L01947,C2025-01081,2025-11-25,Ouest,Magasin,Accessoires,Support,2,53.20,20.00
+L01700,C2025-00943,2025-11-26,Sud,Magasin,Informatique,Clavier,1,76.50,55.00
+L01719,C2025-00954,2025-11-26,Ouest,En ligne,Informatique,Casque,3,264.00,216.00
+L01720,C2025-00954,2025-11-26,Ouest,En ligne,Informatique,Écran,3,648.00,576.00
+L01813,C2025-01004,2025-11-26,Ouest,En ligne,Sport,Tapis,1,38.25,23.00
+L01814,C2025-01004,2025-11-26,Ouest,En ligne,Sport,Gourde,3,67.50,33.00
+L01836,C2025-01017,2025-11-26,Nord,En ligne,Informatique,Écran,2,432.00,384.00
+L01837,C2025-01017,2025-11-26,Nord,En ligne,Maison,Lampe,3,175.50,111.00
+L01877,C2025-01041,2025-11-26,Nord,En ligne,Accessoires,Câble,3,43.20,15.00
+L01926,C2025-01069,2025-11-26,Nord,En ligne,Sport,Sac,2,126.00,76.00
+L01927,C2025-01069,2025-11-26,Nord,En ligne,Accessoires,Support,3,71.40,30.00
+L01937,C2025-01075,2025-11-26,Ouest,Magasin,Sport,Gourde,2,45.00,22.00
+L01948,C2025-01082,2025-11-26,Sud,Magasin,Accessoires,Souris,3,89.25,45.00
+L01952,C2025-01085,2025-11-26,Est,En ligne,Informatique,Clavier,2,144.50,110.00
+L01953,C2025-01085,2025-11-26,Est,En ligne,Maison,Étagère,2,323.00,258.00
+L01734,C2025-00962,2025-11-27,Nord,En ligne,Informatique,Clavier,2,144.50,110.00
+L01735,C2025-00962,2025-11-27,Nord,En ligne,Informatique,Clavier,2,153.00,110.00
+L01738,C2025-00964,2025-11-27,Ouest,En ligne,Informatique,Clavier,3,216.75,165.00
+L01776,C2025-00983,2025-11-27,Ouest,En ligne,Accessoires,Câble,2,30.60,10.00
+L01777,C2025-00983,2025-11-27,Ouest,En ligne,Informatique,Clavier,1,76.50,55.00
+L01871,C2025-01037,2025-11-27,Ouest,Magasin,Accessoires,Souris,2,59.50,30.00
+L01872,C2025-01037,2025-11-27,Ouest,Magasin,Informatique,Écran,1,228.00,192.00
+L01893,C2025-01049,2025-11-27,Sud,En ligne,Sport,Tapis,2,76.50,46.00
+L01902,C2025-01055,2025-11-27,Ouest,Magasin,Informatique,Clavier,2,161.50,110.00
+L01903,C2025-01055,2025-11-27,Ouest,Magasin,Informatique,Casque,3,313.50,216.00
+L01918,C2025-01065,2025-11-27,Ouest,Magasin,Sport,Gourde,3,67.50,33.00
+L01919,C2025-01065,2025-11-27,Ouest,Magasin,Accessoires,Support,3,79.80,30.00
+L01923,C2025-01067,2025-11-27,Ouest,En ligne,Accessoires,Support,1,25.20,10.00
+L01924,C2025-01067,2025-11-27,Ouest,En ligne,Informatique,Clavier,3,216.75,165.00
+L01713,C2025-00952,2025-11-28,Nord,En ligne,Maison,Étagère,3,456.00,387.00
+L01714,C2025-00952,2025-11-28,Nord,En ligne,Informatique,Clavier,3,204.00,165.00
+L01715,C2025-00952,2025-11-28,Nord,En ligne,Sport,Sac,2,126.00,76.00
+L01794,C2025-00992,2025-11-28,Nord,Magasin,Informatique,Casque,2,209.00,144.00
+L01795,C2025-00992,2025-11-28,Nord,Magasin,Informatique,Casque,3,313.50,216.00
+L01796,C2025-00992,2025-11-28,Nord,Magasin,Maison,Lampe,2,110.50,74.00
+L01828,C2025-01012,2025-11-28,Est,Magasin,Accessoires,Support,1,26.60,10.00
+L01829,C2025-01012,2025-11-28,Est,Magasin,Accessoires,Support,2,53.20,20.00
+L01838,C2025-01018,2025-11-28,Ouest,En ligne,Informatique,Écran,3,612.00,576.00
+L01876,C2025-01040,2025-11-28,Est,En ligne,Informatique,Casque,2,198.00,144.00
+L01932,C2025-01072,2025-11-28,Nord,Magasin,Accessoires,Câble,2,32.40,10.00
+L01933,C2025-01072,2025-11-28,Nord,Magasin,Maison,Chaise,3,399.00,285.00
+L01677,C2025-00932,2025-11-29,Nord,En ligne,Informatique,Clavier,1,72.25,55.00
+L01678,C2025-00932,2025-11-29,Nord,En ligne,Sport,Gourde,3,67.50,33.00
+L01679,C2025-00932,2025-11-29,Nord,En ligne,Accessoires,Support,3,71.40,30.00
+L01709,C2025-00950,2025-11-29,Nord,En ligne,Informatique,Clavier,1,76.50,55.00
+L01770,C2025-00980,2025-11-29,Sud,Magasin,Sport,Tapis,2,85.50,46.00
+L01771,C2025-00980,2025-11-29,Sud,Magasin,Maison,Étagère,2,361.00,258.00
+L01804,C2025-00997,2025-11-29,Nord,En ligne,Accessoires,Support,1,25.20,10.00
+L01812,C2025-01003,2025-11-29,Est,En ligne,Accessoires,Câble,1,15.30,5.00
+L01823,C2025-01009,2025-11-29,Nord,Magasin,Maison,Lampe,1,61.75,37.00
+L01824,C2025-01009,2025-11-29,Nord,Magasin,Accessoires,Câble,1,16.20,5.00
+L01825,C2025-01009,2025-11-29,Nord,Magasin,Informatique,Écran,2,456.00,384.00
+L01827,C2025-01011,2025-11-29,Nord,Magasin,Accessoires,Support,3,79.80,30.00
+L01863,C2025-01032,2025-11-29,Est,En ligne,Informatique,Écran,1,216.00,192.00
+L01864,C2025-01032,2025-11-29,Est,En ligne,Accessoires,Souris,2,59.50,30.00
+L01865,C2025-01032,2025-11-29,Est,En ligne,Sport,Sac,1,59.50,38.00
+L01884,C2025-01044,2025-11-29,Est,En ligne,Informatique,Écran,2,384.00,384.00
+L01885,C2025-01044,2025-11-29,Est,En ligne,Informatique,Casque,3,264.00,216.00
+L01899,C2025-01053,2025-11-29,Nord,Magasin,Informatique,Écran,1,216.00,192.00
+L01917,C2025-01064,2025-11-29,Nord,En ligne,Accessoires,Support,1,23.80,10.00
+L01685,C2025-00936,2025-11-30,Sud,Magasin,Maison,Lampe,2,123.50,74.00
+L01686,C2025-00936,2025-11-30,Sud,Magasin,Maison,Étagère,3,484.50,387.00
+L01760,C2025-00976,2025-11-30,Ouest,Magasin,Informatique,Casque,3,297.00,216.00
+L01761,C2025-00976,2025-11-30,Ouest,Magasin,Accessoires,Souris,3,99.75,45.00
+L01762,C2025-00976,2025-11-30,Ouest,Magasin,Informatique,Écran,2,456.00,384.00
+L01858,C2025-01029,2025-11-30,Sud,En ligne,Informatique,Clavier,1,72.25,55.00
+L01859,C2025-01029,2025-11-30,Sud,En ligne,Accessoires,Support,2,44.80,20.00
+L01873,C2025-01038,2025-11-30,Ouest,En ligne,Sport,Tapis,1,36.00,23.00
+L01874,C2025-01038,2025-11-30,Ouest,En ligne,Maison,Étagère,3,456.00,387.00
+L01909,C2025-01059,2025-11-30,Nord,Magasin,Maison,Lampe,1,58.50,37.00
+L01915,C2025-01063,2025-11-30,Sud,En ligne,Sport,Gourde,3,67.50,33.00
+L01916,C2025-01063,2025-11-30,Sud,En ligne,Accessoires,Souris,2,59.50,30.00
+L01942,C2025-01078,2025-11-30,Sud,En ligne,Maison,Étagère,3,513.00,387.00
+L01943,C2025-01078,2025-11-30,Sud,En ligne,Sport,Tapis,2,76.50,46.00
+L01984,C2025-01103,2025-12-01,Ouest,Magasin,Accessoires,Câble,2,30.60,10.00
+L01985,C2025-01103,2025-12-01,Ouest,Magasin,Informatique,Écran,1,216.00,192.00
+L01990,C2025-01107,2025-12-01,Sud,En ligne,Maison,Lampe,1,58.50,37.00
+L02012,C2025-01121,2025-12-01,Ouest,En ligne,Informatique,Écran,3,576.00,576.00
+L02013,C2025-01122,2025-12-01,Ouest,En ligne,Informatique,Écran,2,432.00,384.00
+L02014,C2025-01122,2025-12-01,Ouest,En ligne,Informatique,Clavier,3,229.50,165.00
+L02022,C2025-01127,2025-12-01,Ouest,Magasin,Informatique,Écran,3,648.00,576.00
+L02090,C2025-01167,2025-12-01,Ouest,Magasin,Accessoires,Support,1,26.60,10.00
+L02095,C2025-01170,2025-12-01,Ouest,En ligne,Informatique,Clavier,2,153.00,110.00
+L02096,C2025-01170,2025-12-01,Ouest,En ligne,Informatique,Casque,1,88.00,72.00
+L02121,C2025-01184,2025-12-01,Ouest,Magasin,Accessoires,Câble,1,16.20,5.00
+L02171,C2025-01213,2025-12-01,Est,En ligne,Sport,Gourde,1,21.25,11.00
+L02172,C2025-01213,2025-12-01,Est,En ligne,Sport,Sac,1,63.00,38.00
+L02198,C2025-01230,2025-12-01,Ouest,Magasin,Accessoires,Support,1,26.60,10.00
+L02208,C2025-01235,2025-12-01,Ouest,En ligne,Maison,Étagère,1,161.50,129.00
+L02244,C2025-01257,2025-12-01,Sud,Magasin,Maison,Chaise,2,266.00,190.00
+L02245,C2025-01257,2025-12-01,Sud,Magasin,Informatique,Écran,2,456.00,384.00
+L02246,C2025-01257,2025-12-01,Sud,Magasin,Informatique,Clavier,3,242.25,165.00
+L02254,C2025-01263,2025-12-01,Ouest,En ligne,Informatique,Écran,1,204.00,192.00
+L01973,C2025-01096,2025-12-02,Nord,En ligne,Informatique,Clavier,1,68.00,55.00
+L02062,C2025-01152,2025-12-02,Est,Magasin,Informatique,Écran,3,612.00,576.00
+L02063,C2025-01152,2025-12-02,Est,Magasin,Maison,Étagère,3,541.50,387.00
+L02064,C2025-01152,2025-12-02,Est,Magasin,Sport,Gourde,2,45.00,22.00
+L02093,C2025-01169,2025-12-02,Sud,En ligne,Informatique,Écran,2,408.00,384.00
+L02094,C2025-01169,2025-12-02,Sud,En ligne,Sport,Tapis,3,121.50,69.00
+L02122,C2025-01185,2025-12-02,Ouest,En ligne,Accessoires,Câble,1,16.20,5.00
+L02147,C2025-01198,2025-12-02,Nord,En ligne,Accessoires,Souris,3,89.25,45.00
+L02167,C2025-01211,2025-12-02,Ouest,En ligne,Sport,Gourde,3,67.50,33.00
+L02234,C2025-01252,2025-12-02,Est,En ligne,Sport,Tapis,3,108.00,69.00
+L02235,C2025-01252,2025-12-02,Est,En ligne,Maison,Lampe,1,55.25,37.00
+L02236,C2025-01252,2025-12-02,Est,En ligne,Accessoires,Câble,3,45.90,15.00
+L02272,C2025-01272,2025-12-02,Sud,En ligne,Accessoires,Câble,3,43.20,15.00
+L02011,C2025-01120,2025-12-03,Sud,Magasin,Informatique,Clavier,2,161.50,110.00
+L02097,C2025-01171,2025-12-03,Ouest,Magasin,Informatique,Clavier,1,72.25,55.00
+L02174,C2025-01215,2025-12-03,Ouest,Magasin,Informatique,Casque,2,198.00,144.00
+L02175,C2025-01215,2025-12-03,Ouest,Magasin,Informatique,Écran,3,648.00,576.00
+L02176,C2025-01216,2025-12-03,Sud,Magasin,Informatique,Écran,1,228.00,192.00
+L02177,C2025-01216,2025-12-03,Sud,Magasin,Accessoires,Câble,2,30.60,10.00
+L02233,C2025-01251,2025-12-03,Nord,Magasin,Informatique,Casque,2,198.00,144.00
+L02248,C2025-01259,2025-12-03,Ouest,Magasin,Maison,Lampe,2,123.50,74.00
+L02249,C2025-01259,2025-12-03,Ouest,Magasin,Informatique,Clavier,1,80.75,55.00
+L01974,C2025-01097,2025-12-04,Sud,En ligne,Sport,Sac,1,63.00,38.00
+L01975,C2025-01097,2025-12-04,Sud,En ligne,Accessoires,Support,1,25.20,10.00
+L01980,C2025-01101,2025-12-04,Ouest,Magasin,Maison,Étagère,2,361.00,258.00
+L01981,C2025-01101,2025-12-04,Ouest,Magasin,Informatique,Casque,1,99.00,72.00
+L02025,C2025-01129,2025-12-04,Sud,En ligne,Maison,Lampe,1,55.25,37.00
+L02052,C2025-01146,2025-12-04,Ouest,Magasin,Accessoires,Souris,1,31.50,15.00
+L02087,C2025-01166,2025-12-04,Nord,En ligne,Sport,Tapis,3,114.75,69.00
+L02088,C2025-01166,2025-12-04,Nord,En ligne,Maison,Lampe,3,156.00,111.00
+L02089,C2025-01166,2025-12-04,Nord,En ligne,Accessoires,Souris,1,31.50,15.00
+L02118,C2025-01182,2025-12-04,Ouest,En ligne,Sport,Sac,1,56.00,38.00
+L02119,C2025-01182,2025-12-04,Ouest,En ligne,Informatique,Écran,3,576.00,576.00
+L02055,C2025-01148,2025-12-05,Nord,Magasin,Maison,Chaise,3,399.00,285.00
+L02056,C2025-01148,2025-12-05,Nord,Magasin,Informatique,Casque,1,99.00,72.00
+L02178,C2025-01217,2025-12-05,Sud,Magasin,Accessoires,Support,1,23.80,10.00
+L02179,C2025-01217,2025-12-05,Sud,Magasin,Accessoires,Support,3,79.80,30.00
+L01979,C2025-01100,2025-12-06,Ouest,En ligne,Accessoires,Câble,3,45.90,15.00
+L02035,C2025-01136,2025-12-06,Nord,Magasin,Maison,Chaise,3,399.00,285.00
+L02036,C2025-01136,2025-12-06,Nord,Magasin,Maison,Lampe,3,185.25,111.00
+L02037,C2025-01137,2025-12-06,Sud,En ligne,Maison,Étagère,2,323.00,258.00
+L02098,C2025-01172,2025-12-06,Nord,En ligne,Accessoires,Support,2,44.80,20.00
+L02112,C2025-01179,2025-12-06,Ouest,En ligne,Informatique,Écran,2,432.00,384.00
+L02188,C2025-01223,2025-12-06,Nord,En ligne,Sport,Gourde,1,22.50,11.00
+L02189,C2025-01223,2025-12-06,Nord,En ligne,Sport,Gourde,1,22.50,11.00
+L01967,C2025-01093,2025-12-07,Nord,Magasin,Maison,Chaise,3,399.00,285.00
+L02144,C2025-01197,2025-12-07,Nord,En ligne,Informatique,Casque,2,198.00,144.00
+L02145,C2025-01197,2025-12-07,Nord,En ligne,Informatique,Écran,2,432.00,384.00
+L02146,C2025-01197,2025-12-07,Nord,En ligne,Sport,Tapis,3,108.00,69.00
+L02148,C2025-01199,2025-12-07,Ouest,Magasin,Sport,Tapis,1,40.50,23.00
+L02149,C2025-01199,2025-12-07,Ouest,Magasin,Accessoires,Câble,2,34.20,10.00
+L02150,C2025-01199,2025-12-07,Ouest,Magasin,Accessoires,Câble,2,34.20,10.00
+L01997,C2025-01112,2025-12-08,Ouest,En ligne,Accessoires,Support,2,47.60,20.00
+L01998,C2025-01112,2025-12-08,Ouest,En ligne,Informatique,Casque,2,187.00,144.00
+L01999,C2025-01112,2025-12-08,Ouest,En ligne,Informatique,Casque,3,280.50,216.00
+L02091,C2025-01168,2025-12-08,Nord,Magasin,Sport,Gourde,1,21.25,11.00
+L02092,C2025-01168,2025-12-08,Nord,Magasin,Maison,Chaise,3,399.00,285.00
+L02099,C2025-01173,2025-12-08,Ouest,Magasin,Accessoires,Souris,2,59.50,30.00
+L02100,C2025-01173,2025-12-08,Ouest,Magasin,Maison,Lampe,1,61.75,37.00
+L02107,C2025-01176,2025-12-08,Ouest,Magasin,Maison,Étagère,1,161.50,129.00
+L02108,C2025-01176,2025-12-08,Ouest,Magasin,Sport,Sac,1,59.50,38.00
+L02109,C2025-01176,2025-12-08,Ouest,Magasin,Informatique,Casque,3,280.50,216.00
+L02193,C2025-01225,2025-12-08,Sud,En ligne,Sport,Sac,3,168.00,114.00
+L02250,C2025-01260,2025-12-08,Sud,En ligne,Sport,Gourde,1,22.50,11.00
+L02251,C2025-01260,2025-12-08,Sud,En ligne,Informatique,Écran,1,216.00,192.00
+L02000,C2025-01113,2025-12-09,Nord,Magasin,Informatique,Casque,3,297.00,216.00
+L02001,C2025-01113,2025-12-09,Nord,Magasin,Accessoires,Souris,1,31.50,15.00
+L02029,C2025-01131,2025-12-09,Nord,En ligne,Sport,Gourde,1,22.50,11.00
+L02038,C2025-01138,2025-12-09,Sud,Magasin,Sport,Sac,1,66.50,38.00
+L02039,C2025-01138,2025-12-09,Sud,Magasin,Accessoires,Support,1,25.20,10.00
+L02045,C2025-01142,2025-12-09,Sud,En ligne,Sport,Gourde,2,45.00,22.00
+L02205,C2025-01234,2025-12-09,Est,Magasin,Informatique,Écran,2,456.00,384.00
+L02206,C2025-01234,2025-12-09,Est,Magasin,Informatique,Écran,2,456.00,384.00
+L02207,C2025-01234,2025-12-09,Est,Magasin,Informatique,Clavier,1,80.75,55.00
+L01961,C2025-01090,2025-12-10,Sud,En ligne,Sport,Sac,1,63.00,38.00
+L01962,C2025-01090,2025-12-10,Sud,En ligne,Accessoires,Souris,1,28.00,15.00
+L02067,C2025-01154,2025-12-10,Ouest,Magasin,Maison,Lampe,3,175.50,111.00
+L01963,C2025-01091,2025-12-11,Nord,Magasin,Maison,Chaise,3,399.00,285.00
+L01964,C2025-01091,2025-12-11,Nord,Magasin,Accessoires,Souris,3,99.75,45.00
+L01965,C2025-01091,2025-12-11,Nord,Magasin,Accessoires,Souris,2,66.50,30.00
+L02010,C2025-01119,2025-12-11,Est,En ligne,Informatique,Écran,2,408.00,384.00
+L02218,C2025-01243,2025-12-11,Nord,En ligne,Informatique,Clavier,2,153.00,110.00
+L02219,C2025-01243,2025-12-11,Nord,En ligne,Informatique,Écran,3,576.00,576.00
+L02220,C2025-01243,2025-12-11,Nord,En ligne,Accessoires,Câble,3,45.90,15.00
+L02253,C2025-01262,2025-12-11,Ouest,En ligne,Informatique,Écran,3,648.00,576.00
+L02264,C2025-01268,2025-12-11,Ouest,Magasin,Informatique,Écran,3,648.00,576.00
+L02265,C2025-01268,2025-12-11,Ouest,Magasin,Maison,Chaise,3,399.00,285.00
+L02173,C2025-01214,2025-12-12,Ouest,En ligne,Informatique,Écran,2,432.00,384.00
+L02180,C2025-01218,2025-12-12,Sud,En ligne,Informatique,Casque,3,264.00,216.00
+L01978,C2025-01099,2025-12-13,Ouest,En ligne,Accessoires,Support,1,25.20,10.00
+L02008,C2025-01118,2025-12-13,Sud,En ligne,Maison,Étagère,3,513.00,387.00
+L02009,C2025-01118,2025-12-13,Sud,En ligne,Informatique,Écran,2,408.00,384.00
+L02042,C2025-01141,2025-12-13,Nord,Magasin,Accessoires,Souris,3,89.25,45.00
+L02043,C2025-01141,2025-12-13,Nord,Magasin,Maison,Lampe,2,117.00,74.00
+L02044,C2025-01141,2025-12-13,Nord,Magasin,Informatique,Clavier,1,80.75,55.00
+L02068,C2025-01155,2025-12-13,Ouest,Magasin,Sport,Tapis,1,42.75,23.00
+L02069,C2025-01155,2025-12-13,Ouest,Magasin,Accessoires,Câble,2,30.60,10.00
+L02165,C2025-01209,2025-12-13,Ouest,En ligne,Informatique,Écran,2,432.00,384.00
+L02212,C2025-01238,2025-12-13,Nord,En ligne,Informatique,Clavier,2,144.50,110.00
+L02213,C2025-01239,2025-12-13,Ouest,Magasin,Informatique,Clavier,1,80.75,55.00
+L02229,C2025-01249,2025-12-13,Est,En ligne,Informatique,Écran,3,648.00,576.00
+L02230,C2025-01249,2025-12-13,Est,En ligne,Maison,Lampe,1,58.50,37.00
+L01982,C2025-01102,2025-12-14,Ouest,Magasin,Accessoires,Support,1,26.60,10.00
+L01983,C2025-01102,2025-12-14,Ouest,Magasin,Maison,Étagère,2,361.00,258.00
+L02040,C2025-01139,2025-12-14,Sud,Magasin,Sport,Sac,3,199.50,114.00
+L02053,C2025-01147,2025-12-14,Ouest,En ligne,Informatique,Casque,1,93.50,72.00
+L02054,C2025-01147,2025-12-14,Ouest,En ligne,Accessoires,Support,1,22.40,10.00
+L02130,C2025-01190,2025-12-14,Sud,En ligne,Informatique,Casque,2,176.00,144.00
+L02131,C2025-01190,2025-12-14,Sud,En ligne,Maison,Lampe,1,55.25,37.00
+L02197,C2025-01229,2025-12-14,Nord,En ligne,Informatique,Clavier,3,229.50,165.00
+L01966,C2025-01092,2025-12-15,Est,En ligne,Accessoires,Support,1,25.20,10.00
+L02032,C2025-01133,2025-12-15,Sud,En ligne,Informatique,Clavier,1,72.25,55.00
+L02070,C2025-01156,2025-12-15,Nord,Magasin,Sport,Gourde,2,42.50,22.00
+L02077,C2025-01161,2025-12-15,Ouest,En ligne,Sport,Gourde,2,45.00,22.00
+L02078,C2025-01161,2025-12-15,Ouest,En ligne,Informatique,Casque,1,99.00,72.00
+L02141,C2025-01196,2025-12-15,Nord,En ligne,Informatique,Écran,2,432.00,384.00
+L02142,C2025-01196,2025-12-15,Nord,En ligne,Accessoires,Support,2,44.80,20.00
+L02143,C2025-01196,2025-12-15,Nord,En ligne,Maison,Lampe,2,117.00,74.00
+L02221,C2025-01244,2025-12-15,Ouest,En ligne,Informatique,Casque,2,176.00,144.00
+L02258,C2025-01265,2025-12-15,Ouest,Magasin,Informatique,Écran,1,204.00,192.00
+L02259,C2025-01265,2025-12-15,Ouest,Magasin,Informatique,Clavier,1,76.50,55.00
+L01976,C2025-01098,2025-12-16,Ouest,En ligne,Accessoires,Câble,3,48.60,15.00
+L01977,C2025-01098,2025-12-16,Ouest,En ligne,Sport,Tapis,2,76.50,46.00
+L01986,C2025-01104,2025-12-16,Nord,Magasin,Sport,Sac,1,63.00,38.00
+L01987,C2025-01104,2025-12-16,Nord,Magasin,Accessoires,Câble,3,45.90,15.00
+L02048,C2025-01144,2025-12-16,Est,En ligne,Maison,Chaise,1,119.00,95.00
+L02049,C2025-01144,2025-12-16,Est,En ligne,Informatique,Écran,1,216.00,192.00
+L02050,C2025-01144,2025-12-16,Est,En ligne,Informatique,Écran,1,192.00,192.00
+L02129,C2025-01189,2025-12-16,Nord,Magasin,Maison,Lampe,3,185.25,111.00
+L02183,C2025-01220,2025-12-16,Nord,Magasin,Informatique,Casque,1,93.50,72.00
+L02184,C2025-01220,2025-12-16,Nord,Magasin,Informatique,Écran,1,216.00,192.00
+L02186,C2025-01222,2025-12-16,Sud,En ligne,Accessoires,Câble,3,43.20,15.00
+L02187,C2025-01222,2025-12-16,Sud,En ligne,Informatique,Écran,1,216.00,192.00
+L02194,C2025-01226,2025-12-16,Est,En ligne,Accessoires,Souris,2,63.00,30.00
+L02237,C2025-01253,2025-12-16,Ouest,Magasin,Informatique,Clavier,1,76.50,55.00
+L02017,C2025-01125,2025-12-17,Ouest,En ligne,Accessoires,Câble,3,48.60,15.00
+L02018,C2025-01125,2025-12-17,Ouest,En ligne,Accessoires,Souris,2,59.50,30.00
+L02046,C2025-01143,2025-12-17,Nord,En ligne,Informatique,Écran,1,192.00,192.00
+L02047,C2025-01143,2025-12-17,Nord,En ligne,Accessoires,Câble,2,32.40,10.00
+L02120,C2025-01183,2025-12-17,Sud,En ligne,Informatique,Casque,2,198.00,144.00
+L02157,C2025-01203,2025-12-17,Ouest,Magasin,Informatique,Clavier,3,216.75,165.00
+L02215,C2025-01241,2025-12-17,Ouest,En ligne,Informatique,Clavier,3,229.50,165.00
+L02041,C2025-01140,2025-12-18,Sud,En ligne,Informatique,Écran,3,612.00,576.00
+L02060,C2025-01151,2025-12-18,Est,En ligne,Accessoires,Câble,3,43.20,15.00
+L02061,C2025-01151,2025-12-18,Est,En ligne,Informatique,Clavier,1,72.25,55.00
+L02079,C2025-01162,2025-12-18,Nord,Magasin,Informatique,Écran,3,684.00,576.00
+L02168,C2025-01212,2025-12-18,Ouest,En ligne,Informatique,Casque,1,93.50,72.00
+L02169,C2025-01212,2025-12-18,Ouest,En ligne,Accessoires,Câble,1,14.40,5.00
+L02170,C2025-01212,2025-12-18,Ouest,En ligne,Informatique,Casque,2,187.00,144.00
+L02238,C2025-01254,2025-12-18,Sud,En ligne,Maison,Étagère,1,161.50,129.00
+L02239,C2025-01254,2025-12-18,Sud,En ligne,Informatique,Clavier,2,144.50,110.00
+L02240,C2025-01254,2025-12-18,Sud,En ligne,Accessoires,Câble,1,16.20,5.00
+L01970,C2025-01095,2025-12-19,Ouest,Magasin,Maison,Étagère,3,541.50,387.00
+L01971,C2025-01095,2025-12-19,Ouest,Magasin,Informatique,Écran,2,408.00,384.00
+L01972,C2025-01095,2025-12-19,Ouest,Magasin,Maison,Étagère,2,342.00,258.00
+L02004,C2025-01115,2025-12-19,Ouest,En ligne,Sport,Tapis,1,40.50,23.00
+L02005,C2025-01115,2025-12-19,Ouest,En ligne,Informatique,Écran,2,408.00,384.00
+L02059,C2025-01150,2025-12-19,Sud,Magasin,Accessoires,Câble,2,34.20,10.00
+L02110,C2025-01177,2025-12-19,Ouest,Magasin,Accessoires,Support,3,79.80,30.00
+L02266,C2025-01269,2025-12-19,Est,Magasin,Informatique,Clavier,2,161.50,110.00
+L02057,C2025-01149,2025-12-20,Est,En ligne,Informatique,Écran,2,384.00,384.00
+L02058,C2025-01149,2025-12-20,Est,En ligne,Informatique,Écran,2,432.00,384.00
+L02071,C2025-01157,2025-12-20,Nord,Magasin,Informatique,Écran,1,216.00,192.00
+L02072,C2025-01157,2025-12-20,Nord,Magasin,Accessoires,Support,1,26.60,10.00
+L02082,C2025-01164,2025-12-20,Ouest,En ligne,Informatique,Écran,2,432.00,384.00
+L02083,C2025-01164,2025-12-20,Ouest,En ligne,Sport,Sac,2,119.00,76.00
+L02252,C2025-01261,2025-12-20,Nord,Magasin,Accessoires,Souris,1,29.75,15.00
+L01989,C2025-01106,2025-12-21,Sud,Magasin,Informatique,Clavier,3,216.75,165.00
+L02007,C2025-01117,2025-12-21,Sud,En ligne,Informatique,Écran,3,648.00,576.00
+L02161,C2025-01206,2025-12-21,Est,En ligne,Maison,Étagère,2,304.00,258.00
+L02223,C2025-01246,2025-12-21,Sud,En ligne,Accessoires,Support,1,25.20,10.00
+L02224,C2025-01246,2025-12-21,Sud,En ligne,Maison,Chaise,2,238.00,190.00
+L01992,C2025-01109,2025-12-22,Nord,En ligne,Sport,Tapis,3,121.50,69.00
+L01993,C2025-01109,2025-12-22,Nord,En ligne,Informatique,Clavier,1,76.50,55.00
+L01995,C2025-01111,2025-12-22,Ouest,En ligne,Informatique,Écran,3,576.00,576.00
+L01996,C2025-01111,2025-12-22,Ouest,En ligne,Maison,Lampe,1,58.50,37.00
+L02006,C2025-01116,2025-12-22,Nord,En ligne,Accessoires,Câble,2,28.80,10.00
+L02023,C2025-01128,2025-12-22,Est,En ligne,Accessoires,Support,1,25.20,10.00
+L02024,C2025-01128,2025-12-22,Est,En ligne,Accessoires,Souris,3,84.00,45.00
+L02084,C2025-01165,2025-12-22,Nord,Magasin,Informatique,Casque,3,297.00,216.00
+L02085,C2025-01165,2025-12-22,Nord,Magasin,Maison,Lampe,1,58.50,37.00
+L02086,C2025-01165,2025-12-22,Nord,Magasin,Sport,Tapis,2,76.50,46.00
+L02135,C2025-01192,2025-12-22,Est,Magasin,Informatique,Clavier,2,161.50,110.00
+L02166,C2025-01210,2025-12-22,Nord,Magasin,Accessoires,Support,3,79.80,30.00
+L02210,C2025-01237,2025-12-22,Nord,En ligne,Accessoires,Câble,2,28.80,10.00
+L02211,C2025-01237,2025-12-22,Nord,En ligne,Sport,Gourde,3,60.00,33.00
+L02216,C2025-01242,2025-12-22,Est,Magasin,Accessoires,Souris,1,33.25,15.00
+L02217,C2025-01242,2025-12-22,Est,Magasin,Accessoires,Souris,1,31.50,15.00
+L02243,C2025-01256,2025-12-22,Ouest,Magasin,Accessoires,Support,1,23.80,10.00
+L02002,C2025-01114,2025-12-23,Sud,En ligne,Informatique,Clavier,2,153.00,110.00
+L02003,C2025-01114,2025-12-23,Sud,En ligne,Sport,Sac,1,59.50,38.00
+L02159,C2025-01205,2025-12-23,Nord,En ligne,Maison,Étagère,1,171.00,129.00
+L02160,C2025-01205,2025-12-23,Nord,En ligne,Informatique,Clavier,3,216.75,165.00
+L02163,C2025-01208,2025-12-23,Ouest,Magasin,Informatique,Clavier,2,153.00,110.00
+L02164,C2025-01208,2025-12-23,Ouest,Magasin,Informatique,Clavier,3,242.25,165.00
+L02015,C2025-01123,2025-12-24,Est,Magasin,Accessoires,Souris,2,63.00,30.00
+L02016,C2025-01124,2025-12-24,Nord,En ligne,Sport,Sac,1,59.50,38.00
+L02076,C2025-01160,2025-12-24,Sud,En ligne,Accessoires,Souris,3,84.00,45.00
+L02104,C2025-01175,2025-12-24,Est,Magasin,Accessoires,Support,1,23.80,10.00
+L02105,C2025-01175,2025-12-24,Est,Magasin,Informatique,Casque,1,104.50,72.00
+L02106,C2025-01175,2025-12-24,Est,Magasin,Informatique,Écran,3,648.00,576.00
+L02158,C2025-01204,2025-12-24,Ouest,Magasin,Maison,Chaise,3,399.00,285.00
+L02202,C2025-01233,2025-12-24,Nord,Magasin,Accessoires,Support,3,79.80,30.00
+L02203,C2025-01233,2025-12-24,Nord,Magasin,Informatique,Casque,1,104.50,72.00
+L02204,C2025-01233,2025-12-24,Nord,Magasin,Informatique,Clavier,3,216.75,165.00
+L02260,C2025-01266,2025-12-24,Nord,En ligne,Accessoires,Câble,2,30.60,10.00
+L02261,C2025-01266,2025-12-24,Nord,En ligne,Accessoires,Support,1,25.20,10.00
+L02262,C2025-01266,2025-12-24,Nord,En ligne,Accessoires,Câble,3,48.60,15.00
+L02273,C2025-01273,2025-12-24,Sud,En ligne,Accessoires,Souris,2,56.00,30.00
+L02274,C2025-01273,2025-12-24,Sud,En ligne,Maison,Lampe,3,175.50,111.00
+L01958,C2025-01089,2025-12-25,Nord,Magasin,Informatique,Casque,2,209.00,144.00
+L01959,C2025-01089,2025-12-25,Nord,Magasin,Maison,Étagère,3,541.50,387.00
+L01960,C2025-01089,2025-12-25,Nord,Magasin,Informatique,Clavier,2,161.50,110.00
+L01968,C2025-01094,2025-12-25,Ouest,En ligne,Sport,Tapis,2,81.00,46.00
+L01969,C2025-01094,2025-12-25,Ouest,En ligne,Informatique,Écran,3,576.00,576.00
+L01994,C2025-01110,2025-12-25,Nord,En ligne,Accessoires,Souris,3,89.25,45.00
+L02026,C2025-01130,2025-12-25,Sud,En ligne,Sport,Sac,1,56.00,38.00
+L02027,C2025-01130,2025-12-25,Sud,En ligne,Maison,Lampe,3,175.50,111.00
+L02028,C2025-01130,2025-12-25,Sud,En ligne,Accessoires,Souris,1,28.00,15.00
+L02138,C2025-01194,2025-12-25,Ouest,Magasin,Sport,Sac,3,199.50,114.00
+L02139,C2025-01194,2025-12-25,Ouest,Magasin,Sport,Sac,2,126.00,76.00
+L02222,C2025-01245,2025-12-25,Ouest,En ligne,Informatique,Écran,2,384.00,384.00
+L02034,C2025-01135,2025-12-26,Ouest,En ligne,Sport,Sac,1,63.00,38.00
+L02111,C2025-01178,2025-12-26,Nord,En ligne,Informatique,Clavier,2,136.00,110.00
+L02196,C2025-01228,2025-12-26,Ouest,Magasin,Accessoires,Souris,3,89.25,45.00
+L02209,C2025-01236,2025-12-26,Est,Magasin,Informatique,Clavier,2,153.00,110.00
+L02241,C2025-01255,2025-12-26,Sud,En ligne,Accessoires,Support,2,50.40,20.00
+L02242,C2025-01255,2025-12-26,Sud,En ligne,Accessoires,Souris,3,89.25,45.00
+L02247,C2025-01258,2025-12-26,Ouest,En ligne,Sport,Gourde,1,22.50,11.00
+L02255,C2025-01264,2025-12-26,Sud,Magasin,Accessoires,Support,1,25.20,10.00
+L02256,C2025-01264,2025-12-26,Sud,Magasin,Informatique,Clavier,1,76.50,55.00
+L02257,C2025-01264,2025-12-26,Sud,Magasin,Informatique,Écran,1,228.00,192.00
+L02267,C2025-01270,2025-12-26,Sud,En ligne,Accessoires,Câble,3,48.60,15.00
+L02268,C2025-01270,2025-12-26,Sud,En ligne,Maison,Lampe,2,104.00,74.00
+L01988,C2025-01105,2025-12-27,Ouest,En ligne,Accessoires,Support,1,25.20,10.00
+L02051,C2025-01145,2025-12-27,Nord,Magasin,Informatique,Clavier,2,161.50,110.00
+L02075,C2025-01159,2025-12-27,Sud,Magasin,Accessoires,Support,1,26.60,10.00
+L02116,C2025-01181,2025-12-27,Nord,Magasin,Accessoires,Souris,3,89.25,45.00
+L02117,C2025-01181,2025-12-27,Nord,Magasin,Sport,Gourde,2,47.50,22.00
+L02136,C2025-01193,2025-12-27,Sud,Magasin,Maison,Lampe,2,123.50,74.00
+L02137,C2025-01193,2025-12-27,Sud,Magasin,Maison,Chaise,2,252.00,190.00
+L02185,C2025-01221,2025-12-27,Ouest,Magasin,Informatique,Clavier,1,80.75,55.00
+L02195,C2025-01227,2025-12-27,Ouest,En ligne,Informatique,Écran,1,216.00,192.00
+L02263,C2025-01267,2025-12-27,Nord,En ligne,Sport,Gourde,1,22.50,11.00
+L02030,C2025-01132,2025-12-28,Nord,En ligne,Sport,Gourde,2,45.00,22.00
+L02031,C2025-01132,2025-12-28,Nord,En ligne,Sport,Gourde,3,63.75,33.00
+L02124,C2025-01187,2025-12-28,Ouest,Magasin,Sport,Sac,3,199.50,114.00
+L02125,C2025-01187,2025-12-28,Ouest,Magasin,Informatique,Casque,2,187.00,144.00
+L02152,C2025-01201,2025-12-28,Est,Magasin,Maison,Chaise,3,357.00,285.00
+L02153,C2025-01201,2025-12-28,Est,Magasin,Maison,Chaise,1,133.00,95.00
+L02190,C2025-01224,2025-12-28,Sud,En ligne,Informatique,Écran,3,576.00,576.00
+L02191,C2025-01224,2025-12-28,Sud,En ligne,Informatique,Clavier,1,76.50,55.00
+L02192,C2025-01224,2025-12-28,Sud,En ligne,Informatique,Casque,3,297.00,216.00
+L02227,C2025-01248,2025-12-28,Nord,En ligne,Sport,Sac,2,119.00,76.00
+L02228,C2025-01248,2025-12-28,Nord,En ligne,Sport,Gourde,1,22.50,11.00
+L02231,C2025-01250,2025-12-28,Ouest,En ligne,Sport,Tapis,1,38.25,23.00
+L02232,C2025-01250,2025-12-28,Ouest,En ligne,Informatique,Casque,2,198.00,144.00
+L02269,C2025-01271,2025-12-28,Nord,Magasin,Informatique,Écran,3,612.00,576.00
+L02270,C2025-01271,2025-12-28,Nord,Magasin,Informatique,Clavier,3,216.75,165.00
+L02271,C2025-01271,2025-12-28,Nord,Magasin,Accessoires,Câble,1,15.30,5.00
+L02019,C2025-01126,2025-12-29,Ouest,En ligne,Maison,Étagère,3,456.00,387.00
+L02020,C2025-01126,2025-12-29,Ouest,En ligne,Informatique,Écran,2,408.00,384.00
+L02021,C2025-01126,2025-12-29,Ouest,En ligne,Informatique,Casque,3,297.00,216.00
+L02113,C2025-01180,2025-12-29,Est,En ligne,Informatique,Écran,1,192.00,192.00
+L02114,C2025-01180,2025-12-29,Est,En ligne,Accessoires,Souris,2,59.50,30.00
+L02115,C2025-01180,2025-12-29,Est,En ligne,Accessoires,Support,2,47.60,20.00
+L02140,C2025-01195,2025-12-29,Nord,En ligne,Informatique,Clavier,1,68.00,55.00
+L02162,C2025-01207,2025-12-29,Sud,Magasin,Maison,Étagère,1,161.50,129.00
+L02201,C2025-01232,2025-12-29,Ouest,Magasin,Sport,Sac,2,126.00,76.00
+L02033,C2025-01134,2025-12-30,Nord,Magasin,Informatique,Clavier,3,242.25,165.00
+L02126,C2025-01188,2025-12-30,Est,En ligne,Sport,Sac,1,59.50,38.00
+L02127,C2025-01188,2025-12-30,Est,En ligne,Sport,Gourde,3,60.00,33.00
+L02128,C2025-01188,2025-12-30,Est,En ligne,Accessoires,Câble,1,15.30,5.00
+L02151,C2025-01200,2025-12-30,Nord,En ligne,Accessoires,Souris,1,31.50,15.00
+L02181,C2025-01219,2025-12-30,Est,En ligne,Maison,Lampe,2,104.00,74.00
+L02182,C2025-01219,2025-12-30,Est,En ligne,Maison,Lampe,1,58.50,37.00
+L02199,C2025-01231,2025-12-30,Nord,En ligne,Sport,Sac,2,126.00,76.00
+L02200,C2025-01231,2025-12-30,Nord,En ligne,Informatique,Clavier,2,136.00,110.00
+L02214,C2025-01240,2025-12-30,Sud,Magasin,Informatique,Clavier,2,153.00,110.00
+L01991,C2025-01108,2025-12-31,Ouest,En ligne,Informatique,Écran,1,216.00,192.00
+L02065,C2025-01153,2025-12-31,Ouest,En ligne,Accessoires,Souris,3,84.00,45.00
+L02066,C2025-01153,2025-12-31,Ouest,En ligne,Maison,Étagère,1,161.50,129.00
+L02073,C2025-01158,2025-12-31,Sud,Magasin,Maison,Lampe,2,123.50,74.00
+L02074,C2025-01158,2025-12-31,Sud,Magasin,Accessoires,Câble,2,34.20,10.00
+L02080,C2025-01163,2025-12-31,Nord,Magasin,Informatique,Écran,3,648.00,576.00
+L02081,C2025-01163,2025-12-31,Nord,Magasin,Informatique,Clavier,3,242.25,165.00
+L02101,C2025-01174,2025-12-31,Ouest,En ligne,Sport,Sac,1,56.00,38.00
+L02102,C2025-01174,2025-12-31,Ouest,En ligne,Informatique,Écran,1,216.00,192.00
+L02103,C2025-01174,2025-12-31,Ouest,En ligne,Maison,Étagère,2,323.00,258.00
+L02123,C2025-01186,2025-12-31,Nord,Magasin,Sport,Sac,1,66.50,38.00
+L02132,C2025-01191,2025-12-31,Est,Magasin,Sport,Tapis,1,42.75,23.00
+L02133,C2025-01191,2025-12-31,Est,Magasin,Informatique,Écran,2,408.00,384.00
+L02134,C2025-01191,2025-12-31,Est,Magasin,Accessoires,Souris,1,33.25,15.00
+L02154,C2025-01202,2025-12-31,Sud,Magasin,Informatique,Clavier,3,216.75,165.00
+L02155,C2025-01202,2025-12-31,Sud,Magasin,Sport,Sac,3,199.50,114.00
+L02156,C2025-01202,2025-12-31,Sud,Magasin,Accessoires,Câble,1,15.30,5.00
+L02225,C2025-01247,2025-12-31,Ouest,Magasin,Informatique,Casque,1,93.50,72.00
+L02226,C2025-01247,2025-12-31,Ouest,Magasin,Accessoires,Souris,3,89.25,45.00

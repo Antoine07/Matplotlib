@@ -11,4 +11,9 @@ GUIDE_FORMATEUR.md
 
 corrections/
 
+# Le cours Superstore versionne les corrections HTML séparées ; les corrigés
+# de notebooks restent hors de la sandbox apprenant.
+!cours-superstore/corrections/
+!cours-superstore/corrections/*.html
+
 .Trash-*/

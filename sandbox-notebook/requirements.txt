@@ -7,3 +7,4 @@ nbformat==5.10.4
 nbclient==0.10.4
 psycopg[binary]==3.2.10
 seaborn==0.13.2
+xlrd>=2.0.1

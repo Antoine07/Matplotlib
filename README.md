@@ -1,4 +1,10 @@
-# Le labo Matplotlib — deux blocs progressifs
+# Le labo Matplotlib
+
+## Nouveau parcours Superstore
+
+Le cours refait selon [SKILL.md](SKILL.md) est dans le dossier autonome [cours-superstore](cours-superstore/README.md). Ouvrir son [accueil](cours-superstore/index.html), son [TP en binômes](cours-superstore/supports/tp_binomes.html) ou consulter la [validation et ses limites](cours-superstore/VALIDATION.md). Il utilise le vrai classeur `Orders`, conserve la charte TABLEAU et sépare les notebooks apprenants des corrections formateur.
+
+## Version précédente — CSV de commandes
 
 Ouvrir **[le parcours](docs/index.html)**. Les feuilles de style de TABLEAU sont conservées à l'identique. Les supports HTML fonctionnent sans serveur et sans téléchargement distant.
 
