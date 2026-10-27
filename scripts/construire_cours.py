@@ -87,6 +87,8 @@ def notebooks(block):
             cells.append(cell('markdown',lesson['text']))
             if lesson.get('gallery'):
                 cells.append(cell('markdown','\n\n'.join(f'### {title}\n![{alt}](../data/visuels/{name}.png)' for name,title,alt in GALLERY)))
+            elif lesson.get('figure'):
+                cells.append(cell('markdown',f'![{lesson["alt"]}](../data/visuels/{lesson["figure"]}.png)'))
             if lesson.get('before_code'):cells.extend([cell('code',lesson['before_code']),cell('markdown','### Même histogramme avec Seaborn')])
             if lesson['code']:cells.append(cell('code',lesson['code']))
             if lesson['reading']:cells.append(cell('markdown','### Lecture du code et résultat\n'+lesson['reading']))
@@ -116,6 +118,8 @@ def main():
             body=lesson['text']
             if lesson.get('gallery'):
                 body+='<div class="gallery-grid">'+''.join(figure(name,alt,title) for name,title,alt in GALLERY)+'</div>'
+            elif lesson.get('figure'):
+                body+=figure(lesson['figure'],lesson['alt'])
             if lesson.get('before_code'):body+=code(lesson['before_code'])+'<h3>Exemple Seaborn</h3>'
             if lesson['code']:body+=code(lesson['code'])
             if lesson.get('figure'):body+=figure(lesson['figure'],lesson['alt'])
