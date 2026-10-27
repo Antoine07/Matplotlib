@@ -41,7 +41,7 @@ def exercise(block,lesson,i):
     if e['starter'].strip()!='# À vous de jouer.':body+=code(e['starter'])
     body+=f'<p><strong>Livrable :</strong> {e["deliverable"]} <strong>Critères de réussite :</strong> {e["success"]}</p><p class="small">Travaillez sur les données fournies, sans saisir les résultats attendus à la place du calcul.</p>'
     body+=''.join(details(f'Indice {j}',f'<p>{h}</p>') for j,h in enumerate(e['hints'],1))
-    body+=f'<div class="callout"><strong>On corrige ensemble</strong><p>Comparez vos choix, vérifiez le résultat, puis formulez une observation avant de passer à la suite.</p><a class="button" href="correction_{block["n"]:02}.html#correction-{i}">Ouvrir la correction après l’essai →</a></div></article>'
+    body+='</article>'
     return body
 
 INTRO1='''<h2>Introduction</h2><h3>Objectif</h3><p>Choisir un graphique adapté, préparer ses données et produire une figure lisible et vérifiable. Vous avez déjà exécuté du Python et tracé un graphique simple ; nous réactivons les gestes utiles.</p><h3>Résumé général</h3><p>On observe un exemple, on fait une petite modification, puis on corrige ensemble. Le QCM de fin de bloc donne une explication après chaque réponse.</p><div class="journey"><span>Observer</span><span>Essayer</span><span>Corriger ensemble</span><span>Expliquer</span></div><p>Dans la sandbox, ouvrez <code>notebooks/01_comprendre_graphiques.ipynb</code> et faites une copie à votre nom. Les cellules s’exécutent avec Maj + Entrée. Les chemins <code>/workspace/data</code> et <code>/workspace/resultats</code> sont ceux de Docker.</p><div class="actions"><a class="button primary" href="../data/sandbox-notebook.zip" download>Télécharger la sandbox ↓</a><a class="button" href="../data/commandes.csv" download>CSV des commandes ↓</a></div><details><summary>Ouvrir ou mettre à jour Jupyter</summary><p>Depuis le dossier sandbox-notebook, lancez <code>docker compose up --build -d</code>, puis consultez <code>docker compose logs notebook</code> pour le jeton. Ouvrez <a href="http://localhost:8890/lab">http://localhost:8890/lab</a>. Seaborn est inclus dans les dépendances : reconstruisez l’image si vous utilisiez la première version.</p></details>'''
@@ -91,7 +91,7 @@ def notebooks(block):
                 cells.append(cell('markdown',f'![{lesson["alt"]}](../data/visuels/{lesson["figure"]}.png)'))
             if lesson.get('before_code'):cells.extend([cell('code',lesson['before_code']),cell('markdown','### Même histogramme avec Seaborn')])
             if lesson['code']:cells.append(cell('code',lesson['code']))
-            if lesson['reading']:cells.append(cell('markdown','### Lecture du code et résultat\n'+lesson['reading']))
+            if lesson['reading']:cells.append(cell('markdown','### '+('Lecture du code et résultat' if lesson['code'] else 'Comment lire la figure')+'\n'+lesson['reading']))
             e=lesson['exercise']
             cells.append(cell('markdown',f'## Petit exercice {i} — {e["title"]}\n\n**Objectif :** {e["objective"]} **Prérequis :** {e["prereq"]}\n\n{e["prompt"]}\n\n**Livrable :** {e["deliverable"]}\n\n**Réussite :** {e["success"]}\n\nContrainte : utiliser les données fournies et les méthodes déjà présentées.\n\n'+''.join(details(f'Indice {j}',f'<p>{h}</p>') for j,h in enumerate(e['hints'],1))))
             if corrected:
@@ -122,11 +122,10 @@ def main():
                 body+=figure(lesson['figure'],lesson['alt'])
             if lesson.get('before_code'):body+=code(lesson['before_code'])+'<h3>Exemple Seaborn</h3>'
             if lesson['code']:body+=code(lesson['code'])
-            if lesson.get('figure'):body+=figure(lesson['figure'],lesson['alt'])
             if lesson.get('comparison'):
                 body+=figure('02_mensuel','Ventes mensuelles : baisse de 18 000 à 16 500 euros entre mai et juin.','Comparer avec les montants mensuels. Les deux graphiques ont leurs propres échelles : lire les axes, pas seulement la hauteur des points.')
                 body+=table(['Mois','Ventes (€)','Variation mensuelle','Évolution / janvier','Cumul (€)'],SUMMARY_ROWS)
-            if lesson['reading']:body+='<h3>Lecture du code et résultat</h3><p>'+lesson['reading']+'</p>'
+            if lesson['reading']:body+='<h3>'+('Lecture du code et résultat' if lesson['code'] else 'Comment lire la figure')+'</h3><p>'+lesson['reading']+'</p>'
             body+=exercise(block,lesson,i)
             sections.append((lesson['id'],lesson['title'],body))
             e=lesson['exercise']
