@@ -1,10 +1,38 @@
 services:
   notebook:
     build: .
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      PGHOST: postgres
+      PGPORT: "5432"
+      PGDATABASE: ${POSTGRES_DB:-formation}
+      PGUSER: ${POSTGRES_USER:-apprenant}
+      PGPASSWORD: ${POSTGRES_PASSWORD:-formation_locale}
     ports:
       - "127.0.0.1:${JUPYTER_PORT:-8890}:8888"
     volumes:
       - ./notebooks:/workspace/notebooks
       - ./data:/workspace/data:ro
       - ./resultats:/workspace/resultats
+      - ./scripts:/workspace/scripts:ro
     working_dir: /workspace
+
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-formation}
+      POSTGRES_USER: ${POSTGRES_USER:-apprenant}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-formation_locale}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -h 127.0.0.1 -U \"$${POSTGRES_USER}\" -d \"$${POSTGRES_DB}\""]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+      start_period: 10s
+
+volumes:
+  postgres_data:
