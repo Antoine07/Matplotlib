@@ -6,6 +6,7 @@ Ouvrir **[docs/index.html](docs/index.html)** dans un navigateur. Le cours fonct
 
 - [Cours du bloc 01](docs/supports/01_graphiques_fiables.html) : Figure / Axes, préparation des données, barres triées, lisibilité, export et interprétation.
 - [Sandbox à distribuer](docs/data/sandbox-notebook.zip) : notebook apprenant, CSV et environnement Jupyter ; sans corrigé.
+- PostgreSQL 17 dans la sandbox, avec volume persistant et test dans `notebooks/00_test_postgres.ipynb` (ou `docker compose exec -T notebook python scripts/test_postgres.py` depuis la sandbox).
 - [Flashcards et QCM](docs/qcm/01_graphiques_fiables.html) : six cartes et huit questions avec feedback.
 - [Correction expliquée](docs/supports/correction_01.html) et notebook dans `sandbox-notebook/corrections/`.
 - [Guide formateur et reprise](GUIDE_FORMATEUR.md).
@@ -20,6 +21,8 @@ Le bloc 01 est utilisable. Les blocs 02 (dates et périmètres) et 03 (vues mult
 ## Sources et régénération
 
 `scripts/construire_cours.py` est la source du cours HTML, des exercices, du QCM et des notebooks. Le relancer **remplace ces fichiers générés**, y compris les notebooks d'origine : travailler dans des copies à son nom.
+
+Le notebook `00_test_postgres.ipynb` est maintenu séparément et appelle `sandbox-notebook/scripts/test_postgres.py`. Son test nécessite PostgreSQL démarré ; il ne fait pas partie de la validation hors ligne du cours.
 
 ```bash
 python scripts/construire_cours.py

@@ -14,11 +14,11 @@
 - Les flashcards et le QCM ont été exercés avec jsdom : carte suivante/précédente, boucle, absence de réponse, score 8/8, remise à zéro, mauvaise réponse, score 7/8 et feedback.
 - La syntaxe des deux scripts JavaScript est valide.
 - `docker compose config` valide la configuration : port local 8890 vers 8888, notebooks et résultats persistants, données en lecture seule.
-- Archive apprenant contrôlée : neuf fichiers, aucun corrigé ni résultat de travail ; CRC valide.
+- Archive apprenant initiale contrôlée : neuf fichiers, aucun corrigé ni résultat de travail ; CRC valide. L'ajout PostgreSQL porte ensuite cette archive à douze fichiers.
 
 ## Environnement réellement utilisé
 
-Python 3.13.3, Matplotlib 3.10.8, pandas 3.0.1, NumPy 2.4.0, nbformat 5.10.4, nbclient 0.10.4. Les versions directes de `requirements.txt` correspondent aux bibliothèques disponibles. Aucun environnement existant n'a été modifié.
+Python 3.13.3, Matplotlib 3.10.8, pandas 3.0.1, NumPy 2.4.0, nbformat 5.10.4, nbclient 0.10.4. Les versions directes initiales de `requirements.txt` correspondent aux bibliothèques disponibles. Psycopg, ajouté ensuite pour PostgreSQL, n'a pas été installé dans cet environnement. Aucun environnement existant n'a été modifié.
 
 Le détail machine est dans `bilan.json`. Les traces numériques sont dans `notebooks_execution.txt` et `corrections_execution.txt`.
 
@@ -45,3 +45,12 @@ node scripts/verifier_interactions.cjs
 ```
 
 `JSDOM_PATH` peut désigner un module jsdom installé ailleurs. Node 24.12.0 a été utilisé pour ce contrôle. La validation ne modifie pas les travaux apprenants.
+
+## Ajout PostgreSQL
+
+- Compose valide avec PostgreSQL 17 Alpine, volume nommé et attente `service_healthy` côté notebook ; aucun port PostgreSQL publié sur l'hôte.
+- Vérification des variables par défaut et de la correspondance client/serveur après personnalisation de la base, de l'utilisateur et du mot de passe.
+- Notebook `00_test_postgres.ipynb` validé avec nbformat ; code compilé.
+- Comportement du test vérifié avec un double de Psycopg : succès, réponse incorrecte, erreur de connexion et mot de passe absent. Le notebook retrouve le script depuis la racine et depuis `notebooks/`. Aucun mot de passe affiché.
+- Archive mise à jour : 12 fichiers, notebook de test et script présents, aucun corrigé ni `.env` ; CRC valide.
+- **Limite :** le service Docker reste inaccessible. Ces vérifications ne constituent pas un test de connexion réelle. Exécuter le notebook 00 ou `docker compose exec -T notebook python scripts/test_postgres.py` après `docker compose up --build -d` pour vérifier l'installation réelle.

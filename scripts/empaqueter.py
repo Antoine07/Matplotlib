@@ -3,7 +3,7 @@ from pathlib import Path
 import zipfile
 R=Path(__file__).resolve().parents[1]
 base=R/'sandbox-notebook'
-paths=['README.md','Dockerfile','compose.yaml','requirements.txt','.dockerignore','notebooks/01_graphiques_fiables.ipynb','data/commandes.csv','data/README.md','resultats/.gitkeep']
+paths=['README.md','Dockerfile','compose.yaml','requirements.txt','.dockerignore','.env.example','notebooks/00_test_postgres.ipynb','notebooks/01_graphiques_fiables.ipynb','scripts/test_postgres.py','data/commandes.csv','data/README.md','resultats/.gitkeep']
 target=R/'docs/data/sandbox-notebook.zip'
 with zipfile.ZipFile(target,'w',zipfile.ZIP_DEFLATED) as archive:
     for path in paths: archive.write(base/path,'sandbox-notebook/'+path)
