@@ -1,0 +1,8 @@
+0      NaN
+1    20.00
+2   -25.00
+3    66.67
+4    20.00
+5    -8.33
+Name: variation_pct, dtype: float64
+Marge sur CA du semestre : 22.8 %

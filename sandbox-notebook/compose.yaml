@@ -16,7 +16,6 @@ services:
       - ./notebooks:/workspace/notebooks
       - ./data:/workspace/data:ro
       - ./resultats:/workspace/resultats
-      - ./scripts:/workspace/scripts:ro
     working_dir: /workspace
 
   postgres:

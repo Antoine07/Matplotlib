@@ -1,47 +1,74 @@
 {
-  "validation": "OK",
-  "python": "3.13.3",
+  "statut": "OK",
   "versions": {
-    "matplotlib": "3.10.8",
+    "python": "3.13.3",
     "pandas": "3.0.1",
-    "numpy": "2.4.0",
-    "nbformat": "5.10.4",
-    "nbclient": "0.10.4",
-    "jupyterlab": "4.5.1",
-    "ipykernel": "7.1.0"
+    "matplotlib": "3.10.8",
+    "seaborn": "0.13.2"
   },
-  "execution": "Cellules exécutées séquentiellement par exec dans un espace neuf par notebook, backend Agg ; pas un test du serveur Jupyter.",
+  "execution": "Cellules exécutées dans un espace neuf par carnet, backend Agg ; chemins /workspace redirigés vers une copie temporaire. Aucun test du serveur Docker.",
   "notebooks": [
     {
-      "notebook": "01_graphiques_fiables.ipynb",
-      "cellules_code_executees": 8,
-      "exports_attendus": [
-        "01_categories.png"
+      "notebook": "01_comprendre_graphiques.ipynb",
+      "cellules_executees": 12,
+      "exports": [
+        "01_categories.png",
+        "01_histogramme.png",
+        "01_lisible.png",
+        "01_parts.png",
+        "01_seaborn.png"
       ],
       "statut": "OK"
     },
     {
-      "notebook": "01_graphiques_fiables_corrige.ipynb",
-      "cellules_code_executees": 9,
-      "exports_attendus": [
+      "notebook": "01_comprendre_graphiques_corrige.ipynb",
+      "cellules_executees": 11,
+      "exports": [
+        "01_audit_corrige.png",
         "01_categories.png",
-        "02_sud.png",
-        "03_audit_corrige.png",
-        "04_produits.png"
+        "01_histogramme.png",
+        "01_lisible.png",
+        "01_parts.png",
+        "01_parts_regions.png",
+        "01_regions.png",
+        "01_seaborn.png",
+        "01_seaborn_3_classes.png"
+      ],
+      "statut": "OK"
+    },
+    {
+      "notebook": "02_indicateurs.ipynb",
+      "cellules_executees": 13,
+      "exports": [
+        "02_cumul.png",
+        "02_evolution.png",
+        "02_marge.png",
+        "02_mensuel.png",
+        "02_moyenne_mobile.png",
+        "02_variation.png"
+      ],
+      "statut": "OK"
+    },
+    {
+      "notebook": "02_indicateurs_corrige.ipynb",
+      "cellules_executees": 12,
+      "exports": [
+        "02_cumul.png",
+        "02_evolution.png",
+        "02_marge.png",
+        "02_marge_cumulee.png",
+        "02_mensuel.png",
+        "02_moyenne_mobile.png",
+        "02_variation.png"
       ],
       "statut": "OK"
     }
   ],
-  "liens_locaux_verifies": 65,
-  "pages_html": 4,
-  "donnees": {
-    "lignes": 60,
-    "commandes": 30,
-    "total_ventes": 45831,
-    "categories": {
-      "Informatique": "30776.00",
-      "Mobilier": "13302.50",
-      "Accessoires": "1752.50"
-    }
-  }
+  "pages_html": 7,
+  "liens_locaux": 150,
+  "durees_pedagogiques": 0,
+  "total_csv": 45831,
+  "total_scenario_mensuel": 80500,
+  "profit_scenario_mensuel": 18350,
+  "marge_globale_pct": 22.795031055900623
 }

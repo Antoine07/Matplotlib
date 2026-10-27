@@ -1,28 +1,34 @@
-# Le labo Matplotlib — premier bloc
+# Le labo Matplotlib — deux blocs progressifs
 
-Ouvrir **[docs/index.html](docs/index.html)** dans un navigateur. Le cours fonctionne en fichiers locaux, sans serveur ni dépendance distante. Le graphisme reprend à l'identique les feuilles `site.css` et `tableau.css` du cours voisin `TABLEAU` : couleurs, typographie, cartes, sommaire, exercices et révision.
+Ouvrir **[le parcours](docs/index.html)**. Les feuilles de style de TABLEAU sont conservées à l'identique. Les supports HTML fonctionnent sans serveur et sans téléchargement distant.
 
-**Public :** personnes connaissant déjà les premiers tracés Matplotlib et les bases de Python. **Durée :** 2 h 30 hors pause. **Fil rouge :** le carnet visuel d'une boutique ; mêmes données que le TP Tableau (60 lignes de vente / 30 commandes).
+Le cours s'adresse à un public connaissant les bases de Python et les premiers tracés. Chaque séquence suit **exemple → petit exercice → correction collective**, puis un **QCM avec feedback en fin de bloc**. Aucune durée pédagogique n'est affichée : le formateur gère le rythme.
 
-- [Cours du bloc 01](docs/supports/01_graphiques_fiables.html) : Figure / Axes, préparation des données, barres triées, lisibilité, export et interprétation.
-- [Sandbox à distribuer](docs/data/sandbox-notebook.zip) : notebook apprenant, CSV et environnement Jupyter ; sans corrigé.
-- PostgreSQL 17 dans la sandbox, avec volume persistant et test dans `notebooks/00_test_postgres.ipynb` (ou `docker compose exec -T notebook python scripts/test_postgres.py` depuis la sandbox).
-- [Flashcards et QCM](docs/qcm/01_graphiques_fiables.html) : six cartes et huit questions avec feedback.
-- [Correction expliquée](docs/supports/correction_01.html) et notebook dans `sandbox-notebook/corrections/`.
-- [Guide formateur et reprise](GUIDE_FORMATEUR.md).
-- [Vérifications effectuées](validation/VALIDATION.md).
+- [Bloc 1 — Comprendre et construire ses graphiques](docs/supports/01_graphiques_fiables.html) : rappel des outils, galerie de graphiques, chargement, agrégation, Figure / Axes, lisibilité, parts du total et démonstration Seaborn.
+- [Bloc 2 — Représenter les indicateurs](docs/supports/02_indicateurs.html) : variation, évolution depuis janvier, cumul, moyenne mobile, marge sur CA et synthèse. Power BI reste une passerelle facultative.
+- [Sandbox apprenant](docs/data/sandbox-notebook.zip) : deux carnets, données, galerie et environnement Jupyter avec PostgreSQL ; aucun corrigé ni travail personnel.
+- [QCM du bloc 1](docs/qcm/01_graphiques_fiables.html) et [QCM du bloc 2](docs/qcm/02_indicateurs.html) : huit questions chacun, avec six flashcards.
+- [Correction collective du bloc 1](docs/supports/correction_01.html) et [du bloc 2](docs/supports/correction_02.html).
+- [Audit pédagogique](AUDIT_PEDAGOGIQUE.md) et [vérifications](validation/VALIDATION.md).
 
-Le cours se lit dans le navigateur ; les exercices s'exécutent dans une sandbox-notebook existante ou dans le Jupyter Docker fourni. Voir [les instructions de lancement](sandbox-notebook/README.md).
+Les données du bloc 1 sont celles du TP Tableau : 60 lignes de vente, 30 commandes, 45 831 €. Le tableau mensuel du bloc 2 est un **scénario indépendant**, avec profit fictif ; ce n'est pas l'agrégation du premier fichier.
 
-## Continuer demain
+## Dans la sandbox
 
-Le bloc 01 est utilisable. Les blocs 02 (dates et périmètres) et 03 (vues multiples) sont seulement des jalons prévus, pas des chapitres déjà rédigés. Conserver le même fil rouge et la même présentation. Voir `GUIDE_FORMATEUR.md` pour les choix et les suites proposées.
+Lire [les instructions](sandbox-notebook/README.md). Seaborn est inclus : reconstruire l'image avec `docker compose up --build -d` si elle existait avant cette version.
+
+- `00_test_postgres.ipynb` : test court `SELECT 1`, directement dans le notebook.
+- `01_comprendre_graphiques.ipynb` : carnet du bloc 1.
+- `02_indicateurs.ipynb` : carnet du bloc 2.
+
+Faire des copies à son nom. Les notebooks corrigés sont conservés localement dans `sandbox-notebook/corrections/`, ignorés par Git et exclus de l'archive apprenant. Les corrections HTML restent consultables après les exercices.
 
 ## Sources et régénération
 
-`scripts/construire_cours.py` est la source du cours HTML, des exercices, du QCM et des notebooks. Le relancer **remplace ces fichiers générés**, y compris les notebooks d'origine : travailler dans des copies à son nom.
-
-Le notebook `00_test_postgres.ipynb` est maintenu séparément et appelle `sandbox-notebook/scripts/test_postgres.py`. Son test nécessite PostgreSQL démarré ; il ne fait pas partie de la validation hors ligne du cours.
+- `scripts/contenu_cours.py` : exemples, exercices, solutions et questions.
+- `scripts/construire_cours.py` : supports HTML et carnets modèles. Il ne modifie pas `00_test_postgres.ipynb` ni les copies personnelles, mais **remplace les carnets modèles portant les noms ci-dessus**.
+- `scripts/valider.py` : exécution isolée des quatre carnets, calculs indépendants, génération des figures et contrôles de liens.
+- `scripts/empaqueter.py` : archive apprenant par liste blanche.
 
 ```bash
 python scripts/construire_cours.py
@@ -30,4 +36,4 @@ python scripts/valider.py
 python scripts/empaqueter.py
 ```
 
-La validation nécessite les dépendances de `sandbox-notebook/requirements.txt`. Elle exécute les cellules dans des espaces de variables neufs, contrôle les calculs indépendamment avec `csv` et `Decimal`, produit les figures de référence et vérifie les liens. Les rendus d'apprenants dans `sandbox-notebook/resultats` ne sont pas modifiés.
+La validation utilise les dépendances de `sandbox-notebook/requirements.txt`. Hors Docker, elle redirige les chemins `/workspace` vers une copie temporaire et conserve les travaux apprenants. Le test PostgreSQL, qui exige un serveur réel, reste séparé.

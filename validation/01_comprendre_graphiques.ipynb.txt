@@ -1,0 +1,8 @@
+Nombre de lignes : 60
+Nombre de commandes : 30
+Chiffre d'affaires : 45831.0
+Categorie
+Accessoires      3.82
+Mobilier        29.03
+Informatique    67.15
+Name: Ventes, dtype: float64

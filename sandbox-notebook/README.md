@@ -1,10 +1,10 @@
-# Sandbox-notebook — Matplotlib, bloc 01
+# Sandbox-notebook — Matplotlib et indicateurs
 
-Ouvrir `notebooks/00_test_postgres.ipynb` pour vérifier PostgreSQL, puis `notebooks/01_graphiques_fiables.ipynb` pour le cours Matplotlib. Le cours est dans le dossier `docs` du kit complet ; le notebook contient les consignes nécessaires pour travailler seul.
+Ouvrir `notebooks/00_test_postgres.ipynb` pour vérifier PostgreSQL, puis `notebooks/01_comprendre_graphiques.ipynb` et `notebooks/02_indicateurs.ipynb` pour les deux blocs. Le cours est dans le dossier `docs` du kit complet ; le notebook contient les consignes nécessaires pour travailler seul.
 
 ## Avec une sandbox Jupyter existante
 
-Importer ensemble `notebooks/`, `data/` et `resultats/`, puis choisir un noyau Python disposant de pandas et Matplotlib. Le notebook accepte un lancement depuis la racine de la sandbox ou depuis son dossier `notebooks`. Les versions de référence sont fixées dans `requirements.txt`.
+Importer ensemble `notebooks/`, `data/` et `resultats/`, puis choisir un noyau Python disposant de pandas, Matplotlib et Seaborn. Les exemples utilisent les chemins Docker `/workspace/data` et `/workspace/resultats` : dans un autre environnement, adapter ces chemins et créer le dossier des exports avant de lancer les figures. Les versions de référence sont fixées dans `requirements.txt`.
 
 ## Avec Docker
 
@@ -17,27 +17,19 @@ docker compose logs notebook
 
 Ouvrir **http://localhost:8890/lab**, puis saisir le jeton affiché dans les logs (la ligne de logs peut annoncer le port interne 8888 ; utiliser 8890 dans le navigateur). Ouvrir le notebook dans le dossier `notebooks`.
 
-Le premier build nécessite Internet. Les données sont ensuite disponibles hors ligne. L'accès est limité au poste local et utilise le jeton Jupyter généré au démarrage. Les notebooks et exports restent dans les dossiers montés.
+Si une ancienne image existe, la reconstruire pour installer Seaborn. Le premier build nécessite Internet. Les données sont ensuite disponibles hors ligne. L'accès est limité au poste local et utilise le jeton Jupyter généré au démarrage. Les notebooks et exports restent dans les dossiers montés.
 
 ## PostgreSQL et test de connexion
 
 Le Compose démarre aussi PostgreSQL 17, dans un service séparé. Jupyter attend que son contrôle de disponibilité réussisse. La base conserve ses données dans le volume `postgres_data`, y compris après `docker compose down`.
 
-Depuis Jupyter, ouvrez **`notebooks/00_test_postgres.ipynb`**, puis exécutez sa cellule. Vous pouvez également tester depuis votre terminal :
+Ouvrez **`notebooks/00_test_postgres.ipynb`** et exécutez la cellule. Elle lance `SELECT 1` et affiche **Connexion PostgreSQL OK** si la requête réussit.
 
-```bash
-docker compose exec -T notebook python scripts/test_postgres.py
-```
+Docker transmet les identifiants via les variables `PG*`. Le serveur est `postgres:5432` dans Docker. Les valeurs par défaut (`formation`, `apprenant`, `formation_locale`) peuvent être personnalisées avec `.env.example`, à copier en `.env` avant le premier démarrage.
 
-Résultat attendu : **Connexion PostgreSQL OK**, base `formation`, utilisateur `apprenant`, résultat SQL `1 + 1 = 2`, puis version du serveur. Le test ouvre réellement une connexion avec Psycopg et vérifie la réponse SQL ; il ne modifie aucune table et retourne une erreur en cas d'échec.
+En cas d'échec, vérifiez `docker compose ps` et `docker compose logs postgres`. Si `psycopg` manque, relancez `docker compose up --build -d`. Modifier `.env` ne change pas les identifiants d'une base déjà initialisée.
 
-Les variables `PGHOST`, `PGPORT`, `PGDATABASE`, `PGUSER` et `PGPASSWORD` sont déjà transmises à Jupyter. Le serveur est **`postgres:5432` à l'intérieur de Docker**, pas `localhost`. Aucun port PostgreSQL n'est publié sur la machine hôte. Le test est prévu dans le Jupyter Docker ; un Jupyter externe nécessite sa propre connexion PostgreSQL.
-
-Les valeurs pédagogiques par défaut sont base `formation`, utilisateur `apprenant`, mot de passe `formation_locale`. Pour les personnaliser **avant la première initialisation**, copier `.env.example` en `.env` et modifier les valeurs. Le fichier `.env` est ignoré par Git et exclu de l'archive.
-
-En cas d'échec : `docker compose ps` doit afficher PostgreSQL `healthy` ; consulter `docker compose logs postgres`. Si `psycopg` manque, relancer `docker compose up --build -d`. Changer `.env` après initialisation ne change pas les identifiants déjà enregistrés dans la base : conserver les identifiants initiaux ou modifier l'utilisateur en SQL. `docker compose down` conserve la base ; l'option `-v` supprimerait ses données.
-
-Les données commerciales restent dans le CSV pour le bloc Matplotlib ; le test ne les importe pas dans PostgreSQL.
+Le bloc 1 utilise le CSV ; le bloc 2 utilise un tableau mensuel fictif construit dans le notebook, également fourni en CSV. Un Jupyter hors Docker nécessite sa propre configuration PostgreSQL.
 
 ## Arrêt et reprise
 
@@ -67,8 +59,8 @@ python -m jupyter lab --port=8890
 
 1. Faire une copie du notebook à son nom.
 2. Lire les démonstrations, prédire, puis exécuter avec Maj + Entrée.
-3. Compléter les quatre exercices et les cellules Markdown.
-4. Garder les quatre PNG dans `resultats`.
+3. Après chaque exemple, faire le petit exercice, puis noter la correction collective dans la cellule prévue.
+4. Garder les PNG dans `resultats` et faire le QCM avec feedback sur le support HTML en fin de bloc.
 5. Redémarrer le noyau puis tout exécuter avant de rendre.
 
 Une cellule « À vous » vide n'est pas une réponse, même si son exécution ne produit aucune erreur.

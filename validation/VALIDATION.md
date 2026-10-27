@@ -1,56 +1,45 @@
-# Vérification du bloc 01 — 27 octobre 2026
+# Validation — deux blocs Matplotlib
 
-## Contrôles réussis
+## Contrôles effectués
 
-- `site.css` et `tableau.css` sont identiques octet pour octet aux fichiers de TABLEAU.
-- Le CSV de la sandbox et celui du support sont identiques à `TABLEAU/docs/data/tp01_commandes_detail.csv`.
-- Calcul indépendant avec `csv` et `Decimal` : 60 lignes, 30 commandes, 45 831 € ; chaque montant correspond à quantité × prix × (1 − remise).
-- Contrôle des totaux par catégorie, région Sud et produit ; vérification des couples catégorie–longueur effectivement dessinés.
-- Le bug pédagogique inverse effectivement les montants de deux catégories tout en conservant le total général.
-- Les deux notebooks respectent le format nbformat 4.5. Leurs cellules Python ont été exécutées dans l'ordre, avec un espace de variables neuf et une copie temporaire de la sandbox pour chaque parcours : 8 cellules apprenant, 9 cellules corrigé.
-- Les quatre exports du corrigé ont été produits ; le parcours apprenant produit son exemple et conserve les zones à compléter. L'exécution d'une cellule apprenant vide n'est pas comptée comme la réussite de l'exercice.
-- Les figures sont disponibles dans `validation/figures/` et les mêmes images illustrent le corrigé HTML. La figure du cours a été inspectée visuellement : titres, unités et étiquettes lisibles.
-- Les liens locaux, ressources et ancres HTML ont été contrôlés ; tous les extraits Python du HTML compilent.
-- Les flashcards et le QCM ont été exercés avec jsdom : carte suivante/précédente, boucle, absence de réponse, score 8/8, remise à zéro, mauvaise réponse, score 7/8 et feedback.
-- La syntaxe des deux scripts JavaScript est valide.
-- `docker compose config` valide la configuration : port local 8890 vers 8888, notebooks et résultats persistants, données en lecture seule.
-- Archive apprenant initiale contrôlée : neuf fichiers, aucun corrigé ni résultat de travail ; CRC valide. L'ajout PostgreSQL porte ensuite cette archive à douze fichiers.
+- Les feuilles `site.css` et `tableau.css` et le CSV de commandes sont identiques aux sources TABLEAU.
+- Calculs indépendants avec `csv` et `Decimal` : 60 lignes, 30 commandes, 45 831 € ; totaux par catégorie et région.
+- Scénario mensuel contrôlé indépendamment : 80 500 € de ventes, 18 350 € de profit ; six variations, évolutions, cumuls et taux vérifiés ; quatre moyennes mobiles complètes.
+- Ratio global : environ 22,80 % ; moyenne des taux mensuels : 22,50 %.
+- Deux carnets apprenants et deux corrigés conformes à nbformat, exécutés cellule par cellule dans un espace neuf par carnet. Les chemins `/workspace` sont redirigés vers une copie temporaire des données et exports ; les autres instructions sont exécutées telles quelles.
+- Les démonstrations Seaborn sont exécutées avec Seaborn 0.13.2. Aucun remplacement par une figure Matplotlib simulant Seaborn.
+- Les images attendues sont produites et copiées dans les supports ; une inspection visuelle a confirmé la lisibilité de l'histogramme, des variations, du lissage et de la marge cumulée.
+- Les cellules apprenants à compléter restent volontairement ouvertes : leur exécution sans erreur ne signifie pas qu'un exercice est réussi.
+- Tous les extraits Python des HTML compilent ; les liens et ancres locales sont vérifiés.
+- Aucune durée pédagogique dans les pages HTML. Les fenêtres de trois mois restent présentes car elles définissent un indicateur.
+- Les deux QCM ont été testés avec jsdom : navigation des flashcards, réponse obligatoire, feedback correct et incorrect sur les huit questions, verrouillage, remise à zéro, scores 8/8 et 0/8.
+- L'archive utilise une liste blanche : deux carnets de cours, test PostgreSQL, galerie, données et configuration. Aucun corrigé, `.env`, fichier de corbeille ou notebook personnel.
+- Le test PostgreSQL court et les notebooks personnels existants n'ont pas été modifiés par la refonte.
 
-## Environnement réellement utilisé
+## Environnement et limites
 
-Python 3.13.3, Matplotlib 3.10.8, pandas 3.0.1, NumPy 2.4.0, nbformat 5.10.4, nbclient 0.10.4. Les versions directes initiales de `requirements.txt` correspondent aux bibliothèques disponibles. Psycopg, ajouté ensuite pour PostgreSQL, n'a pas été installé dans cet environnement. Aucun environnement existant n'a été modifié.
+Python 3.13.3, Matplotlib 3.10.8, pandas 3.0.1, NumPy 2.4.0, Seaborn 0.13.2. Seaborn a été chargé depuis une copie temporaire de son package Python déjà présent sur la machine ; aucun environnement existant n'a été modifié.
 
-Le détail machine est dans `bilan.json`. Les traces numériques sont dans `notebooks_execution.txt` et `corrections_execution.txt`.
+L'exécution utilise le backend Agg et des espaces Python neufs, pas des noyaux Jupyter pilotés par le navigateur. Les chiffres et fichiers exportés sont validés ; le lancement du serveur Jupyter Docker n'a pas été vérifié dans cette session. Il faut reconstruire l'image pour disposer de Seaborn.
 
-## Limites de la vérification
+Le rendu complet desktop/mobile n'a pas pu être validé en navigateur dans cette session. Le thème de référence est conservé ; les interactions sont testées avec jsdom, qui ne contrôle pas le rendu visuel. Les figures ont été inspectées séparément.
 
-- Le serveur Docker n'est pas accessible dans cette session (accès au socket refusé). L'image n'a donc pas été construite ni le service Jupyter lancé.
-- Le code des notebooks a été exécuté directement cellule par cellule avec le backend Agg, pas via un noyau Jupyter piloté par nbclient. L'affichage interactif dans Jupyter reste à confirmer lors du lancement de la sandbox ; les exports et calculs ont été vérifiés.
-- Chromium n'a pas pu démarrer dans le bac à sable système : refus macOS `bootstrap_check_in / MachPortRendezvous`. Pas de capture du cours ni de validation visuelle desktop/mobile en navigateur. Les styles responsives sont ceux du cours TABLEAU ; les interactions ont été vérifiées via jsdom, qui ne contrôle pas le rendu visuel.
-- Le premier build Docker et l'installation locale ont besoin d'Internet. Les sources de données et le support HTML fonctionnent ensuite sans téléchargement.
+Le test PostgreSQL reste un test réel à lancer depuis la sandbox ; il ne fait pas partie de la validation hors ligne des cours.
 
 ## Rejouer
 
-Depuis un Python disposant des dépendances de la sandbox :
+Avec les dépendances de la sandbox :
 
 ```bash
+python scripts/construire_cours.py
 python scripts/valider.py
 python scripts/empaqueter.py
 ```
 
-Le test d'interactions utilise Node et jsdom :
+Pour les interactions, avec Node et jsdom :
 
 ```bash
 node scripts/verifier_interactions.cjs
 ```
 
-`JSDOM_PATH` peut désigner un module jsdom installé ailleurs. Node 24.12.0 a été utilisé pour ce contrôle. La validation ne modifie pas les travaux apprenants.
-
-## Ajout PostgreSQL
-
-- Compose valide avec PostgreSQL 17 Alpine, volume nommé et attente `service_healthy` côté notebook ; aucun port PostgreSQL publié sur l'hôte.
-- Vérification des variables par défaut et de la correspondance client/serveur après personnalisation de la base, de l'utilisateur et du mot de passe.
-- Notebook `00_test_postgres.ipynb` validé avec nbformat ; code compilé.
-- Comportement du test vérifié avec un double de Psycopg : succès, réponse incorrecte, erreur de connexion et mot de passe absent. Le notebook retrouve le script depuis la racine et depuis `notebooks/`. Aucun mot de passe affiché.
-- Archive mise à jour : 12 fichiers, notebook de test et script présents, aucun corrigé ni `.env` ; CRC valide.
-- **Limite :** le service Docker reste inaccessible. Ces vérifications ne constituent pas un test de connexion réelle. Exécuter le notebook 00 ou `docker compose exec -T notebook python scripts/test_postgres.py` après `docker compose up --build -d` pour vérifier l'installation réelle.
+`JSDOM_PATH` permet d'indiquer une installation existante. Le détail de l'exécution et des chiffres est dans `bilan.json` ; les traces sont nommées d'après les quatre notebooks.

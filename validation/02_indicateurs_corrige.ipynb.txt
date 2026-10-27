@@ -1,0 +1,20 @@
+0      NaN
+1    20.00
+2   -25.00
+3    66.67
+4    20.00
+5    -8.33
+Name: variation_pct, dtype: float64
+-25.0
+-25.0
+variation_pct    -8.33
+evolution_pct    65.00
+Name: 5, dtype: float64
+   ventes  ventes_cumulees
+4   18000            64000
+5   16500            80500
+12000.0
+12000.0
+Marge sur CA du semestre : 22.8 %
+Ratio cumulé final : 22.8
+Moyenne des taux mensuels : 22.5
