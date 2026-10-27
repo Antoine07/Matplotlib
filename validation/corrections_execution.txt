@@ -1,0 +1,31 @@
+60 30
+45831.0
+Categorie
+Accessoires      1752.5
+Mobilier        13302.5
+Informatique    30776.0
+Name: Ventes, dtype: float64
+Categorie
+Accessoires      455.5
+Mobilier        4424.0
+Informatique    9717.0
+Name: Ventes, dtype: float64
+Categorie
+Accessoires      1752.5
+Mobilier        13302.5
+Informatique    30776.0
+Name: Ventes, dtype: float64
+Categorie
+Accessoires      455.5
+Mobilier        4424.0
+Informatique    9717.0
+Name: Ventes, dtype: float64
+14596.5
+Produit
+Souris          312.5
+Chaise         1414.0
+Clavier        1440.0
+Ecran          4851.0
+Bureau        11888.5
+Ordinateur    25925.0
+Name: Ventes, dtype: float64

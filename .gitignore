@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+sandbox-notebook/.env
+/sandbox-notebook/corrections/
+sandbox-notebook/resultats/*
+!sandbox-notebook/resultats/.gitkeep
+
+GUIDE_FORMATEUR.md
+
+corrections/

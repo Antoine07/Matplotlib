@@ -1,0 +1,10 @@
+services:
+  notebook:
+    build: .
+    ports:
+      - "127.0.0.1:${JUPYTER_PORT:-8890}:8888"
+    volumes:
+      - ./notebooks:/workspace/notebooks
+      - ./data:/workspace/data:ro
+      - ./resultats:/workspace/resultats
+    working_dir: /workspace
