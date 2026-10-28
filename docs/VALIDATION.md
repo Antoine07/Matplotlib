@@ -39,9 +39,9 @@ Résultats contrôlés pour les nouveaux exercices :
 
 `data/ventes_reseau_powerbi.csv` contient 2 274 lignes de commande fictives et 1 273 commandes sur les douze mois de 2025. Il est généré de façon déterministe avec la graine 20261027. Son grain, ses dix colonnes, la cohérence des dimensions au sein d’une commande et sa copie dans la sandbox ont été contrôlés. Le chiffre d’affaires total est de 405 188,35 € HT, le coût d’achat de 295 375,00 € HT et la marge commerciale de 109 813,35 € HT.
 
-La correction produit quatre figures distinctes et deux exemples d’insights. Les calculs de cette correction ont été exécutés sur le CSV : évolution janvier-décembre de +149,06 %, marge/CA de 29,20 % en magasin et 23,90 % en ligne. Les appels Matplotlib restent non exécutés dans l’interpréteur local, où cette dépendance est absente.
+Le TP est réduit à deux graphiques : chiffre d’affaires mensuel et marge commerciale rapportée au chiffre d’affaires par catégorie. La question facultative est retirée du sujet et de la correction. Le notebook et la page formateur produisent deux figures et deux exemples d’insights. Les calculs ont été exécutés sur le CSV : évolution janvier-décembre de +149,06 %, marge/CA de 59,97 % pour les Accessoires et 20,14 % pour l’Informatique, soit environ 39,82 points d’écart calculés avant arrondi des taux. Les appels Matplotlib restent non exécutés dans l’interpréteur local, où cette dépendance est absente.
 
-Le sujet étudiant présente les nouvelles données, les quatre graphiques et les deux insights attendus. Il ne contient ni horaire, ni barème, ni indications de passage à l’oral, ni correction. Les notebooks formateur restent hors de la sandbox.
+Le sujet étudiant présente les données, les deux graphiques et les deux insights attendus. Il ne contient ni durée, ni horaire, ni barème, ni indications de passage à l’oral, ni correction. Les notebooks formateur restent hors de la sandbox.
 
 ## QCM et modèle pédagogique réutilisable
 

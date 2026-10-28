@@ -9,7 +9,7 @@ Lire cette référence pour modifier ce projet ou reprendre ses choix concrets d
 - `docs/scripts/lesson_content.py` définit les séquences effectivement affichées et leurs exercices ; elles remplacent certaines définitions historiques présentes dans le générateur.
 - `docs/scripts/discovery_content.py` définit la présentation de cinq graphiques : petits DataFrames fictifs, code commenté, tableaux et illustrations SVG calculés sur les mêmes données.
 - `docs/scripts/math_questions.py` définit les six questions maths sur Superstore, sans code de solution ni correction.
-- `docs/scripts/tp_content.py` contient le sujet, les données attendues, les quatre visuels, les deux insights de correction et la question facultative du TP.
+- `docs/scripts/tp_content.py` contient le sujet, les données attendues, les deux visuels et les deux insights de correction du TP.
 - `docs/scripts/generer_donnees_tp.py` génère le CSV fictif du TP avec une graine fixe.
 - `docs/assets/site.css` et `docs/assets/tableau.css` portent la charte TABLEAU existante.
 - `docs/assets/course.css` et `docs/assets/quiz.js` sont générés ; modifier leur source dans le générateur.
@@ -103,15 +103,13 @@ Le bloc de découverte introduit `fig`, `ax` et `figsize=(8, 4)` à 100 DPI. Le 
 
 Le TP prépare une maquette de tableau de bord Power BI avec Pandas et Matplotlib. Le sujet ne demande pas de fichier PBIX.
 
-Les quatre graphiques sont :
+Les deux graphiques sont :
 1. Chiffre d’affaires mensuel.
-2. Chiffre d’affaires par région.
-3. Marge commerciale / chiffre d’affaires par catégorie.
-4. Chiffre d’affaires et marge commerciale par canal, en barres groupées.
+2. Marge commerciale / chiffre d’affaires par catégorie.
 
-Demander exactement deux insights, chacun chiffré et relié aux graphiques, avec une implication métier ou une piste d’action. La question facultative croise région et canal au moyen d’un tableau ; elle n’ajoute pas un cinquième graphique.
+Demander exactement deux insights, chacun chiffré et relié aux graphiques, avec une implication métier ou une piste d’action. La question facultative a été retirée pour réduire la charge de travail. Ne pas demander de graphique régional, de comparaison par canal ni de croisement supplémentaire dans cette version.
 
-Le sujet étudiant expose uniquement mission, données et dictionnaire, travail demandé, livrables et question facultative. Il ne comporte pas d’horaires, de barème, d’organisation des passages ni de panneau latéral Jupyter.
+Le sujet étudiant expose uniquement mission, données et dictionnaire, travail demandé et livrables. Il ne comporte pas de durée, d’horaires, de barème, d’organisation des passages ni de panneau latéral Jupyter.
 
 ## Régénération et vérification
 

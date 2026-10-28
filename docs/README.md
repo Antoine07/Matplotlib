@@ -10,7 +10,7 @@ Le classeur utilisé est `data/sample_-_superstore.xls`, feuille `Orders`. Il co
 
 - QCM de réactivation, puis [découverte de cinq graphiques](supports/00_decouvrir_graphiques.html) sur de petits DataFrames fictifs.
 - Blocs 01 à 04 : socle du matin, de la vérification des données à la variation mensuelle.
-- TP en binômes : 14 h–15 h 30.
+- TP en binômes : deux graphiques et deux insights.
 - Cumuls, moyenne mobile et boxplots : approfondissements autonomes.
 
 Les cours ne lient pas de notebook prérempli. Les apprenants ouvrent JupyterLab et créent leur propre notebook. Les corrections formateur restent dans `formateur/notebooks/`, hors de la sandbox.
@@ -41,6 +41,6 @@ Le parcours conserve 21 exercices autonomes dans les blocs 01 à 06. Le bloc [Qu
 
 ## Données du TP Power BI
 
-Le TP utilise un autre jeu, fictif : [ventes_reseau_powerbi.csv](data/ventes_reseau_powerbi.csv). Il décrit les ventes 2025 du réseau Nova par date, région, canal, catégorie et produit. Le chiffre d’affaires et le coût d’achat, exprimés en euros HT, permettent de calculer une marge commerciale. Les apprenants créent quatre graphiques avec Pandas et Matplotlib et rédigent exactement deux insights chiffrés pour préparer un futur tableau de bord Power BI.
+Le TP utilise un autre jeu, fictif : [ventes_reseau_powerbi.csv](data/ventes_reseau_powerbi.csv). Il décrit les ventes 2025 du réseau Nova par date, région, canal, catégorie et produit. Le chiffre d’affaires et le coût d’achat, exprimés en euros HT, permettent de calculer une marge commerciale. Les apprenants créent deux graphiques avec Pandas et Matplotlib et rédigent exactement deux insights chiffrés pour préparer un futur tableau de bord Power BI.
 
 Les données se régénèrent avec `python scripts/generer_donnees_tp.py` (graine fixe `20261027`). `python scripts/construire.py` copie le CSV dans la sandbox et régénère le sujet et les corrections formateur.
