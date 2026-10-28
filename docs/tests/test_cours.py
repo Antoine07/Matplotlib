@@ -265,6 +265,8 @@ class TeachingAssetTests(unittest.TestCase):
         self.assertEqual(positions, sorted(positions))
         self.assertLess(page.index('href="qcm/reactivation_00.html"'), page.index('href="supports/01_explorer.html"'))
         self.assertLess(page.index('href="supports/04_temps_et_variations.html"'), page.index('href="qcm/qcm_matin.html"'))
+        self.assertLess(page.index('href="supports/04_temps_et_variations.html"'), page.index('href="supports/questions_maths.html"'))
+        self.assertLess(page.index('href="supports/questions_maths.html"'), page.index('href="qcm/qcm_matin.html"'))
         self.assertIn('16 questions', page)
         self.assertIn('15 questions', page)
         for filename in ['01_explorer', '02_comparer', '03_rentabilite']:

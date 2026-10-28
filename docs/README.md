@@ -37,7 +37,7 @@ La feuille CSS `site.css` et la feuille de thème `tableau.css` sont conservées
 
 ## Progression des exercices
 
-Le parcours conserve 21 exercices autonomes. Le bloc 01 travaille les comptages annuels ; les regroupements mensuels commencent au bloc 04. Dans le bloc 02, une part du total précède la comparaison de deux contributions. Les exercices du bloc 03 appliquent les indicateurs à des sous-catégories, des segments et une région filtrée. Le bloc 05 fait changer de référence et recommencer les cumuls sur une année réelle. Les consignes étudiantes ne contiennent ni amorce de code ni correction sous les exercices.
+Le parcours conserve 21 exercices autonomes dans les blocs 01 à 06. Le bloc [Questions maths](supports/questions_maths.html), placé entre le bloc 04 et le QCM de synthèse, ajoute six questions sans corrigé : quatre fondamentales et deux approfondissements facultatifs. Le bloc 01 travaille les comptages annuels ; les regroupements mensuels commencent au bloc 04. Dans le bloc 02, une part du total précède la comparaison de deux contributions. Les exercices du bloc 03 appliquent les indicateurs à des sous-catégories, des segments et une région filtrée. Le bloc 05 fait changer de référence et recommencer les cumuls sur une année réelle. Les consignes étudiantes ne contiennent ni amorce de code ni correction sous les exercices.
 
 ## Données du TP Power BI
 

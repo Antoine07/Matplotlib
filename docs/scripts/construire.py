@@ -3,6 +3,7 @@ from hashlib import sha256
 from random import Random
 import html, json
 from discovery_content import DISCOVERY, build_discovery
+from math_questions import MATH_BLOCK, build_math_questions
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = """import pandas as pd
@@ -425,7 +426,11 @@ def code(s): return '<div class="code-block"><span class="code-label">Python · 
 
 def blocks_nav(active=None):
     discovery_link=f'<a href="{DISCOVERY["file"]}.html"'+(' aria-current="page"' if active==DISCOVERY['file'] else '')+f'>Découverte · {DISCOVERY["title"]}</a>'
-    items=''.join(f'<a href="{p["file"]}.html"'+(' aria-current="page"' if p['file']==active else '')+f'>{i:02} · {p["title"]}</a>' for i,p in enumerate(PAGES,1))
+    items=''
+    for i,p in enumerate(PAGES,1):
+        items+=f'<a href="{p["file"]}.html"'+(' aria-current="page"' if p['file']==active else '')+f'>{i:02} · {p["title"]}</a>'
+        if i == 4:
+            items+=f'<a href="{MATH_BLOCK["file"]}.html"'+(' aria-current="page"' if active==MATH_BLOCK['file'] else '')+f'>Application · {MATH_BLOCK["title"]}</a>'
     return discovery_link+items+'<a href="tp_binomes.html">TP en binômes</a>'
 
 def build_page(page, i):
@@ -651,6 +656,7 @@ def build_tp():
 
 def main():
     build_discovery(ROOT, head, foot, code, blocks_nav)
+    build_math_questions(ROOT, head, foot, blocks_nav)
     index=[]
     for i,p in enumerate(PAGES,1):
         p['notebook']={1:'01_exploration.ipynb',2:'02_comparaisons.ipynb',3:'03_rentabilite.ipynb',4:'04_serie_temporelle.ipynb',5:'05_cumuls_avance.ipynb',6:'06_boxplots_avance.ipynb'}[i]
@@ -745,6 +751,7 @@ if(form){
                     card=f'<article class="path-card qcm-path-card"><a class="qcm-course-link" href="supports/{p["file"]}.html"><span class="card-top"><span class="step-number">{i:02}</span><span class="pill">{html.escape(p["group"])}</span></span><h3>{html.escape(p["title"])}</h3><p>{html.escape(p["intro"])}</p><span class="card-bottom">Ouvrir le bloc ↗</span></a><a class="qcm-inline-link" href="qcm/{p["qcm"]}.html">QCM de ce bloc <span aria-hidden="true">→</span></a></article>'
                 path_cards.append(card)
                 if p.get('qcm') == 'qcm_matin':
+                    path_cards.append(f'<a class="path-card" href="supports/{MATH_BLOCK["file"]}.html"><span class="card-top"><span class="step-number">∑</span><span class="pill">Application</span></span><h3>{html.escape(MATH_BLOCK["title"])}</h3><p>{html.escape(MATH_BLOCK["intro"])}</p><span class="card-bottom">Ouvrir les six questions ↗</span></a>')
                     path_cards.append('<article class="path-card qcm-path-card"><div class="qcm-card-content"><span class="card-top"><span class="step-number">05</span><span class="pill">Synthèse du socle</span></span><h3>QCM de synthèse</h3><p>Vérifiez les acquis des blocs 01 à 04.</p><span class="card-bottom">15 questions</span></div><a class="qcm-inline-link" href="qcm/qcm_matin.html">Faire le QCM <span aria-hidden="true">→</span></a></article>')
             groups.append(f'<section class="home-path-section"><div class="section-heading"><div><p class="eyebrow">Parcours</p><h2>{label}</h2></div></div><nav class="path-grid">'+''.join(path_cards)+'</nav></section>')
     groups.append('<section class="home-path-section"><div class="section-heading"><div><p class="eyebrow">Sujet</p><h2>TP en binômes</h2></div></div><a class="path-card" href="supports/tp_binomes.html"><h3>Préparer un tableau de bord Power BI</h3><p>Un nouveau jeu de données, quatre graphiques et deux insights chiffrés.</p><span class="card-bottom">Ouvrir le TP ↗</span></a></section>')
@@ -811,7 +818,7 @@ if(form){
 ''')
     (ROOT/'README.md').write_text('''# Le labo Matplotlib — parcours Superstore\n\nLe support source est [l’accueil du parcours](index.html). Il reprend les couleurs, la typographie et les composants TABLEAU (`site.css` et `tableau.css`, copiés sans modification), sans en reprendre les leçons. Le style complémentaire reste dans `assets/course.css`.\n\n## Données\n\nLe classeur utilisé est `data/sample_-_superstore.xls`, feuille `Orders`. Il contient 10 194 lignes et 21 colonnes ; une ligne décrit une ligne de commande, et un même Order ID peut se répéter.\n\n## Parcours\n\n- QCM de réactivation, puis [découverte de cinq graphiques](supports/00_decouvrir_graphiques.html) sur de petits DataFrames fictifs.\n- Blocs 01 à 04 : socle du matin, de la vérification des données à la variation mensuelle.\n- TP en binômes : 14 h–15 h 30.\n- Cumuls, moyenne mobile et boxplots : approfondissements autonomes.\n\nLes cours ne lient pas de notebook prérempli. Les apprenants ouvrent JupyterLab et créent leur propre notebook. Les corrections formateur restent dans `formateur/notebooks/`, hors de la sandbox.\n\n## Lancer JupyterLab avec Docker\n\nDepuis la racine du dépôt :\n\n```bash\ncd sandbox-notebook\ndocker compose up --build -d\ndocker compose logs notebook\n```\n\nOuvrir http://localhost:8890/lab et utiliser le jeton affiché dans les journaux. Le classeur Superstore est monté en lecture seule sous `/workspace/data`; les exports vont dans `/workspace/resultats`. Le lecteur `xlrd` est nécessaire à la lecture du `.xls`.\n\n## Régénérer les supports\n\n```bash\npython scripts/construire.py\n```\n\nLa feuille CSS `site.css` et la feuille de thème `tableau.css` sont conservées à l’identique.\n''',encoding='utf8')
     with (ROOT/'README.md').open('a',encoding='utf8') as readme:
-        readme.write('''\n## Progression des exercices\n\nLe parcours conserve 21 exercices autonomes. Le bloc 01 travaille les comptages annuels ; les regroupements mensuels commencent au bloc 04. Dans le bloc 02, une part du total précède la comparaison de deux contributions. Les exercices du bloc 03 appliquent les indicateurs à des sous-catégories, des segments et une région filtrée. Le bloc 05 fait changer de référence et recommencer les cumuls sur une année réelle. Les consignes étudiantes ne contiennent ni amorce de code ni correction sous les exercices.\n''')
+        readme.write('''\n## Progression des exercices\n\nLe parcours conserve 21 exercices autonomes dans les blocs 01 à 06. Le bloc [Questions maths](supports/questions_maths.html), placé entre le bloc 04 et le QCM de synthèse, ajoute six questions sans corrigé : quatre fondamentales et deux approfondissements facultatifs. Le bloc 01 travaille les comptages annuels ; les regroupements mensuels commencent au bloc 04. Dans le bloc 02, une part du total précède la comparaison de deux contributions. Les exercices du bloc 03 appliquent les indicateurs à des sous-catégories, des segments et une région filtrée. Le bloc 05 fait changer de référence et recommencer les cumuls sur une année réelle. Les consignes étudiantes ne contiennent ni amorce de code ni correction sous les exercices.\n''')
         readme.write('''\n## Données du TP Power BI\n\nLe TP utilise un autre jeu, fictif : [ventes_reseau_powerbi.csv](data/ventes_reseau_powerbi.csv). Il décrit les ventes 2025 du réseau Nova par date, région, canal, catégorie et produit. Le chiffre d’affaires et le coût d’achat, exprimés en euros HT, permettent de calculer une marge commerciale. Les apprenants créent quatre graphiques avec Pandas et Matplotlib et rédigent exactement deux insights chiffrés pour préparer un futur tableau de bord Power BI.\n\nLes données se régénèrent avec `python scripts/generer_donnees_tp.py` (graine fixe `20261027`). `python scripts/construire.py` copie le CSV dans la sandbox et régénère le sujet et les corrections formateur.\n''')
     shared=ROOT.parent/'sandbox-notebook'
     for filename in ('sample_-_superstore.xls',TP['data_file']):

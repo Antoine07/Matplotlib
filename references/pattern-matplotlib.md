@@ -8,6 +8,7 @@ Lire cette référence pour modifier ce projet ou reprendre ses choix concrets d
 - `docs/scripts/construire.py` génère les pages HTML, les QCM, les styles complémentaires et les notebooks formateur.
 - `docs/scripts/lesson_content.py` définit les séquences effectivement affichées et leurs exercices ; elles remplacent certaines définitions historiques présentes dans le générateur.
 - `docs/scripts/discovery_content.py` définit la présentation de cinq graphiques : petits DataFrames fictifs, code commenté, tableaux et illustrations SVG calculés sur les mêmes données.
+- `docs/scripts/math_questions.py` définit les six questions maths sur Superstore, sans code de solution ni correction.
 - `docs/scripts/tp_content.py` contient le sujet, les données attendues, les quatre visuels, les deux insights de correction et la question facultative du TP.
 - `docs/scripts/generer_donnees_tp.py` génère le CSV fictif du TP avec une graine fixe.
 - `docs/assets/site.css` et `docs/assets/tableau.css` portent la charte TABLEAU existante.
@@ -33,6 +34,8 @@ Après le QCM de réactivation, le bloc « Découvrir cinq graphiques » présen
 | 06 — Explorer les distributions | Quartiles, changement de grain, moyenne et médiane | 3 |
 
 Le parcours contient 21 exercices. Le socle correspond aux blocs 01 à 04 ; les deux suivants sont des approfondissements. Le comptage par mois commence au bloc 04. Les parts simples précèdent la comparaison des parts de deux mesures.
+
+Un bloc « Questions maths » s’ajoute après le bloc 04 et avant le QCM de synthèse, dans l’accueil et la navigation. Il contient six questions : part régionale du CA, taux de profit par catégorie, évolution annuelle, panier moyen, taux de profit cumulé et moyenne mobile. Les quatre premières sont fondamentales ; les deux dernières sont facultatives et peuvent être reprises après le bloc 05. Les étudiants écrivent les formules, calculent avec Pandas et représentent avec Matplotlib selon les consignes. Ne pas afficher de formule résolue, de code, d’indice, de résultat ou de lien de correction dans ce bloc. Ne pas lui générer de notebook ni de correction formateur. Les 21 exercices des blocs existants sont conservés.
 
 Les exercices changent de mesure, de regroupement ou de période par rapport à l’exemple : clients par année après commandes par année, segments après régions, pertes d’une région après bilan global, cumuls recommencés sur une année après cumul de toute la période.
 
@@ -74,7 +77,7 @@ JupyterLab s’ouvre à `http://localhost:8890/lab`. Les liens ne pointent pas s
 ## QCM du parcours
 
 - Réactivation de 16 questions avant le premier bloc : bases Pandas et Matplotlib, distinction Series/DataFrame, regroupement sur deux champs et trois questions sur figsize, les DPI et les repères de taille des graphiques.
-- Un QCM de synthèse de 15 questions après l’ensemble des blocs 01 à 04.
+- Un QCM de synthèse de 15 questions après les blocs 01 à 04 et le bloc « Questions maths ».
 - Un QCM d’approfondissement de 8 questions après le bloc 06.
 
 Tous utilisent le même moteur : une question visible, réponse verrouillée après le choix, feedback explicatif, passage à la suivante, bilan final. Le bouton « Recommencer » est masqué pendant toutes les questions et devient visible uniquement au bilan. Après remise à zéro, il est à nouveau masqué.

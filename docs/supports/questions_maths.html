@@ -1,0 +1,43 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f7f8f2"><title>Questions maths — Le labo Matplotlib</title><link rel="stylesheet" href="../assets/site.css"><link rel="stylesheet" href="../assets/tableau.css"><link rel="stylesheet" href="../assets/course.css"></head><body><a class="skip-link" href="#contenu">Aller au contenu</a><header class="site-header"><a class="brand" href="../index.html"><span class="brand-icon" aria-hidden="true">mp.</span> Le labo Matplotlib</a><a class="back-link" href="../index.html">← Le parcours</a></header><main class="course-main" id="contenu">
+<div class="course-intro"><p class="eyebrow">Après le bloc 04 · Avant le QCM de synthèse</p><h1>Questions maths</h1><p>Six calculs appliqués à Superstore : des parts et des taux jusqu’aux indicateurs temporels.</p></div>
+<div class="course-layout">
+<nav class="course-nav" aria-label="Navigation des questions"><p class="eyebrow">Dans ce bloc</p><a href="#part-region">01 · La part du chiffre d’affaires par région</a><a href="#taux-profit">02 · Le taux de profit sur ventes</a><a href="#evolution-annuelle">03 · Le taux d’évolution annuel</a><a href="#panier-moyen">04 · Le panier moyen</a><a href="#profit-cumule">05 · Le taux de profit cumulé</a><a href="#moyenne-mobile">06 · La moyenne mobile</a><a href="#suite">QCM de synthèse</a><hr><p class="eyebrow">Le parcours</p><a href="00_decouvrir_graphiques.html">Découverte · Découvrir cinq graphiques</a><a href="01_explorer.html">01 · Explorer les commandes</a><a href="02_comparer.html">02 · Agréger et comparer</a><a href="03_rentabilite.html">03 · Comparer ventes et profit</a><a href="04_temps_et_variations.html">04 · Lire l’évolution mensuelle</a><a href="questions_maths.html" aria-current="page">Application · Questions maths</a><a href="05_cumuls.html">05 · Approfondir les cumuls</a><a href="06_distributions.html">06 · Explorer les distributions</a><a href="tp_binomes.html">TP en binômes</a></nav>
+<div class="course-content"><section class="course-section" id="consignes"><p class="eyebrow">Superstore · Feuille Orders</p><h2>Formuler, calculer et interpréter</h2><p>Utilisez le DataFrame <code>orders</code> du cours. Pour chaque question, écrivez d’abord la formule mathématique, puis traduisez votre calcul en Pandas et réalisez la représentation demandée avec Matplotlib. Les montants restent exprimés dans l’unité monétaire du fichier.</p><p>Les questions 01 à 04 constituent les fondamentaux. Les questions 05 et 06 sont des approfondissements facultatifs, que vous pouvez reprendre après le bloc 05 sur les cumuls et la moyenne mobile.</p></section><section class="course-section" id="part-region">
+<p class="eyebrow">Question 01 · Fondamentaux</p>
+<h2>La part du chiffre d’affaires par région</h2>
+<p><strong>Quelle proportion des ventes totales représente chaque région ?</strong></p>
+<ol><li>Calculez la part du chiffre d’affaires de chaque région, en pourcentage.</li><li>Représentez les quatre parts avec un graphique à barres horizontales.</li><li>Vérifiez que la somme des parts est égale à 100 %, avant l’arrondi d’affichage.</li></ol>
+<p><strong>À rendre :</strong> La formule, un tableau des parts, le graphique et une phrase de comparaison.</p>
+</section><section class="course-section" id="taux-profit">
+<p class="eyebrow">Question 02 · Fondamentaux</p>
+<h2>Le taux de profit sur ventes</h2>
+<p><strong>Quelle catégorie transforme le mieux son chiffre d’affaires en profit ?</strong></p>
+<ol><li>Calculez les ventes totales, le profit total et le taux de profit sur ventes de chaque catégorie.</li><li>Comparez les trois taux avec un graphique à barres.</li><li>La catégorie qui vend le plus a-t-elle aussi le taux de profit sur ventes le plus élevé ? Justifiez votre réponse.</li></ol>
+<p><strong>À rendre :</strong> La formule, un tableau par catégorie, le graphique et une réponse chiffrée.</p>
+</section><section class="course-section" id="evolution-annuelle">
+<p class="eyebrow">Question 03 · Fondamentaux</p>
+<h2>Le taux d’évolution annuel</h2>
+<p><strong>De combien les ventes augmentent-elles ou diminuent-elles chaque année ?</strong></p>
+<ol><li>Calculez le chiffre d’affaires de chaque année, puis son taux d’évolution par rapport à l’année précédente.</li><li>Identifiez l’année présentant la plus forte croissance et celle présentant la croissance la plus faible, parmi les années comparables.</li><li>Expliquez comment vous traitez la première année du fichier.</li></ol>
+<p><strong>À rendre :</strong> La formule, un tableau annuel et les deux années identifiées avec leurs taux.</p>
+</section><section class="course-section" id="panier-moyen">
+<p class="eyebrow">Question 04 · Fondamentaux</p>
+<h2>Le panier moyen</h2>
+<p><strong>Quel est le montant moyen dépensé par commande dans chaque région ?</strong></p>
+<ol><li>Calculez le panier moyen pour l’ensemble du fichier, puis pour chaque région.</li><li>Comparez les résultats régionaux avec un graphique à barres.</li><li>Indiquez quelle région présente le panier moyen le plus élevé et expliquez ce que mesure cet indicateur.</li></ol>
+<p><strong>À rendre :</strong> La formule, le panier moyen global, un tableau régional, le graphique et votre interprétation.</p>
+</section><section class="course-section" id="profit-cumule">
+<p class="eyebrow">Question 05 · Approfondissement facultatif</p>
+<h2>Le taux de profit cumulé</h2>
+<p><strong>Comment évolue le profit rapporté à l’ensemble des ventes accumulées au fil des années ?</strong></p>
+<ol><li>Calculez, à la fin de chaque année, le taux de profit sur toutes les ventes accumulées depuis le début du fichier.</li><li>Représentez ce taux cumulé avec une courbe et décrivez son évolution.</li><li>Expliquez en une phrase ce qui distingue cet indicateur d’un taux de croissance.</li></ol>
+<p><strong>À rendre :</strong> La formule, un tableau annuel, la courbe et deux phrases d’interprétation.</p>
+</section><section class="course-section" id="moyenne-mobile">
+<p class="eyebrow">Question 06 · Approfondissement facultatif</p>
+<h2>La moyenne mobile</h2>
+<p><strong>Comment lire la tendance générale des ventes en réduisant les fluctuations mensuelles ?</strong></p>
+<ol><li>Calculez les ventes mensuelles, puis leur moyenne mobile sur trois mois.</li><li>Superposez les ventes mensuelles et la moyenne mobile dans un même graphique, avec une légende.</li><li>Expliquez pourquoi la courbe de moyenne mobile est généralement moins irrégulière que celle des ventes mensuelles.</li></ol>
+<p><strong>À rendre :</strong> La formule, le graphique avec les deux courbes et une explication du lissage.</p>
+</section><section class="course-section" id="suite"><p class="eyebrow">Suite du parcours</p><h2>QCM de synthèse</h2><p>Poursuivez avec les questions sur les notions des blocs 01 à 04.</p><a class="button primary" href="../qcm/qcm_matin.html">Faire le QCM →</a></section></div>
+<aside class="notebook-panel"><p class="eyebrow">Atelier Jupyter</p><h2>Poursuivre votre notebook</h2><p>Réalisez vos calculs et vos graphiques dans votre notebook de travail.</p><a class="button primary" href="http://localhost:8890/lab" target="_blank" rel="noopener">Ouvrir JupyterLab →</a></aside>
+</div></main><footer class="site-footer"><span>Le labo Matplotlib / NEXA</span><a href="../index.html">Comprendre, puis pratiquer.</a></footer></body></html>
